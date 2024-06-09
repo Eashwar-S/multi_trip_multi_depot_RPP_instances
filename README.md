@@ -4,6 +4,13 @@
 ## Information on the dataset:
 The dataset consists of undirected weighted multi-graphs stored in .pkl or .net formats. These undirected graphs form instances for the multi-trip multi-depot rural postman problem which is solved using the multi-trip algortihm. The dataset consists of instances obtained from the literature and also from real-world road networks. Please refer to networkx python package documentation on how use the instances for your own usecase.
 
+## Dataset names:
+In the references, the dataset names are referred in different way.
+
+1. dearmon instance is referred as Set A instances (Instances obtained and modified from the literature).
+2. icy road instance is referred as Set B instances (Instances generated from real-world road map).
+3. icy road weather instance is referred as Set C instances (Instances generated from real-world road map considering wind conditions).
+
 ## Dataset structure
 ```
 dataset/
