@@ -1,0 +1,784 @@
+*vertices 288
+1 0 -84.56735 42.76974599999999 ellipse
+2 1 -84.555738 42.769715 ellipse
+3 2 -84.5693781 42.7842628 ellipse
+4 3 -84.56751926010992 42.760236255918606 ellipse osmid_original "[184664506, 184585873, 184645653]"
+5 9 -84.556097 42.784228999999996 ellipse
+6 102 -84.54804123632212 42.751562441530865 ellipse osmid_original "[184495866, 184511548, 184495877, 184633086, 450422941]"
+7 10 -84.5427371 42.76967239999998 ellipse
+8 239 -84.579337 42.76355399999999 ellipse
+9 263 -84.55516837181283 42.75292214434065 ellipse osmid_original "[184585775, 184585826, 184585798, 184585819, 3782677082]"
+10 264 -84.56772108789302 42.74861132297655 ellipse osmid_original "[3782639785, 184649666, 3782639836]"
+11 4 -84.5141943 42.7919002 ellipse
+12 5 -84.5116728 42.76607179999999 ellipse highway motorway_junction ref 79
+13 114 -84.50662852442005 42.76075060950925 ellipse osmid_original "[184499372, 184499778, 184504301, 184499842, 184522071, 184559160, 184521990, 184521978, 8677510250, 1496872294, 184584061, 4403179700, 4403179704, 4403179707]"
+14 6 -84.607631 42.772600999999995 ellipse
+15 7 -84.60052 42.76949299999999 ellipse highway traffic_signals
+16 240 -84.6028129 42.76279929999998 ellipse
+17 8 -84.5427308 42.7841564 ellipse highway traffic_signals
+18 11 -84.523081 42.784125 ellipse highway traffic_signals
+19 15 -84.54474338449013 42.75408679673788 ellipse osmid_original "[184614941, 184650934, 184551295, 184650936, 184520460, 1840915662]"
+20 16 -84.5230205 42.76963089999999 ellipse highway traffic_signals
+21 13 -84.50858109999861 42.78411240002979 ellipse osmid_original "[281627099, 496153357]"
+22 12 -84.4836067 42.7856091 ellipse
+23 14 -84.483711 42.759291000000005 ellipse highway traffic_signals
+24 243 -84.5082711 42.782154099999985 ellipse
+25 111 -84.47586599731207 42.75806300091406 ellipse osmid_original "[184498918, 184498936]"
+26 246 -84.493551 42.75983899999999 ellipse highway traffic_signals
+27 247 -84.483728 42.74685689999998 ellipse highway traffic_signals
+28 274 -84.52986966391938 42.76075967201996 ellipse osmid_original "[1555914952, 1555914966, 8246873113, 8677032617, 1555914968, 8677032624]"
+29 101 -84.5455567822889 42.74817659733416 ellipse osmid_original "[184495831, 184530525, 184511504, 184530528]"
+30 275 -84.52290415008373 42.762749300007954 ellipse osmid_original "[1555917086, 1555917123]"
+31 17 -84.5083867 42.7732549 ellipse highway traffic_signals
+32 18 -84.449317 42.76958399999999 ellipse
+33 19 -84.4474891 42.7553187 ellipse highway traffic_signals
+34 87 -84.44560338041519 42.7530191350037 ellipse osmid_original "[2672982896, 184580871, 184562627, 184562628, 2672982937, 184580983, 2672982910, 2672982912, 2672982925, 2672982923]"
+35 112 -84.46235410000001 42.7551995 ellipse highway traffic_signals
+36 20 -84.66277410000001 42.7177066 ellipse
+37 21 -84.6490749 42.7195896 ellipse highway motorway_junction ref 1
+38 26 -84.64251918196662 42.71976301244147 ellipse osmid_original "[184179626, 184179878, 184196524, 184180325, 184180205, 184197571]"
+39 22 -84.657674 42.680111999999994 ellipse highway motorway_junction ref 98A
+40 23 -84.65824145053656 42.672714750529074 ellipse osmid_original "[184176475, 7082575674, 184188931, 3634688979]"
+41 24 -84.65258053110406 42.67691029871248 ellipse osmid_original "[184176726, 184176532, 184189790, 184176741, 184176795, 184189911, 184190049, 184189945]"
+42 44 -84.66191659845008 42.670140574688766 ellipse osmid_original "[184217902, 184218124, 184217903, 184217909, 3634688970]"
+43 29 -84.649184 42.672826999999984 ellipse
+44 25 -84.65529 42.680351 ellipse
+45 30 -84.648116 42.68012100000001 ellipse
+46 27 -84.64823 42.719880999999994 ellipse
+47 35 -84.6423101 42.7265674 ellipse highway traffic_signals
+48 28 -84.63692800000001 42.71960200000001 ellipse
+49 39 -84.642399 42.71207999999999 ellipse highway traffic_signals
+50 36 -84.65633840000001 42.7198638 ellipse highway motorway_junction
+51 40 -84.6106999 42.7206346 ellipse highway motorway_junction ref 3
+52 43 -84.64233049999936 42.68452200000061 ellipse osmid_original "[184283829, 184217919]"
+53 31 -84.60318578753716 42.7204004328111 ellipse osmid_original "[184191734, 184205017, 184191801, 184513376]"
+54 32 -84.6029924 42.72369699999999 ellipse highway traffic_signals
+55 33 -84.596684 42.722282400000005 ellipse
+56 66 -84.60304230000469 42.716431200000564 ellipse osmid_original "[184525444, 184525340]"
+57 38 -84.608832 42.72112990000001 ellipse
+58 59 -84.60297 42.7265589 ellipse highway traffic_signals
+59 132 -84.5841008 42.725860000000004 ellipse
+60 34 -84.635359 42.719899 ellipse highway motorway_junction ref 1B
+61 56 -84.642303 42.733688199999996 ellipse
+62 61 -84.6620376 42.72652349999999 ellipse
+63 58 -84.6227579 42.72657190000001 ellipse highway traffic_signals
+64 37 -84.64818800000002 42.680302 ellipse
+65 48 -84.6227151 42.71208270000001 ellipse
+66 41 -84.66265394972723 42.741054852136536 ellipse osmid_original "[184197790, 184247141]"
+67 63 -84.6620135 42.7334984 ellipse
+68 68 -84.66162731247263 42.755508114685576 ellipse osmid_original "[1555911856, 1555911858, 1555911863]"
+69 53 -84.6423055 42.7410656 ellipse highway traffic_signals
+70 42 -84.6479657 42.673899299999995 ellipse highway motorway_junction ref 98B
+71 45 -84.63754101447452 42.688394882858475 ellipse osmid_original "[184217934, 184244780, 184284296, 184284300, 184244783]"
+72 47 -84.62519334991482 42.70047100002859 ellipse osmid_original "[6073781469, 6073781470]"
+73 67 -84.6053346 42.712053 ellipse
+74 46 -84.60945809999458 42.712066700077344 ellipse osmid_original "[184217973, 184244706]"
+75 49 -84.6222309 42.741020400000004 ellipse highway traffic_signals
+76 50 -84.622515 42.755543799999984 ellipse
+77 51 -84.62039890000001 42.7337523 ellipse highway traffic_signals
+78 52 -84.6029038 42.74105809999999 ellipse highway traffic_signals
+79 54 -84.6028679 42.7482872 ellipse highway traffic_signals
+80 55 -84.6430088 42.755215899999996 ellipse highway traffic_signals
+81 57 -84.6029527 42.73384469999999 ellipse highway traffic_signals
+82 250 -84.58726349992592 42.7410780003089 ellipse osmid_original "[184566639, 184597620]"
+83 140 -84.5876121 42.73382560000001 ellipse highway traffic_signals
+84 60 -84.58396544216191 42.726069784087194 ellipse osmid_original "[184555039, 184493506, 7705369841, 184525528, 184493534, 184496413, 184496435, 184555038, 184497484, 184525524]"
+85 95 -84.5865930347296 42.72389927866991 ellipse osmid_original "[184493557, 184511594, 184511598, 4758184706]"
+86 77 -84.5958502 42.722710899999996 ellipse highway motorway_junction ref 3
+87 138 -84.5821566 42.73381539999999 ellipse
+88 106 -84.56853496363071 42.726009914333765 ellipse osmid_original "[184525488, 184497387, 184498448, 184502286, 184555008, 184525483, 184525485, 184555012]"
+89 164 -84.5697701 42.723272 ellipse
+90 62 -84.6620569 42.68295209999999 ellipse
+91 64 -84.6620535 42.6804328 ellipse
+92 65 -84.6623922166734 42.67388357327078 ellipse osmid_original "[2750143081, 184226084, 2750143391, 2750143092]"
+93 69 -84.6030373 42.7137817 ellipse highway traffic_signals
+94 251 -84.6030514 42.70841819999999 ellipse highway traffic_signals
+95 70 -84.54189165519347 42.72633779357061 ellipse osmid_original "[184488739, 184491823, 184587260, 184497314, 184495975, 184495987, 184614729, 1140705343, 361200181, 184497293, 184496256, 7815114415, 184514213, 2653851265, 184653510, 184497324, 361200244, 184514063, 184521131, 184557374, 184521140, 184644819, 184576522, 184557356, 184576519, 361199975, 361200334, 368283129, 7815114414, 368283255]"
+96 71 -84.5323712 42.726496899999994 ellipse
+97 72 -84.5330721 42.7258896 ellipse
+98 103 -84.55248992637772 42.72594590606128 ellipse osmid_original "[184495993, 184496003, 184497376, 184522196, 184497379, 184509691, 184509698, 184555003, 469786953, 184520500, 184525454, 1140705325, 184522204, 184554987, 184525459, 184525453, 184618102, 184554997]"
+99 265 -84.5411526 42.728785 ellipse
+100 192 -84.5379803 42.7298543 ellipse highway traffic_signals
+101 137 -84.5477456 42.7119183 ellipse highway traffic_signals
+102 280 -84.5380831 42.7174669 ellipse
+103 180 -84.552312228258 42.729202421645994 ellipse osmid_original "[184529681, 184529684, 184618099, 184576545, 184605563]"
+104 189 -84.5456434497107 42.73355170401418 ellipse osmid_original "[184535961, 184535972]"
+105 141 -84.5194772 42.72404439999998 ellipse highway motorway_junction ref 8
+106 104 -84.5223601 42.7228402 ellipse
+107 73 -84.5378601 42.7371511 ellipse
+108 74 -84.5378058 42.740790000000004 ellipse highway traffic_signals
+109 75 -84.54560974963316 42.737182254008054 ellipse osmid_original "[184579950, 184551228]"
+110 76 -84.5379131 42.7335481 ellipse highway traffic_signals
+111 131 -84.50764661617428 42.74111413476106 ellipse osmid_original "[184510892, 184585234, 184510921, 184559105, 184510956, 184510991, 184580841, 184559098, 184518872, 184580829, 184520523, 184565661, 184565674, 184580833, 184581474]"
+112 177 -84.537798 42.74362899999999 ellipse highway traffic_signals
+113 175 -84.54557314967747 42.740801653825265 ellipse osmid_original "[184551250, 184580735]"
+114 218 -84.5506181 42.73721340000001 ellipse highway traffic_signals
+115 191 -84.5224488 42.73358669999999 ellipse highway traffic_signals
+116 78 -84.542945999625 42.66751400007473 ellipse osmid_original "[184489238, 184489279]"
+117 79 -84.54406 42.669289 ellipse highway traffic_signals
+118 224 -84.56293600000001 42.669313 ellipse highway traffic_signals
+119 202 -84.53818 42.669278999999996 ellipse highway traffic_signals
+120 200 -84.54668179945506 42.676545304367615 ellipse osmid_original "[184613783, 184613803]"
+121 80 -84.438675 42.67815499999999 ellipse highway motorway_junction ref 110
+122 81 -84.43284673280151 42.678372080291425 ellipse osmid_original "[184489813, 184491262, 184491220, 184499701, 184499760, 184491912]"
+123 82 -84.43287 42.669307 ellipse
+124 83 -84.424963 42.6778227 ellipse
+125 90 -84.440051 42.67844300000001 ellipse
+126 91 -84.43243 42.68291800000001 ellipse highway traffic_signals
+127 241 -84.462444 42.669438 ellipse
+128 84 -84.5127418 42.7251247 ellipse
+129 85 -84.5158698 42.724245999999994 ellipse
+130 88 -84.52994090000001 42.7263864 ellipse highway motorway_junction ref 7
+131 86 -84.46352806760086 42.747536213965155 ellipse osmid_original "[184491495, 184491510, 184580899, 184513735, 184513738, 184580946, 184607302, 184577014, 184577031, 2630340729]"
+132 133 -84.4716294 42.746907699999994 ellipse
+133 256 -84.4622381 42.740683999999995 ellipse highway traffic_signals
+134 254 -84.447493 42.746959 ellipse highway traffic_signals
+135 244 -84.427628 42.7554 ellipse
+136 245 -84.44058539993223 42.75695320001858 ellipse osmid_original "[2910242569, 2672982945]"
+137 89 -84.4271 42.678214 ellipse highway motorway_junction ref 110
+138 92 -84.4893634 42.6776947 ellipse highway motorway_junction ref 106B
+139 210 -84.462142 42.68283900000001 ellipse highway traffic_signals
+140 252 -84.432394 42.69674899999998 ellipse highway traffic_signals
+141 125 -84.4999418 42.682152800000004 ellipse
+142 126 -84.49549708257096 42.67552430640658 ellipse osmid_original "[184521471, 184506180, 3677047043, 184521610, 184521419, 184521711]"
+143 93 -84.5081669 42.75649400000001 ellipse
+144 94 -84.5085025 42.74525969999999 ellipse highway motorway_junction ref 78
+145 149 -84.510576 42.7373314 ellipse
+146 96 -84.50260214980595 42.72022335034863 ellipse osmid_original "[184494629, 184494646]"
+147 97 -84.5070223236075 42.72395947146771 ellipse osmid_original "[184522434, 184494676, 184587124]"
+148 98 -84.5067986 42.72278339999998 ellipse
+149 118 -84.50992283004506 42.728560469498156 ellipse osmid_original "[184499875, 184502197, 457009208, 184509662, 184505319, 184637321, 184548425, 184509673, 457009207, 184576438, 184576443, 773683619]"
+150 119 -84.5050292 42.720847600000006 ellipse
+151 99 -84.49912174669363 42.67981090054924 ellipse osmid_original "[184495110, 184508037]"
+152 100 -84.4841456 42.67755189999999 ellipse
+153 128 -84.502363 42.67218209999999 ellipse
+154 181 -84.5495678 42.74737139999999 ellipse highway traffic_signals
+155 174 -84.54555685110519 42.743778353942346 ellipse osmid_original "[184527221, 184527241]"
+156 178 -84.5377789 42.747355899999995 ellipse
+157 120 -84.5601995 42.72606689999999 ellipse highway motorway_junction ref 5
+158 110 -84.56069247494212 42.72596592688182 ellipse osmid_original "[184498478, 184524263, 184524250, 8670167445]"
+159 162 -84.55701880007656 42.72935035002963 ellipse osmid_original "[184596053, 184529690]"
+160 163 -84.5525149 42.711936 ellipse highway traffic_signals
+161 173 -84.5232841 42.71186410000001 ellipse highway traffic_signals
+162 193 -84.522521 42.72993410000001 ellipse
+163 105 -84.5756061 42.7259336 ellipse highway motorway_junction ref 5
+164 107 -84.5670839 42.72590299999998 ellipse highway motorway_junction ref 6
+165 108 -84.5755773 42.7261392 ellipse
+166 109 -84.5597773 42.72585919999999 ellipse
+167 130 -84.56711321399106 42.7329298558555 ellipse osmid_original "[184510693, 184510696, 184607864, 184664526, 184522374, 184579333, 184522380, 184579710, 184579704, 184529721, 184544458, 184579323, 184579326, 184579346, 184579714, 184607861]"
+168 121 -84.5682281 42.7261047 ellipse
+169 113 -84.5076838 42.7558043 ellipse highway motorway_junction ref 79
+170 115 -84.5109119 42.76504700000001 ellipse
+171 262 -84.523055 42.760717 ellipse highway traffic_signals
+172 248 -84.4968788 42.760714199999995 ellipse
+173 116 -84.508751 42.721890599999995 ellipse
+174 117 -84.49511623397186 42.72003942433799 ellipse osmid_original "[184662847, 184543755, 184543759, 286327861, 184543896, 1154169731, 1489879849, 184543899, 3059354262, 3059354252, 286327872, 369868186, 369868187, 369868455, 3059354250, 369868456, 3059354254, 3059354249, 3059354251, 3059354253, 3059354255, 3059354256, 3059354258, 3059354257, 3059354259, 3059354260, 3059354261]"
+175 281 -84.48275106090401 42.721214955488676 ellipse osmid_original "[5207408214, 286327765, 286327775, 286327807, 286327770, 286327778, 286327774, 286327800, 286327808]"
+176 171 -84.49381337020004 42.7113814917151 ellipse osmid_original "[184525877, 184525879, 184543713]"
+177 213 -84.493319772522 42.72574145318694 ellipse osmid_original "[184543885, 184620138, 184574560, 1202570878]"
+178 282 -84.5102178 42.7368874 ellipse highway motorway_junction ref 78
+179 129 -84.50804403232867 42.73345556392796 ellipse osmid_original "[184508494, 184509631, 8474130147, 184509634, 8070328489, 184565640, 184523447, 8070245428, 184536062, 4115297562, 184548415, 184548417, 8070328521, 184619024, 4115297574, 8070310237, 8474130143, 8474130159, 4115297564, 4115297567, 8047370816, 4115297575, 8070310275, 8474130154, 8474130148]"
+180 212 -84.4939275 42.728406299999996 ellipse
+181 146 -84.5032823 42.694495700000004 ellipse highway motorway_junction ref 11
+182 122 -84.58671470492921 42.6669998019543 ellipse osmid_original "[184504068, 184579504]"
+183 258 -84.5873498 42.66922859999999 ellipse highway traffic_signals
+184 226 -84.5837496 42.6692268 ellipse highway traffic_signals
+185 123 -84.56763350645731 42.71050789281613 ellipse osmid_original "[184504843, 184579459, 184504856, 184579637, 184579437, 184579445, 184579641, 184579453, 184579463, 458592527, 184579626, 184579465, 184579624, 2748471135, 184579629, 184579639, 2748471129, 458592884]"
+186 124 -84.56758174488574 42.71679416011545 ellipse osmid_original "[184505090, 184505110, 184538113, 184579650, 184538119, 184579425, 184579652, 184579430]"
+187 236 -84.5821954 42.71207759999999 ellipse
+188 233 -84.567463 42.70506000000001 ellipse
+189 229 -84.5673257 42.723256299999996 ellipse
+190 127 -84.50087159245707 42.68932173036571 ellipse osmid_original "[184519968, 184520059, 184520564, 184603487]"
+191 135 -84.492199 42.67087510000001 ellipse
+192 152 -84.4888874 42.6771339 ellipse
+193 148 -84.5029333 42.693816899999995 ellipse
+194 144 -84.505664 42.68963429999999 ellipse
+195 215 -84.4979216002312 42.703868900096865 ellipse osmid_original "[9084185628, 184591522]"
+196 206 -84.498629 42.682861999999986 ellipse highway traffic_signals
+197 147 -84.49419084771486 42.73364854398989 ellipse osmid_original "[184519253, 184521819, 184519266, 1487329093, 184521825, 184543843, 4462480708, 184543857, 184618951, 184619056, 4462480711, 8474130170]"
+198 139 -84.57714200010379 42.73420115001561 ellipse osmid_original "[184609413, 184539124]"
+199 159 -84.56005150000001 42.7326187 ellipse highway traffic_signals
+200 160 -84.56010180018457 42.729375750031835 ellipse osmid_original "[184524238, 184524242]"
+201 221 -84.5672275 42.740926300000005 ellipse highway traffic_signals
+202 219 -84.5600182 42.737264599999996 ellipse highway traffic_signals
+203 242 -84.4936351 42.7447522 ellipse highway traffic_signals
+204 216 -84.4935579 42.73791539999999 ellipse highway traffic_signals
+205 249 -84.5230791 42.743218100000014 ellipse
+206 261 -84.5086818 42.7442454 ellipse
+207 134 -84.5009579 42.67247109999999 ellipse highway motorway_junction ref 106A
+208 136 -84.48016235028946 42.668691250051424 ellipse osmid_original "[184659168, 184658293]"
+209 151 -84.49018700000002 42.670297099999985 ellipse highway motorway_junction ref 73A
+210 198 -84.5480492 42.690167 ellipse
+211 279 -84.53812794999915 42.711899450019494 ellipse osmid_original "[2748447174, 184650205]"
+212 211 -84.5771311 42.741030599999995 ellipse highway traffic_signals
+213 142 -84.512009 42.723979500000006 ellipse highway motorway_junction ref 9
+214 143 -84.5029575 42.685996 ellipse
+215 145 -84.5134023 42.68683119999999 ellipse
+216 278 -84.5233965 42.6900769 ellipse highway traffic_signals
+217 205 -84.513426 42.682937 ellipse highway traffic_signals
+218 153 -84.4939444 42.72958020000001 ellipse
+219 183 -84.48206023297509 42.73457225469023 ellipse osmid_original "[184530648, 184530954, 184618917, 184530651, 184530658, 184530661, 1249550437, 184530667, 184530953, 184585255, 184561931, 184575588, 184618932, 184619065, 8861636894, 8861636898, 184643373]"
+220 150 -84.5044034 42.71916000000001 ellipse highway motorway_junction ref 9
+221 154 -84.47224305600801 42.732014451087 ellipse osmid_original "[184522261, 184522264, 8670215820, 184530677, 184530681, 8670215819, 184585263, 8670215811]"
+222 155 -84.47200569996906 42.729791300044845 ellipse osmid_original "[8726832580, 8726832575]"
+223 185 -84.46211920016766 42.72855615005179 ellipse osmid_original "[288235817, 184642574]"
+224 228 -84.47121628043931 42.725751633231795 ellipse osmid_original "[184622523, 1132183890, 1132183879, 184641369, 5108553604]"
+225 156 -84.42753552424882 42.71644587360857 ellipse osmid_original "[184522886, 470650533, 184522894, 184568734, 4183510675, 470650535, 4183510668, 4183510681]"
+226 157 -84.42014 42.720584999999986 ellipse highway traffic_signals
+227 158 -84.427489 42.72209 ellipse highway traffic_signals
+228 166 -84.430758 42.7143913 ellipse
+229 188 -84.442247 42.724568 ellipse
+230 195 -84.427572 42.72703700000001 ellipse highway traffic_signals
+231 161 -84.5569869 42.73259809999999 ellipse
+232 266 -84.5569515 42.7346344 ellipse highway traffic_signals
+233 190 -84.5522587091765 42.7335963565053 ellipse osmid_original "[4082276099, 184607852, 184618095, 184605560, 184604585, 184605556, 1133054754, 1133054709, 1133054785, 1133054738, 1133054764, 1133054790]"
+234 231 -84.5644153 42.697487200000005 ellipse highway traffic_signals
+235 165 -84.4313867696239 42.71155720539756 ellipse osmid_original "[184525792, 1832032286, 184568696]"
+236 167 -84.462059 42.71180499999999 ellipse highway traffic_signals
+237 168 -84.461921 42.697309 ellipse highway traffic_signals
+238 169 -84.46221809986869 42.717528600060106 ellipse osmid_original "[4183506002, 4183505998]"
+239 170 -84.478209 42.71178 ellipse highway traffic_signals
+240 253 -84.44721233232542 42.697366662953335 ellipse osmid_original "[1425861322, 1425861062, 1425860857, 1425861247, 1425860949, 1425861260]"
+241 284 -84.46223334997973 42.72048635006263 ellipse osmid_original "[3831285870, 3831285871]"
+242 172 -84.47790670011507 42.7256160000139 ellipse osmid_original "[184549521, 184549519]"
+243 214 -84.493877 42.70456099999999 ellipse
+244 227 -84.48262134914657 42.72566963508454 ellipse osmid_original "[184577095, 184577081, 285717630]"
+245 176 -84.5509181 42.7434422 ellipse
+246 267 -84.5537834 42.7434636 ellipse
+247 179 -84.527279764445 42.7433274498694 ellipse osmid_original "[184527341, 3873431362, 184530616]"
+248 182 -84.5552903 42.7487208 ellipse highway traffic_signals
+249 184 -84.4837568 42.7407006 ellipse highway traffic_signals
+250 186 -84.447357 42.725353 ellipse highway traffic_signals
+251 276 -84.46223834080806 42.7240784151212 ellipse osmid_original "[184641347, 184641350, 184641398, 1132079558, 1132079547, 7630852324, 7630852328]"
+252 187 -84.44769483198026 42.74081698785008 ellipse osmid_original "[5022890457, 5022890437, 5022890438, 5022890440, 5446842709, 5022890441, 5446842714, 5446842716]"
+253 194 -84.5224212 42.738421699999996 ellipse
+254 196 -84.427595 42.74702150000001 ellipse highway traffic_signals
+255 197 -84.548068 42.682997 ellipse highway traffic_signals
+256 199 -84.538178 42.683011 ellipse highway traffic_signals
+257 201 -84.56278250000001 42.68301999999999 ellipse
+258 203 -84.5381029 42.6901364 ellipse
+259 235 -84.567529 42.691166999999986 ellipse highway traffic_signals
+260 204 -84.5234458 42.682927 ellipse highway traffic_signals
+261 222 -84.56291590000001 42.67653349999999 ellipse highway traffic_signals
+262 225 -84.568132 42.683066 ellipse highway traffic_signals
+263 273 -84.5235569 42.6691925 ellipse
+264 277 -84.5381182 42.7062324 ellipse
+265 207 -84.48411 42.682787999999995 ellipse highway traffic_signals
+266 208 -84.4839823 42.704516299999995 ellipse
+267 209 -84.48394500000002 42.669971999999994 ellipse
+268 255 -84.471853 42.704530999999996 ellipse
+269 257 -84.4887219098319 42.72575371251497 ellipse osmid_original "[285717627, 184612282, 1202570928, 1202570934, 1202570849]"
+270 217 -84.5538541 42.73723520000001 ellipse highway traffic_signals
+271 260 -84.5506077 42.740848499999984 ellipse highway traffic_signals
+272 220 -84.5600408 42.73465110000001 ellipse highway traffic_signals
+273 268 -84.5672321 42.7428969 ellipse highway traffic_signals
+274 270 -84.5599811 42.740885 ellipse highway traffic_signals
+275 223 -84.572156 42.678087000000005 ellipse
+276 259 -84.582406 42.683053999999984 ellipse highway traffic_signals
+277 230 -84.5527182 42.6973976 ellipse highway traffic_signals
+278 232 -84.5673252 42.6974984 ellipse highway traffic_signals
+279 234 -84.582215 42.697584 ellipse highway traffic_signals
+280 237 -84.582305 42.6912253 ellipse
+281 238 -84.6030803 42.69765309999999 ellipse highway traffic_signals
+282 272 -84.6030852 42.6831133 ellipse highway traffic_signals
+283 283 -84.43456194992487 42.76310915002438 ellipse osmid_original "[6008681715, 6259327043]"
+284 271 -84.60301990000002 42.66923779999998 ellipse
+285 269 -84.553812 42.74084690000001 ellipse
+286 286 -84.4312396999452 42.76475515001241 ellipse osmid_original "[6008681717, 6008681716]"
+287 285 -84.4194857 42.677706199999996 ellipse
+288 287 -84.4194897 42.77016079999999 ellipse
+*edges
+1 2 1.0 name "West Sheridan Road" highway tertiary maxspeed "35 mph"
+1 3 1.0 name "Dewitt Road" highway tertiary
+1 4 1.0 name "North Martin Luther King Jr Boulevard" highway tertiary maxspeed "35 mph"
+2 5 1.0 name "Turner Street" highway tertiary
+2 6 1.0 name "Turner Street" highway tertiary
+2 7 1.0 highway tertiary maxspeed "35 mph"
+3 5 1.0 name "West State Road" highway tertiary maxspeed "35 mph"
+4 8 1.0 name "North Grand River Avenue" highway primary maxspeed "45 mph" ref "BL I 96"
+4 9 1.0 name "North Grand River Avenue" highway primary maxspeed "45 mph" ref "BL I 96"
+4 10 1.0 name "North Martin Luther King Jr Boulevard" highway tertiary lanes 4 bridge yes
+5 17 1.0 name "West State Road" highway tertiary maxspeed "35 mph"
+6 29 1.0 highway primary ref "BL I 96" maxspeed "40 mph"
+6 9 1.0 highway primary ref "BL I 96"
+6 154 1.0 name "Turner Street" highway tertiary maxspeed "25 mph" lanes 2
+7 17 1.0 name "Old US-27" highway secondary maxspeed "45 mph" ref "OLD US-27"
+7 19 1.0 highway secondary maxspeed "40 mph"
+8 16 1.0 name "Delta River Drive" highway tertiary maxspeed "35 mph" lanes 2
+8 15 1.0 name "North Grand River Avenue" highway primary maxspeed "45 mph" ref "BL I 96"
+9 248 1.0 name "North Grand River Avenue" highway tertiary maxspeed "30 mph" bridge yes
+10 248 1.0 name "West Willow Street" highway tertiary maxspeed "25 mph"
+10 273 1.0 name "North Martin Luther King Jr Boulevard" highway tertiary maxspeed "30 mph" lanes 4
+10 79 1.0 name "West Willow Street" highway tertiary
+11 12 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2 bridge yes
+12 13 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2
+12 13 1.0 highway motorway_link lanes 1
+13 170 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2
+13 170 1.0 highway motorway_link lanes 1
+13 24 1.0 name "Coolidge Road" highway tertiary maxspeed "35 mph"
+13 111 1.0 name "Coolidge Road" highway tertiary maxspeed "35 mph"
+13 143 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2
+13 143 1.0 highway motorway_link
+13 171 1.0 name "Lake Lansing Road" highway tertiary maxspeed "35 mph"
+13 172 1.0 name "West Lake Lansing Road" highway tertiary
+13 169 1.0 highway motorway_link lanes 1
+13 169 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2
+14 15 1.0 highway primary ref "BL I 96" bridge yes
+15 16 1.0 name "North Waverly Road" highway tertiary maxspeed "45 mph" lanes 4
+16 79 1.0 name "North Waverly Road" highway tertiary maxspeed "45 mph" lanes 4 bridge yes
+17 18 1.0 name "East State Road" highway tertiary
+18 20 1.0 name "Wood Road" highway tertiary
+18 21 1.0 name "East State Road" highway tertiary maxspeed "55 mph" bridge yes
+19 28 1.0 name "Lake Lansing Road" highway tertiary maxspeed "30 mph"
+19 29 1.0 name "North Larch Street" highway secondary maxspeed "40 mph" bridge yes
+20 30 1.0 name "Wood Street" highway tertiary maxspeed "45 mph"
+20 31 1.0 name "Coleman Road" highway tertiary
+21 22 1.0 name "East State Road" highway tertiary maxspeed "55 mph"
+21 24 1.0 name "Coolidge Road" highway tertiary maxspeed "35 mph"
+22 23 1.0 highway tertiary
+23 25 1.0 name "East Lake Lansing Road" highway tertiary
+23 26 1.0 name "West Lake Lansing Road" highway tertiary
+23 27 1.0 name "Abbot Road" highway tertiary maxspeed 35
+25 35 1.0 name "East Lake Lansing Road" highway tertiary lanes 4
+26 172 1.0 name "West Lake Lansing Road" highway tertiary
+26 203 1.0 name "North Harrison Road" highway tertiary maxspeed "35 mph" lanes 3
+27 132 1.0 name "East Saginaw Street" highway primary maxspeed "45 mph" ref "BL I 69" lanes 5
+27 203 1.0 name "West Saginaw Street" highway primary maxspeed "45 mph" ref "BL I 69" lanes 5
+27 249 1.0 name "Abbot Road" highway tertiary maxspeed "25 mph"
+28 171 1.0 name "Lake Lansing Road" highway tertiary maxspeed "35 mph"
+29 154 1.0 name "East César E. Chávez Avenue" highway tertiary maxspeed "25 mph"
+29 155 1.0 name "North Larch Street" highway primary maxspeed "40 mph" ref "BL I 96"
+29 156 1.0 name "East César E. Chávez Avenue" highway tertiary maxspeed "25 mph"
+30 171 1.0 name "Wood Street" highway tertiary maxspeed "35 mph"
+32 33 1.0 name "Park Lake Road" highway tertiary
+33 34 1.0 name "Park Lake Road" highway tertiary
+33 34 1.0 name "East Lake Lansing Road" highway tertiary lanes 3
+33 35 1.0 name "East Lake Lansing Road" highway tertiary lanes 3
+34 135 1.0 name "East Lake Lansing Road" highway tertiary lanes 3
+34 136 1.0 name "East Saginaw Street" highway primary ref "BL I 69"
+34 134 1.0 name "Park Lake Road" highway tertiary
+34 131 1.0 name "East Saginaw Street" highway primary maxspeed "55 mph" ref "BL I 69"
+35 131 1.0 name "North Hagadorn Road" highway tertiary maxspeed "35 mph" lanes 3
+36 37 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 3
+37 38 1.0 highway motorway_link ref 1 lanes 1
+37 38 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496"
+38 46 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+38 46 1.0 highway motorway_link ref "I 496" lanes 1
+38 47 1.0 name "South Creyts Road" highway tertiary maxspeed "40 mph"
+38 48 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+38 48 1.0 highway motorway_link ref "I 496" lanes 1
+38 49 1.0 name "South Creyts Road" highway tertiary
+38 60 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+38 60 1.0 highway motorway_link ref 1B lanes 1
+39 40 1.0 highway motorway_link lanes 1
+39 41 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+40 42 1.0 name "Lansing Road" highway secondary maxspeed "55 mph"
+40 43 1.0 highway motorway_link lanes 1
+40 41 1.0 name "Lansing Road" highway secondary maxspeed "55 mph"
+41 43 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+41 44 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+41 45 1.0 name "Lansing Road" highway secondary maxspeed "55 mph"
+41 64 1.0 name "Lansing Road" highway secondary maxspeed "55 mph"
+41 70 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+42 92 1.0 name "Canal Road" highway tertiary
+44 64 1.0 highway motorway_link lanes 1
+45 52 1.0 name "Old Lansing Road" highway secondary maxspeed "55 mph"
+45 70 1.0 highway motorway_link lanes 1
+46 50 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+47 61 1.0 name "South Creyts Road" highway tertiary maxspeed "40 mph"
+47 62 1.0 name "West Saint Joseph Highway" highway tertiary maxspeed "45 mph"
+47 63 1.0 name "West Saint Joseph Highway" highway tertiary maxspeed "45 mph"
+48 51 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+49 65 1.0 name "West Mount Hope Highway" highway tertiary maxspeed "50 mph"
+49 52 1.0 name "South Creyts Road" highway tertiary
+51 53 1.0 highway motorway_link ref 3 lanes 1
+51 53 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+52 71 1.0 name "Lansing Road" highway secondary maxspeed "55 mph"
+52 64 1.0 name "Lansing Road" highway secondary maxspeed "55 mph"
+53 54 1.0 name "South Waverly Road" highway tertiary maxspeed "45 mph" lanes 5
+53 55 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+53 55 1.0 highway motorway_link ref "I 496" lanes 1
+53 56 1.0 name "South Waverly Road" highway tertiary lanes 5
+54 57 1.0 highway motorway_link ref "I 496" lanes 1
+54 58 1.0 name "South Waverly Road" highway tertiary maxspeed "45 mph" lanes 5
+54 86 1.0 highway motorway_link lanes 1
+55 59 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+56 85 1.0 name "West Main Street" highway secondary lanes 2 maxspeed "55 mph"
+56 93 1.0 name "South Waverly Road" highway tertiary maxspeed "35 mph" lanes 4
+56 74 1.0 name "Lansing Road" highway secondary maxspeed "55 mph"
+57 60 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+57 86 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+58 63 1.0 name "West Saint Joseph Highway" highway tertiary maxspeed "40 mph"
+58 84 1.0 name "West Saint Joseph Street" highway tertiary
+58 81 1.0 name "South Waverly Road" highway tertiary maxspeed "45 mph" lanes 5
+59 163 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+59 85 1.0 highway motorway_link ref "I 496" lanes 1
+61 77 1.0 name "West Michigan Avenue" highway tertiary
+61 69 1.0 name "South Creyts Road" highway tertiary maxspeed "40 mph"
+61 67 1.0 name "West Michigan Avenue" highway tertiary
+62 90 1.0 name "South Canal Road" highway tertiary lanes 5 bridge yes
+62 67 1.0 name "North Canal Road" highway tertiary maxspeed "45 mph"
+63 77 1.0 name "Snow Road" highway tertiary maxspeed "30 mph" lanes 2
+63 65 1.0 name "Snow Road" highway tertiary maxspeed "45 mph" lanes 2 bridge yes
+65 74 1.0 name "West Mount Hope Highway" highway tertiary maxspeed "50 mph"
+66 67 1.0 name "North Canal Road" highway tertiary maxspeed "45 mph"
+66 68 1.0 name "North Canal Road" highway tertiary maxspeed "45 mph"
+66 69 1.0 name "West Saginaw Highway" highway primary maxspeed "45 mph" ref "BL I 69;M 43"
+68 80 1.0 name "West Willow Highway" highway tertiary maxspeed "45 mph"
+69 80 1.0 name "North Creyts Road" highway tertiary maxspeed "40 mph"
+69 75 1.0 name "West Saginaw Highway" highway primary maxspeed "45 mph" ref "BL I 69;M 43" lanes 5
+71 72 1.0 name "Lansing Road" highway secondary maxspeed "55 mph"
+71 73 1.0 name "Old Lansing Road" highway tertiary maxspeed "45 mph" lanes 2 bridge yes
+72 74 1.0 name "Lansing Road" highway secondary maxspeed "55 mph"
+73 74 1.0 name "West Mount Hope Highway" highway tertiary maxspeed "50 mph"
+73 93 1.0 name "Old Lansing Road" highway tertiary maxspeed "45 mph"
+75 76 1.0 name "Elmwood Road" highway tertiary lanes 2
+75 77 1.0 name "Elmwood Drive" highway tertiary maxspeed "30 mph" lanes 4
+75 78 1.0 name "West Saginaw Highway" highway primary maxspeed "40 mph" ref "BL I 69;M 43"
+76 79 1.0 highway tertiary maxspeed "35 mph" lanes 2
+76 80 1.0 name "West Willow Highway" highway tertiary
+77 81 1.0 name "West Michigan Avenue" highway tertiary
+78 81 1.0 name "North Waverly Road" highway tertiary maxspeed "45 mph" lanes 4
+78 79 1.0 name "North Waverly Road" highway tertiary maxspeed "45 mph" lanes 4
+78 82 1.0 name "West Saginaw Street" highway primary maxspeed "40 mph" ref "BL I 69;M 43" lanes 5
+81 83 1.0 name "West Michigan Avenue" highway tertiary
+82 83 1.0 name "North Rosemary Avenue" highway tertiary maxspeed "30 mph"
+82 212 1.0 name "West Saginaw Street" highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+82 273 1.0 name "West Oakland Avenue" highway primary ref "BL I 69;M 43"
+83 84 1.0 name "South Rosemary Avenue" highway tertiary maxspeed "25 mph"
+83 87 1.0 name "West Michigan Avenue" highway tertiary
+84 85 1.0 name "West Main Street" highway tertiary
+84 85 1.0 name "West Main Street" highway secondary_link lanes 2
+84 86 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+84 87 1.0 name "Clare Street" highway tertiary
+84 88 1.0 name "West Saint Joseph Street" highway secondary
+84 89 1.0 name "Olds Avenue" highway tertiary
+84 165 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+87 198 1.0 name "West Michigan Avenue" highway tertiary lanes 2
+88 165 1.0 highway motorway_link ref "I 496" lanes 1
+88 166 1.0 highway motorway_link ref "I 496" lanes 1 bridge yes
+88 158 1.0 name "West Saint Joseph Street" highway secondary maxspeed "40 mph"
+88 167 1.0 name "South Martin Luther King Junior Boulevard" highway secondary maxspeed "35 mph" ref CL
+88 89 1.0 name "South Martin Luther King Junior Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+88 157 1.0 highway motorway_link ref 5 lanes 1
+88 163 1.0 highway motorway_link ref 5 lanes 1
+88 189 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+89 189 1.0 name "Olds Avenue" highway tertiary
+89 186 1.0 highway secondary maxspeed "45 mph" ref "M 99" lanes 3 bridge yes
+90 91 1.0 name "South Canal Road" highway tertiary lanes 5 bridge yes
+91 92 1.0 name "Canal Road" highway tertiary
+93 94 1.0 name "South Waverly Road" highway tertiary maxspeed "35 mph" lanes 4 bridge yes
+94 281 1.0 name "South Waverly Road" highway tertiary maxspeed "35 mph" lanes 4
+94 187 1.0 highway tertiary maxspeed "35 mph"
+95 96 1.0 highway motorway_link bridge yes
+95 96 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+95 97 1.0 name "Heald Place" highway tertiary
+95 98 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+95 98 1.0 highway motorway_link lanes 1 bridge yes
+95 99 1.0 name "Heald Place" highway tertiary
+95 100 1.0 name "East Kalamazoo Street" highway tertiary
+95 100 1.0 name "South Pennsylvania Avenue" highway secondary maxspeed "30 mph"
+95 101 1.0 name "South Cedar Street" highway primary maxspeed "45 mph" ref "BL I 96" bridge yes
+95 102 1.0 name "South Pennsylvania Avenue" maxspeed "30 mph" lanes 4 bridge yes
+95 103 1.0 name "East Kalamazoo Street" highway tertiary maxspeed "25 mph" bridge yes
+95 104 1.0 name "South Cedar Street" highway primary maxspeed "40 mph" ref "BL I 96;CL"
+95 130 1.0 highway motorway_link lanes 1 bridge yes
+95 130 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+96 105 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+97 106 1.0 highway tertiary
+98 157 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+98 158 1.0 name "West Malcolm X Street" highway secondary maxspeed "40 mph"
+98 159 1.0 name "South Walnut Street" highway tertiary maxspeed "25 mph"
+98 103 1.0 name "South Washington Avenue" highway tertiary lanes 2
+98 103 1.0 name "South Capitol Avenue" highway tertiary lanes 2 maxspeed "25 mph"
+98 160 1.0 name "South Washington Avenue" highway tertiary maxspeed "35 mph" lanes 3 bridge yes
+98 166 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+100 162 1.0 name "East Kalamazoo Street" highway tertiary maxspeed "30 mph"
+100 110 1.0 name "South Pennsylvania Avenue" highway secondary maxspeed "30 mph"
+101 210 1.0 name "South Cedar Street" highway primary ref "BL I 96"
+101 160 1.0 name "East Mount Hope Avenue" highway tertiary maxspeed "30 mph"
+101 211 1.0 name "East Mount Hope Avenue" highway tertiary maxspeed "30 mph"
+102 211 1.0 name "South Pennsylvania Avenue" highway secondary lanes 2 maxspeed "30 mph"
+103 159 1.0 name "West Kalamazoo Street" highway tertiary maxspeed "25 mph"
+103 159 1.0 name "West Lenawee Street" highway tertiary maxspeed "25 mph"
+103 233 1.0 name "South Capitol Avenue" highway tertiary maxspeed "25 mph"
+104 233 1.0 name "East Michigan Avenue" highway secondary maxspeed "30 mph" ref CL bridge yes
+104 110 1.0 name "East Michigan Avenue" highway secondary maxspeed "30 mph"
+104 109 1.0 name "North Cedar Street" highway primary maxspeed "40 mph" ref "BL I 96"
+105 149 1.0 highway motorway_link
+105 213 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+106 161 1.0 name "Aurelius Road" highway tertiary lanes 2 bridge yes
+106 162 1.0 highway tertiary lanes 2 bridge yes
+107 108 1.0 name "North Pennsylvania Avenue" highway secondary maxspeed "30 mph"
+107 109 1.0 name "East Shiawassee Street" highway tertiary maxspeed "25 mph"
+107 110 1.0 name "North Pennsylvania Avenue" highway secondary maxspeed "30 mph"
+108 111 1.0 name "East Saginaw Street" highway primary maxspeed "40 mph" ref "BL I 69;M 43"
+108 112 1.0 name "North Pennsylvania Avenue" highway secondary maxspeed "30 mph"
+108 113 1.0 name "East Saginaw Street" highway primary maxspeed "40 mph" ref "BL I 69;M 43"
+109 113 1.0 name "North Cedar Street" highway primary maxspeed "40 mph" ref "BL I 96"
+109 114 1.0 name "East Shiawassee Street" highway tertiary maxspeed "25 mph" bridge yes
+110 115 1.0 name "East Michigan Avenue" highway secondary maxspeed "30 mph"
+111 203 1.0 name "West Saginaw Street" highway primary maxspeed "45 mph" ref "BL I 69" lanes 5
+111 204 1.0 name "West Grand River Avenue" highway secondary maxspeed "35 mph" ref "M 43"
+111 145 1.0 highway motorway_link
+111 179 1.0 name "North Homer Street" highway tertiary
+111 179 1.0 name "North Clippert Street" highway tertiary lanes 3
+111 205 1.0 name "Grand River Avenue" highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+111 206 1.0 highway motorway_link
+111 144 1.0 name "North Howard Avenue" lanes 2
+111 178 1.0 highway motorway_link lanes 1 bridge yes
+112 156 1.0 name "North Pennsylvania Avenue" highway tertiary maxspeed "30 mph"
+112 155 1.0 name "East Oakland Avenue" highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+112 247 1.0 name "East Oakland Avenue" highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+113 155 1.0 name "North Cedar Street" highway primary maxspeed "40 mph" ref "BL I 96"
+113 271 1.0 name "East Saginaw Street" highway primary maxspeed "35 mph" ref "BL I 69;M 43" bridge yes
+114 271 1.0 name "North Grand Avenue" highway tertiary
+114 270 1.0 highway tertiary maxspeed "25 mph"
+114 233 1.0 name "North Grand Avenue" highway tertiary
+115 179 1.0 name "East Michigan Avenue" highway secondary maxspeed "30 mph"
+115 162 1.0 name "South Clemens Avenue" highway tertiary maxspeed "25 mph"
+115 253 1.0 name "North Clemens Avenue" highway tertiary
+116 117 1.0 name "South Cedar Street" highway primary ref "BL I 96" lanes 5
+117 118 1.0 highway tertiary maxspeed "30 mph"
+117 119 1.0 name "East Miller Road" highway tertiary maxspeed "30 mph"
+117 120 1.0 name "South Cedar Street" highway primary ref "BL I 96"
+118 261 1.0 name "South Washington Avenue" highway tertiary
+118 184 1.0 name "West Miller Road" highway tertiary maxspeed "30 mph"
+119 263 1.0 name "East Miller Road" highway tertiary maxspeed "30 mph"
+119 256 1.0 name "South Pennsylvania Avenue" highway secondary
+120 261 1.0 highway tertiary maxspeed "25 mph"
+120 255 1.0 name "South Cedar Street" highway primary ref "BL I 96"
+121 122 1.0 highway motorway_link lanes 2
+121 122 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+121 152 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+122 123 1.0 name "Okemos Road" highway tertiary maxspeed "55 mph"
+122 124 1.0 highway motorway_link lanes 1
+122 124 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+122 125 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+122 125 1.0 highway motorway_link lanes 1
+122 126 1.0 name "Okemos Road" highway tertiary
+122 137 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+122 137 1.0 highway motorway_link lanes 1
+123 127 1.0 name "Sandhill Road" highway tertiary
+125 138 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+126 139 1.0 name "Jolly Road" highway tertiary
+126 140 1.0 name "Okemos Road" highway tertiary
+127 267 1.0 name "Sandhill Road" highway tertiary
+127 139 1.0 name "Hagadorn Road" highway tertiary maxspeed "55 mph" lanes 1 bridge yes
+128 129 1.0 highway motorway_link lanes 1
+128 149 1.0 highway motorway_link lanes 1
+128 149 1.0 highway motorway_link lanes 1 bridge yes
+129 130 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+129 147 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+131 132 1.0 name "East Saginaw Street" highway primary maxspeed "45 mph" ref "BL I 69" lanes 2
+131 133 1.0 name "North Hagadorn Road" highway tertiary maxspeed "30 mph" lanes 4
+131 134 1.0 name "Haslett Road" highway tertiary lanes 4
+133 223 1.0 name "North Hagadorn Road" highway tertiary maxspeed "30 mph" lanes 4
+133 252 1.0 name "Burcham Drive" highway tertiary maxspeed "25 mph"
+133 249 1.0 name "Burcham Drive" highway tertiary maxspeed "25 mph" lanes 3
+134 252 1.0 name "Park Lake Road" highway tertiary
+134 254 1.0 name "Haslett Road" highway tertiary lanes 4
+135 254 1.0 name "Okemos Road" highway tertiary
+136 283 1.0 name "Saginaw Street" highway primary ref "BL I 69"
+137 287 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+138 141 1.0 highway motorway_link lanes 1
+138 142 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+139 265 1.0 highway tertiary
+139 237 1.0 name "South Hagadorn Road" highway tertiary maxspeed "50 mph"
+140 240 1.0 name "Bennett Road" highway tertiary
+140 235 1.0 name "Okemos Road" highway tertiary
+141 190 1.0 highway motorway maxspeed "70 mph" ref "I 496;US 127" lanes 2 bridge yes
+141 142 1.0 highway motorway maxspeed "70 mph" ref "I 496;US 127" lanes 2 bridge yes
+142 153 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+142 191 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2 bridge yes
+142 192 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+142 151 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2
+142 207 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 3
+142 209 1.0 highway motorway ref "US 127" lanes 2
+143 144 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2
+144 145 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2
+145 149 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2 bridge yes
+146 147 1.0 highway motorway_link lanes 1
+146 147 1.0 highway motorway_link lanes 1
+146 148 1.0 highway motorway_link lanes 1
+146 174 1.0 name "Trowbridge Road" maxspeed "30 mph" lanes 2
+147 149 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2 bridge yes
+147 220 1.0 highway motorway maxspeed "70 mph" ref "I 496;US 127" bridge yes
+148 150 1.0 highway motorway_link maxspeed "70 mph"
+148 213 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" bridge yes
+149 173 1.0 highway motorway_link lanes 1
+149 150 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2
+149 178 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2 bridge yes
+149 179 1.0 name "South Howard Avenue" highway tertiary lanes 3
+149 179 1.0 name "South Clippert Street" highway tertiary maxspeed "25 mph"
+149 180 1.0 highway tertiary maxspeed "35 mph" lanes 2 bridge yes
+149 162 1.0 name "East Kalamazoo Street" highway tertiary maxspeed "30 mph"
+150 181 1.0 highway motorway maxspeed "70 mph" lanes 2 bridge yes
+151 152 1.0 highway motorway_link ref "I 496" lanes 2 bridge yes
+151 153 1.0 highway motorway_link lanes 1
+151 214 1.0 highway motorway maxspeed "70 mph" ref "I 496;US 127" bridge yes
+152 192 1.0 highway motorway maxspeed "70 mph" ref "I 96" lanes 2
+154 248 1.0 highway tertiary bridge yes
+155 245 1.0 name "East Oakland Avenue" highway primary maxspeed "35 mph" ref "BL I 69;M 43" bridge yes
+156 247 1.0 name "East César E. Chávez Avenue" highway tertiary maxspeed "30 mph"
+157 168 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+158 168 1.0 highway motorway_link ref "I 496" lanes 1 bridge yes
+158 164 1.0 highway motorway_link ref 6 lanes 1
+158 200 1.0 name "South Pine Street" highway tertiary maxspeed "25 mph"
+159 200 1.0 name "West Kalamazoo Street" highway tertiary maxspeed "25 mph"
+159 200 1.0 name "West Lenawee Street" highway tertiary
+159 231 1.0 name "South Walnut Street" highway tertiary maxspeed "25 mph"
+160 185 1.0 name "West Mount Hope Avenue" highway tertiary lanes 3
+160 234 1.0 name "South Washington Avenue" highway tertiary maxspeed "35 mph"
+161 176 1.0 name "East Mount Hope Avenue" highway tertiary maxspeed "35 mph"
+161 211 1.0 name "East Mount Hope Avenue" highway tertiary lanes 2 bridge yes
+161 216 1.0 name "Aurelius Road" highway tertiary maxspeed "35 mph"
+163 164 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2 bridge yes
+164 166 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+165 168 1.0 name "Ransom E Olds Freeway" highway motorway maxspeed "70 mph" ref "I 496" lanes 2
+167 198 1.0 name "West Michigan Avenue" highway tertiary
+167 198 1.0 name "West Ottawa Street" highway tertiary
+167 199 1.0 name "West Allegan Street" highway secondary maxspeed "35 mph" ref CL
+167 200 1.0 name "West Kalamazoo Street" highway tertiary maxspeed "25 mph"
+167 201 1.0 name "North Martin Luther King Jr Boulevard" highway tertiary maxspeed "45 mph"
+167 202 1.0 name "West Shiawassee Street" highway tertiary maxspeed "25 mph"
+167 272 1.0 name "West Ottawa Street" highway secondary maxspeed "35 mph" ref CL
+169 206 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2
+171 205 1.0 name "Wood Street" highway tertiary maxspeed "35 mph" lanes 2
+173 174 1.0 name "Trowbridge Road" maxspeed "30 mph" lanes 2
+173 213 1.0 highway motorway_link lanes 1
+174 175 1.0 name "Trowbridge Road" highway tertiary maxspeed "30 mph"
+174 176 1.0 name "South Harrison Road" highway tertiary
+174 177 1.0 name "South Harrison Road" highway tertiary maxspeed "30 mph"
+174 220 1.0 highway motorway_link maxspeed "25 mph" lanes 1 bridge yes
+175 244 1.0 name "Red Cedar Road" highway tertiary maxspeed "25 mph"
+176 239 1.0 name "Mount Hope Road" highway tertiary maxspeed "45 mph" lanes 2
+176 243 1.0 name "South Harrison Road" highway tertiary lanes 2
+177 180 1.0 name "South Harrison Road" highway tertiary
+177 269 1.0 name "West Shaw Lane" highway tertiary maxspeed "25 mph" lanes 2
+178 206 1.0 highway motorway maxspeed "70 mph" ref "US 127" lanes 2 bridge yes
+179 197 1.0 name "Michigan Avenue" highway secondary maxspeed "35 mph" ref "M 143"
+181 194 1.0 highway motorway_link lanes 1
+181 214 1.0 highway motorway maxspeed "70 mph" ref "I 496;US 127" lanes 2
+182 183 1.0 name "Pleasant Grove Road" highway tertiary maxspeed "35 mph" lanes 2
+182 184 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+183 284 1.0 name "West Miller Road" highway tertiary maxspeed "45 mph"
+183 276 1.0 name "Pleasant Grove Road" highway tertiary maxspeed "35 mph" lanes 2
+183 184 1.0 name "West Miller Road" highway tertiary maxspeed "30 mph"
+184 275 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+185 186 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+185 187 1.0 name "West Mount Hope Avenue" highway tertiary lanes 3
+185 188 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+186 189 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99" bridge yes
+187 279 1.0 name "Pleasant Grove Road" highway tertiary maxspeed "30 mph"
+188 278 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+190 193 1.0 highway motorway maxspeed "70 mph" ref "I 496;US 127" lanes 2
+190 193 1.0 highway motorway_link lanes 1
+190 194 1.0 name "Dunckel Road" highway tertiary maxspeed "45 mph" lanes 4 bridge yes
+190 195 1.0 name "Collins Road" highway tertiary
+190 196 1.0 name "Collins Road" highway tertiary
+191 208 1.0 highway motorway ref "US 127" lanes 2 bridge yes
+191 207 1.0 highway motorway_link lanes 1
+192 209 1.0 highway motorway_link lanes 1
+193 220 1.0 name I-496/US-127 highway motorway maxspeed "70 mph" ref "I 496;US 127" bridge yes
+194 215 1.0 name "Dunckel Road" highway tertiary maxspeed "45 mph"
+194 214 1.0 highway motorway_link lanes 1
+195 243 1.0 name "Forest Road" highway tertiary maxspeed "45 mph"
+196 265 1.0 name "East Jolly Road" highway tertiary
+196 217 1.0 name "East Jolly Road" highway tertiary lanes 5
+197 218 1.0 name "South Harrison Road" highway tertiary bridge yes
+197 204 1.0 name "North Harrison Road" highway tertiary maxspeed "25 mph" lanes 3
+197 219 1.0 name "Michigan Avenue" highway secondary maxspeed "35 mph" ref "M 143"
+198 212 1.0 name "North Verlinden Avenue" highway tertiary
+199 200 1.0 name "South Pine Street" highway tertiary maxspeed "25 mph"
+199 231 1.0 name "West Allegan Street" highway secondary maxspeed "35 mph" ref CL
+199 272 1.0 highway tertiary maxspeed "25 mph"
+201 273 1.0 name "North Martin Luther King Jr Boulevard" highway tertiary maxspeed "45 mph"
+201 274 1.0 name "West Saginaw Street" highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+201 212 1.0 name "West Saginaw Street" highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+202 272 1.0 name "North Pine Street" highway tertiary maxspeed "25 mph"
+202 270 1.0 name "West Shiawassee Street" highway tertiary maxspeed "25 mph"
+202 274 1.0 name "North Pine Street" highway tertiary maxspeed "25 mph"
+203 204 1.0 name "North Harrison Road" highway tertiary
+204 219 1.0 name "West Grand River Avenue" highway secondary maxspeed "35 mph" ref "M 43"
+205 247 1.0 name "Grand River Avenue" highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+208 209 1.0 highway motorway ref "US 127" lanes 2 bridge yes
+210 258 1.0 name "East Cavanaugh Road" highway tertiary maxspeed "25 mph"
+210 259 1.0 highway tertiary maxspeed "25 mph"
+210 255 1.0 name "South Cedar Street" highway primary ref "BL I 96"
+211 264 1.0 name "South Pennsylvania Avenue" highway secondary maxspeed "30 mph"
+215 216 1.0 name "East Cavanaugh Road" highway tertiary maxspeed "35 mph"
+215 217 1.0 name "Dunckel Road" highway tertiary maxspeed "45 mph"
+216 258 1.0 name "East Cavanaugh Road" highway tertiary maxspeed "35 mph"
+216 260 1.0 name "Aurelius Road" highway tertiary maxspeed "35 mph"
+217 260 1.0 name "East Jolly Road" highway tertiary lanes 4 bridge yes
+219 249 1.0 name "Abbot Road" highway tertiary maxspeed "25 mph"
+219 221 1.0 name "Grand River Avenue" highway secondary maxspeed "25 mph" ref "M 43"
+221 222 1.0 name "Bogue Street" highway tertiary maxspeed "25 mph"
+221 223 1.0 name "East Grand River Avenue" highway secondary ref "M 43"
+222 224 1.0 name "Bogue Street" highway tertiary maxspeed "25 mph" bridge yes
+223 250 1.0 name "East Grand River Avenue" highway secondary ref "M 43"
+223 251 1.0 name "South Hagadorn Road" highway tertiary
+224 242 1.0 name "South Shaw Lane" highway tertiary maxspeed "25 mph" lanes 2
+224 251 1.0 name "East Shaw Lane" highway tertiary lanes 2
+225 226 1.0 name "Marsh Road" highway tertiary maxspeed "40 mph"
+225 227 1.0 name "Okemos Road" highway tertiary
+225 228 1.0 name "Okemos Road" highway tertiary maxspeed "30 mph"
+226 227 1.0 name "West Grand River Avenue" highway secondary ref "M 43"
+227 229 1.0 name "West Grand River Avenue" highway secondary ref "M 43" lanes 5
+227 230 1.0 name "Okemos Road" highway tertiary
+228 235 1.0 name "Okemos Road" highway tertiary maxspeed "30 mph" bridge yes
+229 250 1.0 highway secondary ref "M 43" bridge yes
+230 254 1.0 name "Okemos Road" highway tertiary
+231 232 1.0 highway tertiary maxspeed "25 mph"
+231 233 1.0 name "West Allegan Street" highway secondary maxspeed "30 mph" ref CL
+232 272 1.0 name "West Ottawa Street" highway secondary maxspeed "35 mph" ref CL
+232 233 1.0 name "West Ottawa Street" highway secondary maxspeed "35 mph" ref CL
+233 270 1.0 name "North Capitol Avenue" highway tertiary maxspeed "25 mph"
+234 277 1.0 name "West Holmes Road" highway tertiary maxspeed "35 mph"
+234 278 1.0 name "West Holmes Road" highway tertiary maxspeed "35 mph"
+235 236 1.0 name "Mount Hope Road" highway tertiary maxspeed "45 mph"
+236 237 1.0 name "South Hagadorn Road" highway tertiary maxspeed "50 mph"
+236 238 1.0 name "South Hagadorn Road" highway tertiary
+236 239 1.0 name "Mount Hope Road" highway tertiary maxspeed "45 mph"
+237 240 1.0 name "Bennett Road" highway tertiary
+238 241 1.0 name "South Hagadorn Road" highway tertiary
+239 242 1.0 name "Farm Lane" highway tertiary
+241 251 1.0 name "South Hagadorn Road" highway tertiary
+242 244 1.0 name "South Shaw Lane" highway tertiary maxspeed "25 mph" lanes 2
+243 266 1.0 name "Forest Road" highway tertiary maxspeed "45 mph"
+244 269 1.0 name "West Shaw Lane" highway tertiary maxspeed "25 mph" lanes 4
+245 246 1.0 highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+245 271 1.0 name "North Grand Avenue" highway tertiary
+246 273 1.0 name "West Oakland Avenue" highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+246 285 1.0 name "North Capitol Avenue" highway tertiary maxspeed "25 mph"
+250 252 1.0 name "Park Lake Road" highway tertiary
+255 256 1.0 name "East Jolly Road" highway tertiary maxspeed "35 mph" lanes 4
+255 257 1.0 highway tertiary maxspeed "35 mph"
+256 258 1.0 name "South Pennsylvania Avenue" highway secondary
+256 260 1.0 name "East Jolly Road" highway tertiary maxspeed "35 mph" lanes 4
+257 262 1.0 name "West Jolly Road" highway tertiary maxspeed "35 mph" lanes 3
+257 261 1.0 name "South Washington Avenue" highway tertiary
+258 264 1.0 name "South Pennsylvania Avenue" highway secondary bridge yes
+259 280 1.0 name "Mary Avenue" highway tertiary maxspeed "25 mph"
+259 278 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+259 262 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+260 263 1.0 name "Aurelius Road" highway tertiary
+261 275 1.0 name "West Northrup Street" highway tertiary maxspeed "25 mph"
+262 276 1.0 name "West Jolly Road" highway tertiary maxspeed 35 lanes 3
+262 275 1.0 name "South Martin Luther King Jr Boulevard" highway secondary maxspeed "45 mph" ref "M 99"
+265 266 1.0 name "College Road" highway tertiary maxspeed "55 mph" lanes 1
+265 267 1.0 name "College Road" highway tertiary maxspeed "55 mph" bridge yes
+266 268 1.0 name "Forest Road" highway tertiary maxspeed "45 mph"
+270 285 1.0 name "North Capitol Avenue" highway tertiary maxspeed "25 mph"
+271 285 1.0 highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+274 285 1.0 name "West Saginaw Street" highway primary maxspeed "35 mph" ref "BL I 69;M 43"
+276 280 1.0 name "Pleasant Grove Road" highway tertiary maxspeed "35 mph" lanes 2
+276 282 1.0 name "West Jolly Road" highway tertiary maxspeed 35 lanes 3
+278 279 1.0 name "West Holmes Road" highway tertiary maxspeed "35 mph"
+279 280 1.0 name "Pleasant Grove Road" highway tertiary maxspeed "35 mph" lanes 2
+279 281 1.0 name "West Holmes Road" highway tertiary maxspeed "35 mph"
+281 282 1.0 name "South Waverly Road" highway tertiary maxspeed "35 mph"
+282 284 1.0 name "South Waverly Road" highway tertiary
+283 286 1.0 name "Saginaw Street" highway primary ref "BL I 69"
+286 288 1.0 highway primary ref "BL I 69"

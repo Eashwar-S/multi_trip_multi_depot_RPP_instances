@@ -1,0 +1,547 @@
+*vertices 192
+1 0 -82.99251509925563 40.14681291257288 ellipse osmid_original "[229578343, 229647867, 229647820, 229647823, 3384648433, 2424369274, 229647864, 3384648432]"
+2 69 -82.9891871500717 40.1430265000203 ellipse osmid_original "[2321350266, 319905481]"
+3 30 -82.9975642 40.1506003 ellipse highway traffic_signals
+4 1 -82.96934435547746 40.14254629766156 ellipse osmid_original "[229579310, 229699942, 229580603, 319906712, 319907673, 230249162, 230008018, 229689621, 229792505, 8539622025, 319908182, 4585070337, 435747688, 5415750599, 229799594, 3892945379, 319906385, 229799785, 229860786, 3627213270, 229837774, 229838296, 319906111, 319906711, 8539622043, 319908176, 4585070358, 4585070357, 319906114, 4585070334, 319906942, 3892945380, 4585070325, 5129099066, 8539622042, 8539622036]"
+5 58 -82.974566 40.11628999999999 ellipse highway motorway_junction ref 119B
+6 172 -82.9696548 40.1543139 ellipse
+7 78 -82.9918224 40.13578619999999 ellipse highway traffic_signals
+8 149 -82.97846649501888 40.125637009926336 ellipse osmid_original "[230007950, 230353211]"
+9 97 -82.95525058655564 40.14664696912315 ellipse osmid_original "[5666577000, 1236930933, 229792452, 229777899, 5666576995, 229792456, 4585070332, 4257039283, 229814377, 5666576985, 1236930770, 5129099065, 5129099061, 1236931021, 4257039281, 5129099091, 4585070331, 5666576984]"
+10 2 -83.0368996862395 40.09029257191446 ellipse osmid_original "[229579933, 229579956, 451003267, 229637675, 319930652, 2656380797, 2656380816]"
+11 3 -83.0353314 40.0855297 ellipse
+12 139 -83.049521 40.09015999999999 ellipse highway traffic_signals
+13 88 -83.04013550614015 40.10724752214282 ellipse osmid_original "[229828249, 229828263]"
+14 84 -83.02038956408413 40.08901385618857 ellipse osmid_original "[229687211, 4592119936, 4592119935]"
+15 33 -83.03610819513575 40.11291383557342 ellipse osmid_original "[229600358, 5047144490, 230338053, 229620765, 6190161020, 2585392876, 1231590696, 2585378715, 230336352, 1837763255, 1231590665, 2585378723, 2585361809, 2585388366, 2585378722, 2585388361, 4741049644, 2656410906, 2585388372, 2656410905]"
+16 188 -83.0355156 40.0809616 ellipse
+17 4 -82.932112 40.10191799999999 ellipse highway motorway_junction ref 29
+18 5 -82.92360594860865 40.10028861952953 ellipse osmid_original "[229593156, 349024753, 229583764, 1457423926, 1457423928, 229583790, 349024123, 229719830, 5666248493, 229741539, 1457423925, 1933964691, 1457423919, 1457423920, 1457423922, 5666248495, 5666248499]"
+19 21 -82.908086 40.09148799999999 ellipse highway motorway_junction ref 30
+20 9 -82.933135 40.102347 ellipse
+21 117 -82.90586685940755 40.10298151173757 ellipse osmid_original "[4322684333, 230293366, 230418717, 5666292855, 5666292854]"
+22 74 -82.92486402230938 40.11061151672881 ellipse osmid_original "[229669958, 229669974, 5666248409, 5666248416]"
+23 131 -82.905639 40.09483099999999 ellipse highway traffic_signals
+24 113 -82.926685 40.08820399999999 ellipse highway traffic_signals
+25 6 -82.9781786998624 40.11016940001533 ellipse osmid_original "[229585340, 229585408]"
+26 7 -82.9809885029199 40.105825350564004 ellipse osmid_original "[229590197, 230251336]"
+27 8 -82.970498 40.109485 ellipse
+28 68 -82.987153 40.091228 ellipse highway motorway_junction ref 117
+29 16 -82.958738 40.107172 ellipse highway motorway_junction ref 27
+30 10 -82.940317 40.103767999999995 ellipse highway motorway_junction ref 27
+31 19 -82.95759604336683 40.10723736245523 ellipse osmid_original "[229627334, 229627323]"
+32 18 -82.94947926886591 40.10631494596619 ellipse osmid_original "[229941473, 229590685, 229613369, 319897671, 229613384, 229895620, 229705112, 229941448, 7975671309]"
+33 11 -82.9887379642475 40.08629839921568 ellipse osmid_original "[229588405, 229588434, 229615771, 334133439, 334133670, 334133414, 334133543, 334133676, 1367044517, 1367044516, 1367044518]"
+34 48 -82.986785 40.091699000000006 ellipse
+35 157 -82.9753581925984 40.086386294205816 ellipse osmid_original "[489263513, 230072826, 489263446]"
+36 146 -82.99548068871077 40.102100436895675 ellipse osmid_original "[229895394, 441998742, 1367044538, 1367044539, 1367044537, 1367044540]"
+37 85 -83.00077060328813 40.088177268456604 ellipse osmid_original "[229840162, 489263595, 2535967571, 489263614]"
+38 12 -83.1234289641874 40.153137118957154 ellipse osmid_original "[229588622, 229827285, 333887060, 229610150, 229610152]"
+39 144 -83.11312800000002 40.132439 ellipse highway traffic_signals
+40 40 -83.132633 40.154109 ellipse highway traffic_signals
+41 43 -83.08847922386374 40.15898959334181 ellipse osmid_original "[229801883, 229611297, 229622709, 5085582982, 229851991, 5085582987, 229852025, 229852344]"
+42 44 -83.1209246 40.1591982 ellipse
+43 13 -82.96981198763508 40.10964051809571 ellipse osmid_original "[229590033, 229590059]"
+44 14 -82.9873 40.110929 ellipse
+45 15 -82.974054 40.116464 ellipse
+46 34 -83.01668935800225 40.11151036015506 ellipse osmid_original "[229603932, 2825089386, 349014728, 229629676, 4741037557, 8097463177, 2825089383, 349015285, 229687280, 4738202508, 8097463180, 349014766, 329166213, 349014508, 2562298950, 4741037571, 349014730, 2960052997, 8097463184, 2562298944, 8097484319, 2562298956, 4583538693, 4583538694, 4583538692, 8097493467]"
+47 17 -82.94290749782023 40.10400100479777 ellipse osmid_original "[230270314, 229596068]"
+48 112 -82.942834 40.110614 ellipse highway traffic_signals
+49 155 -82.96315 40.10718700000001 ellipse
+50 110 -82.938669 40.10157099999999 ellipse
+51 111 -82.95665123201017 40.08554165669491 ellipse osmid_original "[489263357, 489263392, 489263270, 489263355, 489263272, 489263504, 489263492, 489263301, 489263303, 489263332, 489263333, 4567940975, 489263454, 4567941089, 5330157027, 4567940985, 489263386, 4567940972, 489263404, 489263452, 489263408, 4567940968]"
+52 153 -82.948171 40.124750999999996 ellipse highway traffic_signals
+53 20 -82.90597756502152 40.08205551816375 ellipse osmid_original "[229592653, 317522416, 230318873, 229608539, 230269389, 229608542, 229623908, 317519267, 229623953, 317519480, 229632701, 317522308, 317522253, 229632728, 317522181, 317522624, 229633389, 229633382, 229943828, 489263802, 229648065, 229812606, 230318827, 230318810, 230319018, 317522554, 317519668, 5657154336, 317521556, 317522179, 317522180, 317522419, 317522311, 317522252, 489276302]"
+54 143 -82.916777 40.089893999999994 ellipse highway traffic_signals
+55 61 -82.891995 40.09413000000001 ellipse highway traffic_signals
+56 174 -82.9073667 40.08151990000001 ellipse highway motorway_junction ref 33
+57 22 -82.90107199772702 40.17924701529208 ellipse osmid_original "[229597908, 229795527]"
+58 23 -82.901555 40.145745000000005 ellipse
+59 71 -82.912556 40.179993 ellipse highway traffic_signals
+60 70 -82.91996 40.154101 ellipse highway traffic_signals
+61 24 -82.92261658833725 40.146732123874514 ellipse osmid_original "[6567401393, 229648186, 6567365642, 5555462634, 2784273473, 7981236883]"
+62 25 -82.90287180011363 40.13184510000843 ellipse osmid_original "[229632941, 6567709096]"
+63 26 -82.8828522 40.14502509999999 ellipse
+64 64 -82.93160933021512 40.13640157906692 ellipse osmid_original "[229633107, 5877883985, 229633109, 229633115]"
+65 96 -82.94240423790787 40.14614035024331 ellipse osmid_original "[6567365640, 229688476, 6567365639, 229688479, 6567365644, 229714619, 229835614, 5621326996]"
+66 50 -82.892967 40.131672999999985 ellipse
+67 62 -82.9209185 40.1332092 ellipse
+68 161 -82.90351658534695 40.12128104067748 ellipse osmid_original "[229908026, 230052807, 6567709091, 6567709070, 6567709071, 6567709076, 6567709089, 6567709073, 6567709087]"
+69 49 -82.88541440468742 40.130484600670044 ellipse osmid_original "[229619010, 230108314]"
+70 27 -83.13156081232563 40.101006423534976 ellipse osmid_original "[229598161, 1802370935, 3661052021, 349010865, 229659015, 4529234751, 1802378062, 3580775472, 387868504, 229732397, 4478185785, 1802370909, 349010972, 4388591212, 387868443, 387868776, 2308447217, 4529234713, 1802370726, 1802370722, 6927182366, 4388591009, 4491600353, 1802378113, 1831692031, 1802378114, 1831691902, 1831691913, 4567940907, 1831691938, 1831691958, 1831691959, 1831691997, 4567940913, 1831692000, 7975442072, 2674865086, 7975442066, 3580775479, 4529234719, 4478185782, 4529234718, 7975442068]"
+71 28 -83.138341 40.091226999999996 ellipse
+72 133 -83.11053576254815 40.102788700144124 ellipse osmid_original "[387872194, 230009634, 1802378027, 230163599, 387871460, 4388591239, 387871417, 387871821, 1802378054, 4397549075, 7221684951, 1802378070, 4388591096, 4388591092, 4388591012, 4388591038, 4388591052, 4388591076, 4388591056, 4388591065, 4388591070, 4388591134, 4484658829, 7221684961, 4388591129, 4388591143, 4388591139, 4388591178, 4388591146, 4397549072, 4388591180, 4388591209, 4388591241, 4464306841, 4464306843]"
+73 177 -83.14171994999082 40.09094670002111 ellipse osmid_original "[387867206, 387867208]"
+74 108 -83.151612 40.096073 ellipse
+75 124 -83.15692033378077 40.11341932306526 ellipse osmid_original "[229732656, 428997411, 229732727]"
+76 125 -83.13189681434461 40.117637993493894 ellipse osmid_original "[229932412, 3590222542, 230331141, 230331126, 3590222513, 3590222533, 3590222506, 7975489394, 3590222546, 3590222518, 7975489396, 7975489395]"
+77 190 -83.1477351498957 40.09925470010055 ellipse osmid_original "[4491600369, 4491600373]"
+78 179 -83.152397 40.10257500000001 ellipse
+79 72 -83.15965164460012 40.10312802658479 ellipse osmid_original "[229659257, 4396437597, 428996248, 4487781942, 428997404, 428996236, 5611593171, 428996232, 428996233, 428996270, 5611593175, 428996247, 428996266, 428996264, 428996265, 428996271, 428996281, 1802370825, 5085840904, 428996287, 428996338, 428996323, 6006750645, 428996334, 576892997, 576893013, 4487781939, 2331041502, 576893001, 2331041501, 576893009, 4487768039, 2331041479, 576893028, 1802370663, 4487781929, 4487781955, 5085840908]"
+80 173 -83.13860400000002 40.087013 ellipse
+81 159 -83.12284022854405 40.08767248531583 ellipse osmid_original "[1831691971, 1831691990, 1514626540, 1831692004, 1831692021, 1831692027, 1831691966, 1831691918, 1831692030, 1831691976, 4567940923]"
+82 77 -83.09207735972414 40.102853289228335 ellipse osmid_original "[229674565, 5663216239, 1802384347, 319895819, 229740503, 319895867, 229800357, 4265160944, 4265448114, 229990701, 1802384373, 1777148384, 1831736550, 4475236894, 319895869, 457415104, 319896188, 457415112, 319896077, 319895873, 5663288744, 319896068, 457415784, 349012002, 349011964, 319896259, 1933964702, 457415107, 349011957, 349011994, 457415791, 457415111, 457415793, 457415113, 1802387019, 4412487751, 1802384475, 1802384350, 1802384449, 1802386971, 4479394162, 1802386974, 4479394186, 1802386994, 5476714158, 4479394289, 1802386997, 4475236872, 1802387032, 4265273235, 4412487711, 4265448120, 5631790238, 4475236890, 5631790240, 5631790241, 5663216241]"
+83 29 -83.0028936 40.15667289999999 ellipse
+84 31 -83.0184917 40.15689649999999 ellipse highway traffic_signals
+85 32 -82.99498630000865 40.157208550034895 ellipse osmid_original "[6916463405, 6916463409]"
+86 80 -83.00350527691297 40.13642769709043 ellipse osmid_original "[5046840175, 229675175, 229675189, 8244051196, 8244051193, 8244051180, 8244051166, 8244051184, 8244051197, 8244051183]"
+87 59 -83.045751 40.156909 ellipse highway traffic_signals
+88 100 -83.02047921244178 40.167150594064395 ellipse osmid_original "[8341413239, 532299528, 532299491, 8341413243]"
+89 92 -83.01768149989923 40.14570490000974 ellipse osmid_original "[4332097909, 229693050]"
+90 102 -82.992049 40.173942 ellipse highway traffic_signals
+91 135 -83.03537 40.12134339999999 ellipse highway traffic_signals
+92 121 -83.04224689999859 40.116630100000144 ellipse osmid_original "[7173967722, 1231590880]"
+93 89 -82.99800898784267 40.10973168662754 ellipse osmid_original "[9007359650, 450588924, 229960339, 5325068889, 450588931, 5325066855, 9021093976]"
+94 86 -83.01759980000001 40.0960069 ellipse highway traffic_signals
+95 175 -82.9935017 40.1109399 ellipse highway motorway_junction ref 26
+96 151 -83.01483444760095 40.118328998235235 ellipse osmid_original "[230075083, 5085685595, 2585326556, 2585326555]"
+97 90 -83.01627414989751 40.127224900013225 ellipse osmid_original "[229687354, 3743653130]"
+98 35 -82.976813 40.11137699999999 ellipse
+99 36 -82.98025500000001 40.106301999999985 ellipse highway motorway_junction ref 119
+100 37 -82.97790446094164 40.110355513281746 ellipse osmid_original "[229609272, 229615443]"
+101 38 -83.15223675839593 40.14892287854844 ellipse osmid_original "[229609892, 229609896, 229715183, 229624867, 229715528]"
+102 39 -83.142529 40.15167599999999 ellipse
+103 114 -83.14748375004773 40.13725425000745 ellipse osmid_original "[428998106, 230094202]"
+104 57 -83.15491461661648 40.166950181017306 ellipse osmid_original "[229682985, 4866378273, 4866378279, 4866378261, 4866378266, 4866378267, 4866378293, 4866378269, 4866378277]"
+105 41 -83.137127 40.168144999999996 ellipse
+106 42 -83.12653 40.139233999999995 ellipse
+107 105 -83.122702 40.130044999999996 ellipse
+108 60 -83.092816 40.154262 ellipse
+109 46 -83.09148319406177 40.14559496999746 ellipse osmid_original "[229611375, 229745535, 229630249, 229630254, 229851750, 229851717, 229851732]"
+110 47 -83.075389 40.150753 ellipse
+111 51 -83.075185 40.15802 ellipse highway traffic_signals
+112 67 -83.08980120039669 40.16881083583895 ellipse osmid_original "[3371261089, 3371261069, 3371261070, 3371261096, 3371261094, 3371261074]"
+113 137 -83.126043 40.17155300000001 ellipse
+114 45 -83.136801 40.094848 ellipse highway motorway_junction ref 17A
+115 134 -83.089723 40.131640000000004 ellipse highway traffic_signals
+116 55 -83.07288923944198 40.14549743392321 ellipse osmid_original "[5786700116, 7628163714, 229766065, 7167087147, 229766070, 7167087161, 7167087144, 7167087164, 7167087151, 7167087152]"
+117 167 -82.88571404999891 40.11882915002153 ellipse osmid_original "[230052897, 230108213]"
+118 56 -82.892536 40.12012499999999 ellipse
+119 52 -83.074064 40.150974999999995 ellipse
+120 53 -83.077022 40.16963599999999 ellipse
+121 54 -83.060785 40.1575 ellipse highway traffic_signals
+122 119 -83.067252 40.117295999999996 ellipse highway traffic_signals
+123 75 -83.043357 40.14884399999999 ellipse
+124 166 -82.905513 40.09920999999999 ellipse
+125 76 -83.04659779469327 40.175653337174126 ellipse osmid_original "[3156319143, 2045363203, 8160816319, 4729889250, 3156319157, 3156319160, 4729889253, 3156319273, 8160816324]"
+126 115 -82.888477 40.102261999999996 ellipse highway traffic_signals
+127 63 -82.92184 40.121280000000006 ellipse
+128 118 -82.930047 40.12167500000001 ellipse highway traffic_signals
+129 65 -82.931887 40.126666 ellipse
+130 66 -82.939763 40.13668299999999 ellipse
+131 99 -82.938993 40.12579900000001 ellipse
+132 98 -82.94723219340682 40.13788284664579 ellipse osmid_original "[4322677413, 5377312365, 5377312364]"
+133 83 -82.9254997 40.182456499999994 ellipse
+134 127 -83.163188 40.11305500000001 ellipse
+135 180 -83.15846720483623 40.09153416145735 ellipse osmid_original "[576885575, 576885538, 576885578, 576885539]"
+136 181 -83.1523612 40.0990153 ellipse
+137 73 -82.90586114227818 40.1077377862668 ellipse osmid_original "[229669867, 5666292863, 229669879, 5666292845, 5666292846]"
+138 162 -82.90372529999915 40.111777350022194 ellipse osmid_original "[5666292823, 5666292822]"
+139 101 -83.021767 40.17511989999999 ellipse highway traffic_signals
+140 130 -83.08299185195862 40.09835204024961 ellipse osmid_original "[230095391, 4261902054, 230095405, 5663209232, 4265447988]"
+141 120 -83.09238944997492 40.11871569287264 ellipse osmid_original "[229720614, 335826104, 4422835964]"
+142 129 -83.074458 40.10365029999999 ellipse
+143 79 -82.993878 40.126822 ellipse highway traffic_signals
+144 148 -82.99546600000001 40.118842 ellipse highway traffic_signals
+145 81 -83.011364 40.12757299999999 ellipse highway traffic_signals
+146 82 -83.01694 40.135606 ellipse highway traffic_signals
+147 91 -83.01594320000198 40.12238450010129 ellipse osmid_original "[2585326502, 2585326513]"
+148 93 -82.956637 40.18224500000001 ellipse highway traffic_signals
+149 94 -82.9478034 40.156298199999995 ellipse highway traffic_signals
+150 145 -83.003375 40.10090499999999 ellipse
+151 87 -83.0087811 40.10087729999999 ellipse highway traffic_signals
+152 141 -83.0457286 40.10334769999999 ellipse highway traffic_signals
+153 150 -82.9876513 40.1187673 ellipse highway traffic_signals
+154 95 -82.96392910426803 40.182757814519974 ellipse osmid_original "[529158684, 6202267221, 6466111538, 6202267206, 6202267212, 6466111543, 6202267213, 6466111545, 6202267220]"
+155 136 -82.96282397306048 40.17262150786528 ellipse osmid_original "[229777676, 5402835901, 229803778, 5402835888, 5402835817, 5402835891, 5402835887, 8221339392, 5402835907]"
+156 142 -82.97777243635646 40.17333121927147 ellipse osmid_original "[3156346645, 229803812, 8221351932, 3156346598, 3156346576, 8221365857, 6560978673, 3156346618, 3156346611, 3156346639, 3156346646, 8221351929, 3156346967, 3156346969]"
+157 103 -82.948397 40.183097 ellipse
+158 104 -82.970355 40.152387 ellipse highway motorway_junction ref 121
+159 106 -83.126069 40.124009 ellipse
+160 107 -83.119945 40.12338200000001 ellipse
+161 163 -83.13839150331584 40.1220250153906 ellipse osmid_original "[229932505, 229932534]"
+162 132 -83.11818131511971 40.11802158388664 ellipse osmid_original "[229743392, 1101104337, 229743393, 1101104335, 230331078, 1101104332, 1101104328, 1101104334, 1101104347]"
+163 109 -83.1506761 40.0916989 ellipse
+164 184 -83.14985500000063 40.084719000000206 ellipse osmid_original "[577865197, 577865356]"
+165 182 -82.9350182447619 40.08148487305936 ellipse osmid_original "[489263292, 6424517348, 489263294, 4567941095, 489263482, 489263486, 6424517343, 489263275]"
+166 164 -83.14956143739421 40.12734883710612 ellipse osmid_original "[428997448, 428997403, 428997500, 7975489390, 428997407, 7975489387, 7975489388, 428997469, 7975489392, 428997517]"
+167 170 -83.161528 40.138363999999996 ellipse
+168 116 -82.887517 40.10707899999999 ellipse
+169 168 -82.88659924998882 40.11219515002652 ellipse osmid_original "[3377259621, 3377259622]"
+170 122 -83.0639581 40.103835399999994 ellipse highway traffic_signals
+171 123 -83.090094 40.12449800000001 ellipse highway traffic_signals
+172 178 -83.0961895439743 40.114088274163414 ellipse osmid_original "[3332060155, 8038133508, 3332060790, 8038133526]"
+173 152 -83.109714 40.120993999999996 ellipse highway traffic_signals
+174 126 -83.15222664997599 40.11573830002865 ellipse osmid_original "[229798860, 428997418]"
+175 128 -83.15421681325103 40.121728570479426 ellipse osmid_original "[230097869, 230209184, 230097826, 230097844, 2308554425]"
+176 138 -83.1409595 40.118291299999996 ellipse
+177 165 -83.16234800000001 40.119948 ellipse
+178 171 -83.15912522058706 40.12992943978471 ellipse osmid_original "[429123749, 5644613315, 230331256, 3729749856, 5644613825, 5644613849, 5644613314, 5644613319, 5644613826, 5644613834, 5644613831, 5644613830]"
+179 186 -83.1149123 40.08613429999999 ellipse
+180 140 -83.049532 40.082476 ellipse
+181 156 -82.98534946644067 40.103536369302695 ellipse osmid_original "[441998749, 3657572052, 3657572053]"
+182 147 -83.12056907149905 40.08131425923101 ellipse osmid_original "[229852372, 1831691899, 1831691930]"
+183 154 -82.974568 40.105272 ellipse
+184 158 -83.13045591312006 40.084066066565825 ellipse osmid_original "[229898234, 461083463, 461083657]"
+185 160 -83.14332887801639 40.084572807022944 ellipse osmid_original "[577865093, 577865189, 577865087, 577865371]"
+186 185 -83.1413636679449 40.08089305925955 ellipse osmid_original "[2334060953, 2334060943, 2334060949, 7885601506]"
+187 169 -82.88526499310422 40.080645760480714 ellipse osmid_original "[230056546, 317523456, 230319081]"
+188 191 -82.948864 40.182112999999994 ellipse
+189 176 -82.9843349 40.1094149 ellipse highway motorway_junction
+190 183 -83.15854158478996 40.08606689806321 ellipse osmid_original "[576885531, 577865319, 577865262, 577865255, 577865307]"
+191 187 -83.0350254 40.085541099999986 ellipse highway motorway_junction ref 10
+192 189 -83.0352098 40.08094929999999 ellipse
+*edges
+1 1 1.0 name "McCoy Center Circle" highway tertiary
+1 1 1.0 name "McCoy Center Circle" highway tertiary
+1 2 1.0 name "Polaris Parkway" highway trunk maxspeed "45 mph" ref "SR 750" lanes 3
+1 3 1.0 name "Polaris Parkway" highway trunk maxspeed "45 mph" ref "SR 750" lanes 3
+1 4 1.0 name "Gemini Place" highway primary maxspeed "35 mph" lanes 4
+2 4 1.0 name "Polaris Parkway" highway trunk maxspeed "45 mph" ref "SR 750" lanes 3
+2 7 1.0 name "Sancus Boulevard" highway primary
+3 83 1.0 name "Polaris Parkway" highway trunk maxspeed "45 mph" ref "SR 750"
+3 86 1.0 name "South Old State Road" highway primary
+3 85 1.0 name "South Old State Road" highway primary
+4 5 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 3 bridge yes
+4 6 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 4 bridge yes
+4 6 1.0 highway motorway_link
+4 7 1.0 name "Lazelle Road" highway primary
+4 8 1.0 name "Worthington Galena Road" highway primary maxspeed "35 mph"
+4 9 1.0 name "Hanawalt Road" highway primary maxspeed "45 mph"
+4 9 1.0 name "Polaris Parkway" highway trunk maxspeed "45 mph"
+4 9 1.0 name "Worthington Road" highway secondary
+4 9 1.0 name "Ikea Way" highway primary
+4 45 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 4
+4 158 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 3
+4 158 1.0 highway motorway_link
+5 100 1.0 highway motorway_link lanes 2
+5 25 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 3
+6 188 1.0 highway motorway ref "I 71" bridge yes
+7 143 1.0 name "Sancus Boulevard" highway primary
+7 86 1.0 name "Lazelle Road" highway primary
+8 143 1.0 name "Park Road" highway secondary
+8 153 1.0 name "Worthington Woods Boulevard" highway primary maxspeed "35 mph"
+8 153 1.0 name "Worthington Galena Road" highway primary maxspeed "35 mph"
+8 52 1.0 highway primary bridge yes
+9 149 1.0 name "Worthington Road" highway primary lanes 3
+9 132 1.0 highway primary maxspeed "45 mph" bridge yes
+9 85 1.0 name "East Powell Road" highway primary bridge yes
+9 155 1.0 name "Bale Kenyon Road" highway secondary
+9 65 1.0 name "Polaris Parkway" highway trunk maxspeed "45 mph" bridge yes
+10 11 1.0 highway motorway_link
+10 11 1.0 name "Olentangy Freeway" highway motorway maxspeed "65 mph" ref "SR 315" lanes 3
+10 12 1.0 name "West Dublin Granville Road" highway trunk ref "SR 161" lanes 2
+10 13 1.0 name "Olentangy River Road" highway secondary
+10 14 1.0 name "West Dublin Granville Road" highway trunk maxspeed "35 mph" ref "SR 161" bridge yes
+10 15 1.0 name "Olentangy Freeway" highway motorway maxspeed "65 mph" ref "SR 315"
+10 191 1.0 highway motorway_link
+10 191 1.0 name "Olentangy Freeway" highway motorway maxspeed "65 mph" ref "SR 315" lanes 3
+11 16 1.0 name "Olentangy Freeway" highway motorway maxspeed "65 mph" ref "SR 315" lanes 3 bridge yes
+12 180 1.0 name "Linworth Road" highway secondary
+12 152 1.0 name "Linworth Road" highway secondary
+12 82 1.0 name "West Dublin Granville Road" highway trunk ref "SR 161" lanes 2
+13 46 1.0 name "West Wilson Bridge Road" highway secondary bridge yes
+13 92 1.0 name "Linworth Road" highway secondary bridge yes
+13 152 1.0 name "Linworth Road" highway secondary
+14 37 1.0 name "East Dublin Granville Road" highway trunk maxspeed "35 mph" ref "SR 161" lanes 2
+14 94 1.0 name "North High Street" highway primary ref "US 23" lanes 4
+15 46 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+15 46 1.0 highway motorway_link lanes 1 bridge yes
+15 46 1.0 highway motorway_link lanes 2 bridge yes
+15 91 1.0 name "Olentangy River Road" highway primary maxspeed "40 mph" ref "SR 315" lanes 2
+15 91 1.0 name "Olentangy Freeway" highway trunk maxspeed "40 mph" ref "SR 315" lanes 2
+15 92 1.0 name "Hard Road" highway primary
+15 82 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+17 18 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+17 18 1.0 highway motorway_link bridge yes
+17 47 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+18 19 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 5
+18 20 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+18 20 1.0 highway motorway_link bridge yes
+18 21 1.0 name "Huber Village Boulevard" highway tertiary maxspeed "35 mph"
+18 22 1.0 name "South State Street" highway primary ref "SR 3" lanes 2
+18 23 1.0 name "Dempsey Road" highway primary maxspeed "35 mph" bridge yes
+18 24 1.0 name "Westerville Road" highway primary ref "SR 3" bridge yes
+18 53 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270"
+19 56 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4
+19 53 1.0 highway motorway_link lanes 2
+20 30 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+21 124 1.0 name "South Spring Road" highway secondary maxspeed "25 mph"
+21 137 1.0 name "South Spring Road" highway secondary maxspeed "25 mph"
+22 127 1.0 name "South Otterbein Avenue" highway tertiary
+22 137 1.0 name "East Schrock Road" highway tertiary maxspeed "35 mph" bridge yes
+22 48 1.0 name "West Schrock Road" highway primary bridge yes
+22 128 1.0 name "South State Street" highway primary ref "SR 3"
+23 124 1.0 name "Hempstead Road" highway secondary maxspeed "35 mph"
+23 55 1.0 name "Dempsey Road" highway primary
+24 50 1.0 name "Cooper Road" highway secondary maxspeed "40 mph"
+24 53 1.0 name "Westerville Road" highway primary ref "SR 3"
+25 26 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 3
+25 27 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+25 95 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+26 28 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 3
+26 43 1.0 highway motorway_link bridge yes
+26 189 1.0 highway motorway_link
+27 29 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4
+27 100 1.0 highway motorway_link
+28 33 1.0 highway motorway_link
+28 33 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 3 bridge yes
+29 47 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4
+29 32 1.0 highway motorway_link lanes 2
+30 31 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4
+30 32 1.0 highway motorway_link
+31 43 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4
+31 32 1.0 highway motorway_link
+31 32 1.0 highway motorway_link
+32 47 1.0 highway motorway_link
+32 47 1.0 highway motorway_link
+32 48 1.0 name "West Schrock Road" highway primary maxspeed "45 mph" lanes 6
+32 49 1.0 name "Schrock Road" highway primary ref "SR 710" bridge yes
+32 50 1.0 name "Corporate Exchange Drive" highway tertiary
+32 51 1.0 name "Cleveland Avenue" highway trunk lanes 5
+32 52 1.0 name "South Cleveland Avenue" highway trunk
+33 34 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 3 bridge yes
+33 34 1.0 highway motorway_link
+33 35 1.0 name "East Dublin Granville Road" highway trunk maxspeed "45 mph" ref "SR 161" lanes 2
+33 36 1.0 name "Busch Boulevard" highway primary maxspeed "45 mph" lanes 3
+33 37 1.0 name "East Dublin Granville Road" highway trunk maxspeed "45 mph" ref "SR 161"
+34 99 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 3
+35 183 1.0 name "Karl Road" highway primary
+35 51 1.0 name "East Dublin Granville Road" highway trunk maxspeed "50 mph" ref "SR 161" lanes 2
+36 150 1.0 name "Schrock Road" highway secondary
+36 93 1.0 name "Huntley Road" highway secondary
+36 37 1.0 name "Huntley Road" highway secondary
+36 181 1.0 name "Schrock Road" highway primary ref "SR 710"
+37 150 1.0 name "Proprietors Road" highway secondary
+38 39 1.0 name "Riverside Drive" highway trunk ref "SR 257"
+38 40 1.0 name "Glick Road" highway primary maxspeed "25 mph" bridge yes
+38 41 1.0 name "West Powell Road" highway trunk ref "SR 750"
+38 42 1.0 name "Riverside Drive" highway primary ref "SR 257"
+39 173 1.0 name "Riverside Drive" ref "SR 257"
+39 115 1.0 name "Summit View Road" highway secondary ref "CR 165"
+40 105 1.0 name "Dublin Road" highway primary ref "SR 745"
+40 106 1.0 name "Dublin Road" highway primary ref "SR 745"
+40 102 1.0 name "Glick Road" highway primary
+41 108 1.0 name "Sawmill Parkway" highway trunk
+41 109 1.0 name "Sawmill Road" highway secondary
+41 110 1.0 name "Murphy Parkway" highway tertiary
+41 111 1.0 name "West Olentangy Street" highway trunk maxspeed "25 mph" ref "SR 750"
+41 112 1.0 name "Sawmill Parkway" highway trunk lanes 2
+42 113 1.0 name "Riverside Drive" highway primary ref "SR 257"
+43 44 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+43 45 1.0 highway motorway_link
+44 46 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+44 100 1.0 highway motorway_link
+45 98 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 4
+46 93 1.0 name "East Wilson Bridge Road" highway secondary maxspeed "35 mph" bridge yes
+46 94 1.0 name "North High Street" highway primary maxspeed "35 mph" ref "US 23" lanes 4
+46 95 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+46 96 1.0 name "North High Street" highway trunk maxspeed "45 mph" ref "US 23" lanes 4
+46 97 1.0 name "US 23 (Express)" highway motorway maxspeed "45 mph" ref "US 23X" lanes 2 tunnel yes
+48 50 1.0 name "Cooper Road" highway secondary bridge yes
+49 51 1.0 name "Sharon Woods Boulevard" highway tertiary
+49 183 1.0 name "Schrock Road" highway primary ref "SR 710"
+51 165 1.0 name "East Dublin Granville Road" highway trunk maxspeed "50 mph" ref "SR 161" lanes 2
+52 132 1.0 name "North Cleveland Avenue" highway trunk bridge yes
+52 131 1.0 name "West Main Street" highway primary bridge yes
+53 54 1.0 name "Buenos Aires Boulevard" highway tertiary maxspeed "25 mph"
+53 55 1.0 name "Sunbury Road" highway primary
+53 187 1.0 highway motorway_link maxspeed "65 mph" lanes 3 bridge yes
+53 187 1.0 name "Northeast Expressway" highway motorway maxspeed "65 mph" ref "SR 161" lanes 2 bridge yes
+55 126 1.0 name "Sunbury Road" highway primary
+57 58 1.0 name "Tussic Street" highway secondary lanes 3
+57 59 1.0 name "Big Walnut Road" highway primary
+57 60 1.0 highway secondary
+58 61 1.0 name "Maxtown Road" highway primary
+58 62 1.0 name "North Spring Road" highway secondary
+58 63 1.0 name "Maxtown Road" highway primary
+59 133 1.0 name "Big Walnut Road" highway primary
+59 60 1.0 name "SR 3" highway trunk ref "SR 3" lanes 2
+60 61 1.0 name "North State Street" highway trunk ref "SR 3"
+61 64 1.0 name "North State Street" highway primary ref "SR 3"
+61 65 1.0 name "Polaris Parkway" highway trunk maxspeed "45 mph"
+62 66 1.0 name "East County Line Road" highway primary maxspeed "35 mph"
+62 67 1.0 name "East County Line Road" highway primary maxspeed "35 mph"
+62 68 1.0 name "North Spring Road" highway secondary
+63 69 1.0 name "Sunbury Road" highway primary
+64 129 1.0 name "North State Street" highway primary ref "SR 3"
+64 67 1.0 name "East County Line Road" highway primary maxspeed "35 mph"
+64 130 1.0 name "West County Line Road" highway primary maxspeed "45 mph"
+65 149 1.0 name "Africa Road" highway secondary
+65 130 1.0 name "Africa Road" highway secondary
+65 132 1.0 name "North Cleveland Avenue" highway trunk
+66 69 1.0 name "East County Line Road" highway primary maxspeed "35 mph"
+66 118 1.0 highway tertiary lanes 3
+67 127 1.0 highway tertiary
+68 138 1.0 name "South Spring Road" highway secondary maxspeed "25 mph"
+68 118 1.0 name "East Walnut Street" highway secondary lanes 3
+68 127 1.0 name "East Walnut Street" highway secondary lanes 3
+69 117 1.0 name "North Sunbury Road" highway primary
+70 71 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270"
+70 71 1.0 highway motorway_link lanes 1 bridge yes
+70 72 1.0 name "Emerald Parkway" highway primary bridge yes
+70 72 1.0 name "West Bridge Street" highway trunk maxspeed "35 mph" ref "US 33;SR 161" lanes 5
+70 73 1.0 name "Emerald Parkway" highway primary bridge yes
+70 74 1.0 name "Shier Rings Road" highway secondary
+70 75 1.0 name "Tara Hill Drive" highway tertiary maxspeed "25 mph"
+70 76 1.0 name "Coffman Road" highway secondary maxspeed "35 mph"
+70 77 1.0 highway motorway_link lanes 1
+70 77 1.0 highway motorway maxspeed "55 mph" ref "US 33;SR 161" lanes 2
+70 78 1.0 name "Perimeter Drive" highway primary
+70 79 1.0 highway secondary
+70 80 1.0 highway motorway_link lanes 2
+70 81 1.0 name "Monterey Drive" highway tertiary bridge yes
+70 81 1.0 name "Frantz Road" highway trunk lanes 2 bridge yes
+70 82 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4 bridge yes
+70 114 1.0 highway motorway_link
+70 114 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270"
+70 136 1.0 highway motorway maxspeed "55 mph" ref "US 33;SR 161" lanes 2
+71 80 1.0 name "Jack Nicklaus Freeway" highway motorway maxspeed "65 mph" ref "I 270" lanes 4
+72 162 1.0 name "Dublin Road" highway primary maxspeed "45 mph" ref "SR 745"
+72 82 1.0 name "West Dublin Granville Road" highway trunk ref "SR 161"
+72 82 1.0 name "Bridge Park Avenue" highway tertiary
+72 82 1.0 name "Martin Road" highway tertiary ref "SR 161" lanes 2
+72 82 1.0 highway tertiary
+72 82 1.0 name "John Shields Parkway" highway tertiary
+72 172 1.0 name "Emerald Parkway" highway primary maxspeed "40 mph" lanes 2
+72 173 1.0 name "Riverside Drive" highway trunk ref "SR 257"
+72 179 1.0 highway secondary bridge yes
+73 163 1.0 name "Innovation Drive" highway tertiary
+73 185 1.0 name "Emerald Parkway" highway primary
+74 163 1.0 name "Wilcox Road" highway tertiary
+74 79 1.0 name "Shier Rings Road" highway secondary
+75 174 1.0 name "Muirfield Drive" highway primary maxspeed "35 mph"
+75 79 1.0 name "Avery Road" highway secondary maxspeed "35 mph"
+75 79 1.0 highway primary maxspeed "35 mph" lanes 2
+75 134 1.0 name "Wexford Woods Drive" highway tertiary
+75 175 1.0 name "Avery Road" highway secondary
+76 176 1.0 name "Earlington Parkway" highway tertiary
+76 161 1.0 name "Brand Road" highway secondary bridge yes
+76 162 1.0 name "Brand Road" highway secondary
+77 79 1.0 highway motorway_link lanes 1
+77 79 1.0 highway motorway ref "US 33;SR 161" lanes 2
+78 79 1.0 highway secondary
+78 79 1.0 name "Perimeter Drive" highway primary
+79 134 1.0 name "Tullymore Drive" highway tertiary
+79 135 1.0 name "Avery Road" highway trunk lanes 2
+79 136 1.0 highway motorway_link
+79 136 1.0 highway motorway ref "US 33;SR 161" lanes 2
+81 184 1.0 name "Blazer Pkwy" highway tertiary
+81 184 1.0 name "Rings Road" highway primary
+81 182 1.0 name "Frantz Road" highway trunk lanes 2
+81 179 1.0 name "Rings Road" highway secondary
+82 140 1.0 name "Federated Boulevard" highway secondary
+82 140 1.0 name "Federated Boulevard" highway secondary
+82 140 1.0 name "Sawmill Place Boulevard" highway tertiary
+82 140 1.0 name "Sawmill Place Boulevard" highway tertiary
+82 141 1.0 name "Sawmill Road" highway trunk ref "CR 70"
+82 142 1.0 name "Snouffer Road" highway secondary
+83 84 1.0 highway trunk maxspeed "45 mph" ref "SR 750" bridge yes
+83 85 1.0 name "East Powell Road" highway primary
+84 87 1.0 name "West Powell Road" highway trunk ref "SR 750" bridge yes
+84 88 1.0 name "Columbus Pike" highway trunk maxspeed "45 mph" ref "US 23" lanes 4 access yes
+84 89 1.0 name "Columbus Pike" highway trunk maxspeed "45 mph" ref "US 23" lanes 4 access yes
+85 90 1.0 name "South Old State Road" highway primary
+86 145 1.0 name "Flint Road" highway secondary
+86 146 1.0 highway primary
+87 121 1.0 ref "SR 750"
+87 123 1.0 name "Olentangy River Road" highway primary maxspeed "45 mph" ref "SR 315"
+87 125 1.0 name "Olentangy River Road" highway primary maxspeed "45 mph" ref "SR 315"
+88 139 1.0 name "Old Columbus Pike" highway trunk maxspeed "45 mph" ref "US 23" lanes 4
+89 146 1.0 highway trunk maxspeed "45 mph" ref "US 23"
+90 156 1.0 name "East Orange Road" highway secondary maxspeed "45 mph" lanes 2
+90 139 1.0 name "East Orange Road" highway secondary maxspeed "45 mph" lanes 2
+91 123 1.0 name "Olentangy River Road" highway primary ref "SR 315" bridge yes
+92 122 1.0 name "Hard Road" highway primary
+93 153 1.0 name "Worthington Galena Road" highway secondary maxspeed "35 mph"
+93 144 1.0 name "Sancus Boulevard" highway secondary
+93 151 1.0 name "Worthington Galena Road" highway secondary
+94 151 1.0 name "Worthington Galena Road" highway secondary
+95 189 1.0 highway motorway_link
+96 144 1.0 highway primary maxspeed "35 mph" bridge yes
+96 147 1.0 name "North High Street" highway trunk ref "US 23" lanes 2
+97 146 1.0 name "North High Street" highway trunk maxspeed "45 mph" ref "US 23" lanes 6
+97 147 1.0 name "North High Street (Local)" highway secondary ref "US 23"
+98 99 1.0 highway motorway maxspeed "65 mph" ref "I 71" lanes 3
+98 189 1.0 highway motorway_link bridge yes
+99 100 1.0 highway motorway_link
+101 102 1.0 name "Carnoustie Drive" highway tertiary bridge yes
+101 102 1.0 name "Glick Road" highway primary bridge yes
+101 103 1.0 name "Muirfield Drive" highway primary
+101 104 1.0 name "Concord Road" highway secondary
+103 166 1.0 name "Muirfield Drive" highway primary bridge yes
+103 167 1.0 name "Memorial Drive" highway tertiary
+103 106 1.0 name "Memorial Drive" highway tertiary
+104 105 1.0 name "Harriott Road" highway secondary maxspeed "45 mph"
+106 107 1.0 name "Dublin Road" highway primary ref "SR 745"
+107 159 1.0 name "Windwood Drive" highway tertiary
+107 160 1.0 name "Dublin Road" highway primary ref "SR 745"
+108 109 1.0 name "Sawmill Parkway" highway trunk
+109 110 1.0 name "Presidential Parkway" highway tertiary
+109 115 1.0 highway trunk ref "CR 70"
+110 116 1.0 name "Murphy Parkway" highway tertiary
+111 119 1.0 name "South Liberty Street" highway secondary
+111 120 1.0 highway secondary
+111 121 1.0 name "East Olentangy Street" highway trunk maxspeed "35 mph" ref "SR 750"
+112 120 1.0 name "Seldom Seen Road" highway tertiary
+112 113 1.0 name "Seldom Seen Road" highway tertiary
+115 171 1.0 name "Sawmill Road" highway trunk ref "CR 70"
+116 119 1.0 name "Liberty Road" highway secondary
+116 122 1.0 highway secondary lanes 2
+116 123 1.0 name "Jewett Road" highway secondary lanes 2
+117 169 1.0 name "Sunbury Road" highway primary lanes 2
+117 118 1.0 name "East Walnut Street" highway secondary lanes 3
+118 124 1.0 highway tertiary
+119 121 1.0 name "Bennett Parkway" highway tertiary
+122 141 1.0 name "Hard Road" highway primary
+122 170 1.0 name "Smoky Row Road" highway secondary
+125 139 1.0 name "West Orange Road" highway secondary bridge yes
+126 168 1.0 name "Sunbury Road" highway primary
+127 128 1.0 name "East Walnut Street" highway secondary lanes 3
+128 129 1.0 highway primary ref "SR 3"
+129 131 1.0 name "West Main Street" highway primary
+130 132 1.0 name "West County Line Road" highway primary maxspeed "45 mph"
+130 131 1.0 highway secondary
+133 148 1.0 name "Big Walnut Road" highway primary
+133 149 1.0 highway primary
+134 177 1.0 name "Tullymore Drive" highway tertiary
+135 190 1.0 name "Avery Road" highway trunk maxspeed "35 mph" lanes 2
+137 138 1.0 name "South Spring Road" highway secondary maxspeed "25 mph"
+140 142 1.0 name "Bent Tree Boulevard" highway secondary
+141 171 1.0 name "Emerald Parkway" highway primary ref "CR 70"
+141 171 1.0 name "Sawmill Road" highway trunk ref "CR 70"
+141 172 1.0 name "Emerald Parkway" highway primary maxspeed "40 mph" lanes 2 bridge yes
+141 173 1.0 name "Hard Road" highway primary
+142 170 1.0 name "Snouffer Road" highway secondary
+143 144 1.0 name "Sancus Boulevard" highway primary
+143 145 1.0 name "Park Road" highway secondary
+144 153 1.0 name "Worthington Woods Boulevard" highway primary maxspeed "35 mph"
+145 147 1.0 name "Flint Road" highway secondary
+148 149 1.0 name "Africa Road" highway primary
+148 154 1.0 name "Big Walnut Road" highway primary bridge yes
+150 151 1.0 name "Schrock Road" highway secondary
+152 170 1.0 name "Snouffer Road" highway secondary
+154 155 1.0 name "Bale Kenyon Road" highway secondary
+155 156 1.0 name "East Orange Road" highway secondary lanes 2
+157 158 1.0 highway motorway ref "I 71" lanes 3 bridge yes
+159 160 1.0 name "Brandonway Drive" highway tertiary
+159 161 1.0 name "Brandonway Drive" highway tertiary bridge yes
+160 162 1.0 name "Dublin Road" highway primary ref "SR 745"
+161 176 1.0 name "Earlington Parkway" highway tertiary
+161 175 1.0 name "Dublinshire Drive" highway tertiary
+161 166 1.0 name "Brand Road" highway secondary bridge yes
+163 164 1.0 highway tertiary
+164 190 1.0 name "Woerner Temple Road" highway primary lanes 2
+164 185 1.0 name "Woerner Temple Road" highway primary lanes 2
+166 178 1.0 name "Brand Road" highway secondary ref "CR 44"
+166 175 1.0 name "Muirfield Drive" highway primary maxspeed "35 mph"
+167 178 1.0 name "Avery Road" highway secondary bridge yes
+168 169 1.0 name "Sunbury Road" highway primary lanes 2
+174 176 1.0 name "Sells Mill Drive" highway tertiary maxspeed "35 mph"
+174 175 1.0 name "Muirfield Drive" highway primary maxspeed "35 mph"
+175 178 1.0 name "Avery Road" highway secondary
+175 177 1.0 name "Wynford Drive" highway tertiary
+181 183 1.0 name "Schrock Road" highway primary ref "SR 710" bridge yes
+184 185 1.0 highway primary lanes 2 bridge yes
+185 186 1.0 name "Emerald Parkway" highway primary
+191 192 1.0 name "Olentangy Freeway" highway motorway maxspeed "65 mph" ref "SR 315" lanes 3 bridge yes

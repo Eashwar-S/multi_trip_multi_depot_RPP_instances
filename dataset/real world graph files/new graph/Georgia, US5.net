@@ -1,0 +1,349 @@
+*vertices 133
+1 0 -85.56441654164591 34.70143192512484 ellipse osmid_original "[55264889, 55264916, 55421563, 55268798, 55265078, 55265053, 55265094, 55354283, 55268808, 55420226, 4874928183, 4874928166, 4874928179]"
+2 9 -85.53974048551547 34.772858093249546 ellipse osmid_original "[68082324, 68077736, 68077760, 68082333, 68077773, 68082353, 68120597]"
+3 1 -85.536923 34.73419 ellipse
+4 3 -85.547529 34.685388 ellipse
+5 2 -85.56327517518311 34.76934522009171 ellipse osmid_original "[55269643, 68103781, 55326698]"
+6 4 -85.5810683 34.818559199999996 ellipse
+7 5 -85.56170902960213 34.84127760539826 ellipse osmid_original "[68102719, 68125945]"
+8 6 -85.600602 34.776154 ellipse
+9 7 -85.598777 34.83673099999999 ellipse
+10 8 -85.5542239 34.8544103 ellipse
+11 66 -85.54946658115499 34.86422293035001 ellipse osmid_original "[3417338824, 3417343248, 68130528, 3417338823, 3417343251]"
+12 10 -85.5167553811568 34.86543553555445 ellipse osmid_original "[68088949, 68070825, 68070882, 68077187, 68118623, 68077383, 68077189, 68077377, 68077387, 68098325, 68117899, 68098148, 68098320, 68098338, 2677991236, 68098359, 2677991251, 2677991244, 2677991241]"
+13 11 -85.525468 34.844735 ellipse
+14 54 -85.53749571793172 34.87329866957922 ellipse osmid_original "[68130648, 68115882, 68115878, 68129671, 68130328, 68130639]"
+15 55 -85.47511871371263 34.9422535202807 ellipse osmid_original "[68081915, 68095576, 68081869, 68081893, 68095364, 68119090, 68095380]"
+16 51 -85.49529 34.861113 ellipse
+17 50 -85.481009 34.910563 ellipse
+18 12 -85.46764 34.725345699999984 ellipse
+19 13 -85.472552 34.681642999999994 ellipse
+20 14 -85.439653 34.79206799999999 ellipse
+21 25 -85.475826 34.808963 ellipse
+22 23 -85.38934180000001 34.80738989999999 ellipse
+23 26 -85.3993805 34.9326809 ellipse
+24 15 -85.2790581011987 34.70690459627077 ellipse osmid_original "[73298194, 73308381, 73356759, 73399633, 73333794, 73356777, 6573705530, 73356784, 6573705519, 6573705537]"
+25 17 -85.2739414 34.69404770000001 ellipse
+26 27 -85.27252225646309 34.74067726128423 ellipse osmid_original "[73317435, 73375830]"
+27 32 -85.207869 34.693115 ellipse
+28 18 -85.3014888 34.6819782 ellipse
+29 29 -85.3680697 34.7556785 ellipse
+30 35 -85.192395 34.749542999999996 ellipse
+31 16 -85.28499492513902 34.594766124258356 ellipse osmid_original "[73299260, 6672573785, 1279192807]"
+32 19 -85.27615716356468 34.668610499117136 ellipse osmid_original "[73349761, 73351130, 73351125]"
+33 34 -85.2710084 34.68206209999999 ellipse
+34 20 -85.348357 34.802921 ellipse
+35 21 -85.326963 34.81738399999999 ellipse
+36 22 -85.371864 34.777369 ellipse
+37 24 -85.3349976 34.7939198 ellipse
+38 37 -85.293457 34.882340000000006 ellipse
+39 31 -85.391917 34.792997 ellipse
+40 30 -85.379357 34.75955600000001 ellipse
+41 68 -85.3335024 34.9492224 ellipse highway traffic_signals
+42 49 -85.4388241 34.9024228 ellipse
+43 64 -85.3667888 34.976527499999996 ellipse
+44 28 -85.24112334227533 34.81814178749724 ellipse osmid_original "[7713827008, 73282234, 7713827001]"
+45 38 -85.2578022 34.865152499999986 ellipse
+46 33 -85.192246 34.709033 ellipse
+47 93 -85.11216848395381 34.672809622707724 ellipse osmid_original "[5614490329, 5614490321, 73322981, 5602806150, 5602806165, 73323019]"
+48 36 -85.178866 34.732198999999994 ellipse
+49 70 -85.153122 34.76785399999999 ellipse
+50 39 -85.258903 34.87724939999999 ellipse
+51 40 -85.26885860725159 34.885737448868646 ellipse osmid_original "[6367374971, 384627484, 661197391, 6367374965, 6367374970, 6367374977]"
+52 42 -85.17390656550509 34.92868379466333 ellipse osmid_original "[66968700, 7259784598, 66959923, 2673888146, 6548781232]"
+53 43 -85.26923040498173 34.952308621708035 ellipse osmid_original "[2976862929, 73329507, 66952564, 5948768452, 2976863955, 66960004, 5948768447, 73224006, 73236843, 5948768459, 5948768462, 73236537, 5948768456, 661197581, 661197569, 661197577, 661197620, 661197599, 661197730, 661197687]"
+54 41 -85.25891263181244 34.93911941474297 ellipse osmid_original "[66936864, 1464687872, 66936865, 66936868, 66936878, 2937826536, 66946585]"
+55 74 -85.12913423949213 34.91438321237062 ellipse osmid_original "[66926737, 66927270, 1846304721, 66926740, 441026480, 8955321425, 2537266247, 1751529153, 66959837, 66946407, 66946401, 66951102, 2537266241, 66953918, 66953926, 2537266218, 5733025891, 6597800418]"
+56 71 -85.16623311050539 34.957673246926674 ellipse osmid_original "[66918530, 7238066795, 66936079]"
+57 73 -85.15110662171374 34.928060794876984 ellipse osmid_original "[66923838, 66923842, 66926641, 7047791543, 66923850, 7047791557, 8955235026, 66926789, 66959862, 8955299581, 1751529308, 661207417, 8955288522, 1846304635, 8955235017, 2673888197, 8955288528, 8955299552, 7047791539, 7047791548, 7047791547, 8955299562, 7047791558, 8955235036, 8955235025, 8955235041, 8955299551, 8955299575]"
+58 46 -85.2441977 34.952310600000004 ellipse
+59 69 -85.29961800000001 34.95087399999999 ellipse highway traffic_signals
+60 47 -85.27180679540693 34.97558305125753 ellipse osmid_original "[7621433550, 384325182]"
+61 44 -85.2262181 34.957149499999986 ellipse
+62 67 -85.28047400020102 34.90972800009584 ellipse osmid_original "[73321209, 73288308]"
+63 45 -85.20210874997512 34.95728205055952 ellipse osmid_original "[5948752553, 5948752557]"
+64 72 -85.19042854075036 34.97008248061466 ellipse osmid_original "[2537309259, 66924835, 5948752566, 8955055348, 2537309331, 66924859, 1751529421, 66952450, 5948752538, 66952671, 2537309302, 66959608, 5948752570, 1751529470, 2537309238, 1751529467, 5948752572, 2537309253, 66969756]"
+65 48 -85.47201 34.881995 ellipse
+66 65 -85.454401 34.934946999999994 ellipse
+67 52 -85.41856385551377 34.97576148890063 ellipse osmid_original "[68066077, 68075967, 68078826, 68066135, 68106066, 68094912, 68078768, 68094954]"
+68 53 -85.43375280000001 34.97892209999999 ellipse
+69 63 -85.4439818 34.97181229999999 ellipse ref 167 highway motorway_junction
+70 61 -85.4037875 34.974791 ellipse
+71 62 -85.520162 34.92960899999999 ellipse
+72 59 -85.4529959 34.96537779999999 ellipse highway motorway_junction
+73 56 -85.4566342 34.97676059999999 ellipse ref 167 highway motorway_junction
+74 57 -85.4541248 34.965480899999996 ellipse
+75 58 -85.4432489 34.9709116 ellipse
+76 60 -85.45449700000002 34.975537 ellipse
+77 80 -85.1488536 34.8048825 ellipse
+78 84 -85.18325 34.767881 ellipse
+79 75 -85.17475050662821 34.948057027945126 ellipse osmid_original "[1846304263, 66960598, 1846304442, 1846304620]"
+80 78 -85.20207900006834 34.95742465075136 ellipse osmid_original "[66936777, 66952533]"
+81 76 -85.07521941709234 34.89622621487009 ellipse osmid_original "[66929081, 66929086, 1846304860, 8978208970, 66929093, 3310290814, 66929615, 66929630, 66929620, 8978208971, 1346119745, 66938357, 6881770138, 7885562764, 1346119735, 8964384590, 8978208964, 3310290816, 8978208963, 8978208994]"
+82 83 -85.10915830976548 34.915504937618536 ellipse osmid_original "[66951150, 66951148, 66952866]"
+83 77 -85.05301695031544 34.881217593237565 ellipse osmid_original "[1846304790, 1846304147, 1846304714, 1846304265]"
+84 82 -85.0870935 34.9117184 ellipse
+85 102 -84.9766499 34.8982426 ellipse
+86 94 -85.04491938433392 34.84241008961809 ellipse osmid_original "[73708869, 73724252, 73732921, 73724249, 73734066, 73735316, 73739676]"
+87 96 -85.02354049298492 34.86199801963454 ellipse osmid_original "[73710428, 8984365842, 8984365850, 8984358604, 73713226, 8984365836, 73715481, 8984358605, 73716755, 8984365822, 1751528910, 73718623, 8984276611, 73744177, 8984401305, 8984365829, 8984365915, 8984401313, 8984365920, 8984401300, 8984401307]"
+88 79 -85.10395610091311 34.92586790009626 ellipse osmid_original "[66940592, 678593018]"
+89 81 -85.03446104326312 34.80516644444244 ellipse osmid_original "[73734306, 73730885, 2689486750, 73749552, 73732158, 73734312, 73734319]"
+90 90 -85.0518548 34.7843292 ellipse
+91 105 -85.0446361 34.8309253 ellipse
+92 95 -84.9996422462451 34.79069728660682 ellipse osmid_original "[73710290, 73717919, 73710294, 1751528622, 3622737220, 73717943, 8986763523, 73740122, 73722781, 73738381, 73762873, 1846787769, 73740117, 8987053898, 8986811235, 73743983, 2822101236, 73762818, 3403203731, 8986811245, 2689677855, 73762837, 1846787685, 8986762799, 331026681, 331027555, 8986763535, 5509216943, 331027798, 5509216952, 8986724489, 8986724483, 8986724511, 8986763544, 8987056521, 8987056528]"
+93 107 -85.0358491 34.78857299999999 ellipse
+94 85 -84.87034195349064 34.782580299926934 ellipse osmid_original "[71591046, 2536962291, 73746488, 2535073866, 5738075508, 5738075512]"
+95 86 -84.88919968171895 34.785447669475474 ellipse osmid_original "[73707865, 73707876, 2536962272]"
+96 87 -84.8696265 34.8117075 ellipse
+97 88 -84.91304991891865 34.77817904232845 ellipse osmid_original "[73734818, 4442989337, 2535073878, 2533452473]"
+98 112 -84.8804368 34.81897480000001 ellipse
+99 97 -84.94917737051696 34.79984985519983 ellipse osmid_original "[73716137, 6009416862, 6009416869, 6009416864, 73716141, 3622737245, 3315820172, 73720401, 73723368, 73723370, 3632092337, 6311830596, 3571983961, 6364123253, 3571983965, 6364123271, 6364123276]"
+100 108 -84.93217734751825 34.762208609919824 ellipse osmid_original "[73739373, 6835985788, 6835985785]"
+101 114 -84.91943424995256 34.75707400005247 ellipse osmid_original "[73734860, 2533461563]"
+102 89 -85.049699 34.77301159999999 ellipse
+103 91 -85.0419205062186 34.73423525069329 ellipse osmid_original "[73731994, 73731975]"
+104 92 -85.0639228 34.72215800000001 ellipse
+105 106 -84.99774744798877 34.76055416217758 ellipse osmid_original "[73737876, 331022905, 331022466, 331022894, 331022876, 6833513642, 73725715, 73725721, 6833513636, 1277687528, 331022526, 4442899880, 4442889818, 1751528564, 3492610633, 4442889819, 4442891635, 6833544436, 6833544433]"
+106 117 -85.069827 34.695847 ellipse
+107 118 -85.09714170000001 34.670775299999995 ellipse
+108 98 -85.01691741676727 34.81710988171319 ellipse osmid_original "[73718839, 73718846, 1864595364, 1864595367]"
+109 104 -84.98234430754131 34.79850975080329 ellipse osmid_original "[73730848, 1846787860]"
+110 113 -85.04896240708398 34.87934488230074 ellipse osmid_original "[1846304522, 1846304865, 1846304478, 1846304562]"
+111 99 -84.96732110860435 34.76447918950224 ellipse osmid_original "[73723165, 73723155, 73743236, 3626055492, 73725776, 73725771, 6835942183, 2537462825]"
+112 101 -84.94361890523551 34.831137300553 ellipse osmid_original "[73744734, 73732397]"
+113 121 -84.9625875 34.7253854 ellipse
+114 123 -84.97871180000001 34.7160762 ellipse
+115 129 -84.94798240000209 34.76116495000042 ellipse osmid_original "[2537462844, 2537462811]"
+116 100 -84.9468407 34.89459759999999 ellipse
+117 103 -84.91406506482694 34.89548502808364 ellipse osmid_original "[73737997, 4320396206]"
+118 109 -84.9109107 34.85725299999999 ellipse
+119 110 -84.9174089 34.8843154 ellipse
+120 122 -84.99837537619878 34.68861229746755 ellipse osmid_original "[73715042, 73715058, 4442987143, 2533827295, 331019662, 73715068, 73722305, 4442987140, 73726018, 331019892, 331019513, 331019286, 331019901, 331019668]"
+121 111 -84.889202 34.8679485 ellipse
+122 120 -84.96389158889214 34.70263184928548 ellipse osmid_original "[73722342, 73709809, 2533848715, 73767039]"
+123 115 -85.0454768 34.6082927 ellipse
+124 116 -85.0659709 34.6760042 ellipse
+125 119 -84.95238684460193 34.62517798411584 ellipse osmid_original "[73708495, 73754926, 73755173, 73769110]"
+126 125 -84.9934246 34.63972449999999 ellipse
+127 124 -84.98256409547086 34.654368076846836 ellipse osmid_original "[3395075933, 7888497008, 73760684, 7164718225, 331017259, 331017431, 7123114150, 2822101097, 1864595354, 7123114155, 7123114146, 1864595344, 3395075929, 8989222695, 3631334330, 7123114140, 7123114156, 7804774167, 7164718216, 7164718219, 7888537514, 7164718222, 8991620525]"
+128 130 -84.9320029 34.6460171 ellipse
+129 131 -84.9449859 34.5823817 ellipse
+130 126 -84.98118758358075 34.696136314289134 ellipse osmid_original "[4442987162, 4442987155, 4442987157, 4442987164]"
+131 132 -84.93696024996186 34.73123340000431 ellipse osmid_original "[5989194825, 5989194828]"
+132 127 -84.94337604320478 34.74782459769305 ellipse osmid_original "[6311811229, 73761619, 4442940912]"
+133 128 -84.9935733 34.644549399999995 ellipse
+*edges
+1 2 1.0 highway motorway lanes 2 ref "I 59" maxspeed "70 mph" bridge yes
+1 3 1.0 highway primary lanes 2 bridge yes
+2 5 1.0 highway tertiary name "Deer Head Cove Road"
+2 12 1.0 highway motorway lanes 2 ref "I 59" maxspeed "70 mph" bridge yes
+2 13 1.0 highway primary lanes 2 bridge yes
+2 3 1.0 highway primary lanes 2 ref "US 11;GA 58"
+3 4 1.0 highway tertiary ref "CH 97" name "Cloverdale Road"
+6 7 1.0 highway secondary lanes 2 maxspeed "55 mph"
+6 8 1.0 highway secondary ref "SR 75" maxspeed "55 mph"
+6 9 1.0 highway tertiary name "County Road 169"
+7 9 1.0 highway tertiary
+7 10 1.0 highway secondary lanes 2 ref "GA 301"
+9 10 1.0 highway tertiary
+10 11 1.0 highway secondary lanes 2 ref "GA 301"
+11 14 1.0 highway secondary lanes 2 ref "GA 301"
+11 14 1.0 highway secondary ref "GA 136"
+12 14 1.0 highway secondary ref "GA 136" name "White Oak Gap Road"
+12 15 1.0 highway motorway lanes 2 ref "I 59" maxspeed "70 mph" bridge yes
+12 13 1.0 highway tertiary ref "CH 101" name "Cedar Lane"
+12 13 1.0 highway primary lanes 2 ref "US 11; GA 58"
+12 16 1.0 highway secondary lanes 2 ref "GA 136" bridge yes name "Lafayette Street"
+12 17 1.0 highway primary lanes 2 name "North Main Street"
+14 71 1.0 highway tertiary lanes 2 name "Brow Road"
+15 72 1.0 highway motorway lanes 3 ref "I 59" maxspeed "70 mph"
+15 71 1.0 highway tertiary ref "CR 143"
+15 66 1.0 highway tertiary ref "CH 200" name "Morganville Ridge Road"
+15 68 1.0 highway tertiary ref "CR 143" bridge yes name "Slygo Road"
+15 74 1.0 highway motorway lanes 2 ref "I 59" maxspeed "70 mph"
+16 65 1.0 highway tertiary ref "CH 201" bridge yes name "Piney Road"
+16 21 1.0 highway secondary ref "GA 136"
+17 66 1.0 highway primary lanes 2 ref "US 11;58" bridge yes
+17 65 1.0 highway tertiary maxspeed "35 mph" bridge yes
+18 19 1.0 highway secondary name "Yankee Road" ref "GA 157"
+18 19 1.0 highway tertiary ref "GA 157"
+18 20 1.0 highway secondary lanes 2 ref "GA 157"
+20 21 1.0 highway secondary lanes 2 ref "GA 136" name "Lookout Mountain Scenic Highway"
+20 22 1.0 highway secondary ref "GA 136"
+20 23 1.0 highway secondary lanes 2 ref "GA 157" bridge yes name "Hinkle Road"
+21 42 1.0 highway secondary lanes 2 ref "GA 189" name "Lookout Mountain Scenic Highway"
+22 39 1.0 highway secondary ref "GA 193"
+22 41 1.0 highway secondary ref "GA 193"
+22 34 1.0 highway secondary lanes 2 ref "GA 136" name "Lookout Mountain Scenic Highway"
+23 42 1.0 highway secondary ref "GA 189" name "Lookout Mountain Scenic Highway"
+23 43 1.0 highway secondary lanes 2 ref 157;189
+24 25 1.0 highway trunk lanes 4 ref "US 27;GA 1" maxspeed "45 mph" name "Lyle Jones Parkway"
+24 25 1.0 highway primary lanes 2 ref "US 27 Business" maxspeed "45 mph" name "Lyle Jones Parkway"
+24 26 1.0 highway trunk ref "US 27;GA 1;GA 136" name "Lyle Jones Parkway" maxspeed "55 mph"
+24 26 1.0 highway primary ref "US 27 Business" maxspeed "55 mph" name "North Main Street"
+24 27 1.0 highway secondary ref "GA 136" name "East Villanow Street"
+24 28 1.0 highway secondary
+24 29 1.0 highway secondary ref "GA 193" name "West Main Street"
+24 30 1.0 highway tertiary name "Round Pond Road"
+25 33 1.0 highway trunk lanes 4 ref "US 27;GA 1" name "South Main Street"
+26 44 1.0 highway trunk lanes 4 ref "US 27;GA 1" maxspeed "55 mph"
+26 37 1.0 highway secondary lanes 2 ref "GA 136"
+27 31 1.0 highway secondary ref "GA 151"
+27 46 1.0 highway secondary ref "GA 136; GA 151" name "South Old Alabama Highway"
+28 32 1.0 highway secondary ref "GA 337"
+29 40 1.0 highway secondary ref "GA 193" bridge yes name "Hog Jowl Road"
+29 37 1.0 highway secondary lanes 2 ref "GA 341" bridge yes name "Cove Road"
+30 44 1.0 highway secondary ref "GA 95"
+30 48 1.0 highway secondary ref "GA 95"
+31 32 1.0 highway tertiary lanes 4 ref "US 27;GA 1" name "Trion Highway"
+31 32 1.0 highway trunk name "South Main Street" lanes 4 ref "US 27;GA 1"
+32 33 1.0 highway tertiary name "Trion Highway"
+32 33 1.0 highway trunk lanes 4 ref "US 27;GA 1" name "South Main Street"
+34 35 1.0 highway tertiary name "Kensington Road"
+34 36 1.0 highway tertiary name "Kensington Road"
+34 37 1.0 highway secondary lanes 2 ref "GA 136"
+35 38 1.0 highway secondary lanes 2 ref "GA 341"
+35 37 1.0 highway secondary lanes 2 ref "GA 341" name "Cove Road"
+36 39 1.0 highway tertiary name "Prospect Road"
+36 40 1.0 highway tertiary name "Kensington Road"
+39 40 1.0 highway secondary ref "GA 193"
+41 59 1.0 highway primary lanes 4 ref "GA 2" name "Battlefield Parkway"
+42 65 1.0 highway tertiary name "Burkhalter Gap Road"
+44 45 1.0 highway tertiary lanes 2
+44 45 1.0 highway trunk lanes 4 ref "US 27;GA 1" maxspeed "55 mph" name "Lafayette Highway"
+45 50 1.0 highway tertiary name "Tom Hunt Road"
+45 51 1.0 ref "US 27;GA 1" maxspeed "55 mph" bridge yes
+46 47 1.0 highway secondary lanes 2 ref "GA 136"
+46 48 1.0 highway secondary ref "GA 151" name "South Old Alabama Highway"
+47 90 1.0 highway secondary lanes 2 ref "GA 201" name "Lafayette Road"
+47 107 1.0 highway secondary lanes 2 ref "GA 136" maxspeed "55 mph"
+48 49 1.0 highway secondary ref "GA 151"
+49 77 1.0 highway secondary ref "GA 151" maxspeed "55 mph" name "Old Alabama Road"
+49 78 1.0 highway tertiary name "County Line Road"
+50 51 1.0 highway tertiary bridge yes
+50 52 1.0 highway tertiary lanes 2 maxspeed "45 mph"
+51 53 1.0 highway trunk lanes 2 ref "US 27;GA 1" bridge yes
+51 54 1.0 highway secondary maxspeed "30 mph" bridge yes
+51 62 1.0 highway trunk lanes 2 ref "US 27;GA 1" bridge yes
+52 55 1.0 bridge yes name "Boynton Drive"
+52 54 1.0 highway tertiary bridge yes
+52 56 1.0 highway tertiary name "Three Notch Road"
+52 57 1.0 highway primary lanes 2 ref "GA 2" name "Battlefield Parkway"
+52 58 1.0 highway primary ref "GA 2" bridge yes name "Battlefield Parkway"
+53 54 1.0 highway secondary
+53 54 1.0 highway tertiary
+53 59 1.0 highway tertiary name "McFarland Avenue"
+53 59 1.0 highway primary lanes 4 ref "GA 2" bridge yes name "Battlefield Parkway"
+53 60 1.0 highway trunk lanes 4 ref "US 27;GA 1"
+53 61 1.0 highway secondary ref "GA 146" maxspeed "50 mph" name "Cloud Springs Road"
+53 58 1.0 highway primary lanes 6 ref "GA 2" name "Battlefield Parkway"
+53 62 1.0 highway trunk lanes 2 ref "US 27;GA 1" bridge yes
+55 81 1.0 highway motorway ref "I 75" bridge yes
+55 57 1.0 highway motorway ref "I 75" maxspeed "65 mph"
+55 57 1.0 highway primary lanes 3 ref "GA 2" name "Battlefield Parkway"
+55 56 1.0 highway primary ref "US 41;US 76; GA 3" name "Nashville Street"
+55 77 1.0 highway secondary lanes 2 ref "GA 151" maxspeed "55 mph" bridge yes
+55 82 1.0 highway secondary lanes 2 bridge yes name "Lafayette Street"
+55 82 1.0 highway primary lanes 2 ref "US 41;US 76; GA 2; GA 3; GA 151" name "Nashville Street"
+56 64 1.0 highway primary ref "US 41;US 76; GA 3"
+57 64 1.0 highway motorway lanes 3 ref "I 75" maxspeed "65 mph" bridge yes
+57 79 1.0 highway motorway ref "I 75" maxspeed "65 mph" bridge yes
+61 63 1.0 highway secondary lanes 2 ref "GA 146" maxspeed "50 mph" bridge yes name "Cloud Springs Road"
+61 80 1.0 highway secondary ref "GA 146" maxspeed "50 mph" bridge yes name "Cloud Springs Road"
+63 64 1.0 highway secondary ref "GA 146" name "Cloud Springs Road"
+64 79 1.0 highway motorway ref "I 75" maxspeed "65 mph" bridge yes
+64 80 1.0 highway secondary lanes 2 ref "GA 146" maxspeed "50 mph" name "Cloud Springs Road"
+66 70 1.0 highway primary lanes 2 ref "US 11;58" name "Birmingham Pike"
+67 68 1.0 highway secondary ref "GA 299"
+67 69 1.0 highway motorway lanes 2 ref "I 24" maxspeed "65 mph"
+67 70 1.0 highway secondary ref "GA 299"
+67 75 1.0 highway motorway lanes 2 ref "I 24" maxspeed "65 mph" bridge yes
+69 74 1.0 highway motorway_link lanes 2 bridge yes
+69 76 1.0 highway motorway lanes 2 ref "I 24" maxspeed "65 mph"
+72 76 1.0 highway motorway_link
+72 75 1.0 highway motorway_link
+73 74 1.0 highway motorway_link lanes 1
+73 75 1.0 highway motorway lanes 2 ref "I 24" maxspeed "65 mph" bridge yes
+77 89 1.0 highway tertiary
+81 83 1.0 highway motorway ref "I 75" maxspeed "70 mph"
+81 84 1.0 highway primary lanes 2 ref "US 41;US 76;GA 2;GA 3"
+81 85 1.0 highway secondary ref "GA 2" maxspeed "55 mph" bridge yes
+81 86 1.0 highway primary name "Chattanooga Road"
+81 110 1.0 highway motorway ref "I 75" maxspeed "70 mph"
+82 84 1.0 highway primary lanes 2 ref "US 41;US 76;GA 2;GA 3" maxspeed "35 mph"
+82 88 1.0 highway secondary ref "GA 151;US 41" name "Tennessee Street"
+83 87 1.0 highway motorway ref "I 75" maxspeed "70 mph" bridge yes
+85 116 1.0 highway secondary lanes 2 ref "GA 2" bridge yes name "Prater Mill Road Northeast"
+85 87 1.0 highway secondary ref "GA 201" maxspeed "55 mph"
+86 91 1.0 highway primary lanes 4 ref "US 41;US 76; GA 3; GA 201" name "Chattanooga Road"
+86 87 1.0 highway secondary ref "GA 201" name "North Varnell Road"
+87 110 1.0 highway motorway lanes 3 ref "I 75" maxspeed "70 mph" bridge yes
+87 92 1.0 highway motorway lanes 3 ref "I 75" maxspeed "70 mph" bridge yes
+87 108 1.0 highway motorway lanes 3 ref "I 75" maxspeed "70 mph"
+89 90 1.0 highway secondary ref "GA 201" name "Lafayette Road"
+89 91 1.0 highway tertiary name "Old Chattanooga Road"
+89 91 1.0 highway primary lanes 4 ref "US 41;US 76; GA 3; GA 201" name "Chattanooga Road"
+89 92 1.0 highway primary lanes 4 ref "US 41;US 76; GA 3" name "Chattanooga Road"
+89 93 1.0 highway tertiary lanes 2
+89 93 1.0 highway tertiary name "Mill Creek Road"
+90 102 1.0 highway tertiary name "Utility Road"
+92 108 1.0 highway motorway lanes 3 ref "I 75" maxspeed "70 mph" bridge yes
+92 109 1.0 highway tertiary lanes 4 ref "US 41;US 76;GA 3" maxspeed "55 mph" bridge yes name "Chattanooga Road"
+92 109 1.0 highway primary name "North Bypass" lanes 4 ref "US 41;US 76;GA 3" maxspeed "55 mph" bridge yes
+92 105 1.0 highway tertiary ref "I 75" maxspeed "70 mph"
+92 105 1.0 highway motorway ref "I 75" maxspeed "70 mph"
+92 105 1.0 highway tertiary
+93 103 1.0 highway tertiary lanes 2 name "Mill Creek Road"
+94 95 1.0 highway primary lanes 2 ref "US 76;GA 52" name "Chatsworth Road Southeast"
+95 96 1.0 highway tertiary name "Mitchell Bridge Road Northeast"
+95 97 1.0 highway primary lanes 2 ref "US 76;GA 52" bridge yes name "Chatsworth Road Southeast"
+96 98 1.0 highway tertiary name "Mitchell Bridge Road Northeast"
+97 99 1.0 highway primary lanes 4 ref "US 41; US 76; GA 3" name "Admiral Mack Gaston Parkway"
+97 100 1.0 highway primary ref "GA 52" name "East Walnut Avenue"
+97 101 1.0 highway primary lanes 2 ref "US 41;GA 3" bridge yes name "Admiral Mack Gaston Parkway"
+99 109 1.0 highway primary ref "US 41;US 76;GA 3" maxspeed "55 mph" bridge yes name "North Bypass"
+99 111 1.0 highway primary lanes 4 bridge yes
+99 112 1.0 highway tertiary lanes 4 ref "GA 71" maxspeed "45 mph" name "Pleasant Grove Drive Northeast"
+99 112 1.0 highway primary name "Cleveland Highway" lanes 4 ref "GA 71" maxspeed "45 mph"
+100 111 1.0 highway secondary
+100 115 1.0 highway primary lanes 3 ref "GA 52" name "East Walnut Avenue"
+100 101 1.0 highway tertiary name "Airport Road"
+101 122 1.0 highway primary lanes 2 ref "US 41;GA 3" bridge yes
+101 131 1.0 highway primary lanes 2 ref "US 41;GA 3" name "Admiral Mack Gaston Parkway"
+102 103 1.0 highway tertiary lanes 2 name "Landfill Road"
+102 104 1.0 highway tertiary
+103 104 1.0 highway tertiary lanes 2 name "Mill Creek Road"
+103 105 1.0 highway tertiary lanes 2
+104 106 1.0 highway tertiary name "Lower Mill Creek Road"
+105 111 1.0 highway primary lanes 4 ref "GA 52" name "West Walnut Avenue"
+105 120 1.0 highway motorway ref "I 75" maxspeed "70 mph"
+106 107 1.0 highway tertiary
+106 124 1.0 highway tertiary name "Lower Mill Creek Road"
+107 124 1.0 highway secondary lanes 2 ref "GA 136" maxspeed "55 mph"
+109 111 1.0 highway secondary
+111 113 1.0 highway secondary lanes 5 maxspeed "45 mph" name "Abutment Road"
+111 114 1.0 highway primary lanes 2 bridge yes name "South Dixie Road"
+111 115 1.0 highway primary lanes 3 ref "GA 52" name "East Walnut Avenue"
+112 118 1.0 highway tertiary lanes 2 name "Beaverdale Road Northeast"
+112 116 1.0 highway primary ref "GA 71"
+113 122 1.0 highway secondary name "Lakeland Road Southeast"
+113 132 1.0 highway tertiary lanes 2 name "Antioch Road"
+114 120 1.0 highway primary lanes 2 name "South Dixie Road"
+114 122 1.0 highway tertiary name "Five Springs Road"
+116 117 1.0 highway secondary lanes 2 ref "GA 2" bridge yes
+117 119 1.0 highway tertiary name "Lake Frances Road Northeast"
+118 119 1.0 highway tertiary name "Lake Frances Road Northeast"
+118 121 1.0 highway tertiary lanes 2 name "Beaverdale Road Northeast"
+119 121 1.0 highway tertiary name "Good Hope Road Northeast"
+120 127 1.0 highway primary lanes 2 ref "US 41;GA 3" maxspeed "55 mph" bridge yes
+120 127 1.0 highway motorway lanes 3 ref "I 75" maxspeed "70 mph" bridge yes
+120 130 1.0 highway primary lanes 4 ref "US 41;GA 3" bridge yes name "South Dalton Bypass"
+122 125 1.0 highway tertiary lanes 2 name "Old Dixie Highway Southeast"
+122 130 1.0 highway primary lanes 4 ref "US 41;GA 3" bridge yes name "South Dalton Bypass"
+122 131 1.0 highway primary lanes 2 ref "US 41;GA 3" bridge yes
+123 124 1.0 highway secondary lanes 2 ref "GA 136" maxspeed "55 mph" name "Resaca Lafayette Road Northwest"
+125 126 1.0 highway tertiary lanes 2 bridge yes
+125 127 1.0 highway primary lanes 2 ref "US 41;GA 3" name "South Dixie Highway"
+125 128 1.0 highway tertiary bridge yes
+125 129 1.0 highway primary lanes 2 ref "US 41;GA 3"
+127 133 1.0 highway tertiary lanes 2 maxspeed "35 mph" name "Carbondale Road Southwest"

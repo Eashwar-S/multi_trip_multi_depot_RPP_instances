@@ -1,0 +1,568 @@
+*vertices 222
+1 0 -94.14093586079115 45.56867572948206 ellipse osmid_original "[186334418, 186335462, 1158374849, 186347317, 186342719, 1679180586, 1679180612]"
+2 1 -94.14581262498207 45.577207528405886 ellipse osmid_original "[186334537, 2791800172, 2791800187]"
+3 14 -94.1347484 45.573625899999996 ellipse
+4 188 -94.1441087 45.5724409 ellipse highway motorway_junction
+5 22 -94.14382626004148 45.565180860353586 ellipse osmid_original "[186338364, 359319210, 2313749420, 186339665, 2313749491, 2313749374, 358133943, 358616030, 2313749422, 2313749389, 2313749432, 2313749431, 2313749462]"
+6 8 -94.15179010005922 45.579220900013176 ellipse osmid_original "[359306360, 359305662]"
+7 19 -94.14572560000002 45.5677014 ellipse highway traffic_signals
+8 186 -94.1409619 45.5655199 ellipse
+9 183 -94.13875935115237 45.56626976091826 ellipse osmid_original "[358131863, 358131027, 358131294, 358132032, 358131718, 358131940, 358132921, 358132165]"
+10 2 -94.146524 45.5814678 ellipse
+11 3 -94.14931280056001 45.578022057883935 ellipse osmid_original "[186334817, 358153662, 359300636]"
+12 10 -94.1461308 45.5744678 ellipse
+13 4 -94.132065 45.56647329999999 ellipse
+14 5 -94.1291886 45.566483299999994 ellipse
+15 6 -94.1318065 45.56030819999999 ellipse
+16 7 -94.13424853466611 45.56774566792523 ellipse osmid_original "[3478967608, 186338099, 3478967604]"
+17 32 -94.13578279696942 45.56339790158583 ellipse osmid_original "[358120616, 1679180590, 357826718]"
+18 185 -94.1296286 45.55903829999999 ellipse
+19 23 -94.15716061781352 45.581709923080325 ellipse osmid_original "[359160102, 1513665732, 186342353, 359301787, 1513665710, 1513665782]"
+20 9 -94.1467882 45.5816486 ellipse highway motorway_junction
+21 11 -94.1328584 45.58830389999999 ellipse
+22 12 -94.13249029823035 45.58065655034508 ellipse osmid_original "[186339863, 186339859]"
+23 13 -94.1413337 45.5878121 ellipse
+24 26 -94.1428826 45.5809527 ellipse
+25 15 -94.16511886664205 45.588484493812544 ellipse osmid_original "[186335592, 359309152, 186343573, 186342344]"
+26 25 -94.16170192445796 45.585235909129445 ellipse osmid_original "[2609647798, 359309149, 2609647784, 2609647772, 2609647802, 2609647820]"
+27 28 -94.1591877 45.5908808 ellipse
+28 30 -94.16801777469966 45.59059267223137 ellipse osmid_original "[775535346, 186343541, 359310269, 775535345]"
+29 16 -94.1512714 45.5653444 ellipse highway traffic_signals
+30 17 -94.158404 45.5736417 ellipse
+31 18 -94.14883909995255 45.56251520001055 ellipse osmid_original "[186337925, 359319211]"
+32 20 -94.15952335238244 45.56186845151424 ellipse osmid_original "[497239427, 188211503]"
+33 21 -94.15648044996459 45.559260400007766 ellipse osmid_original "[188255760, 7717527047]"
+34 33 -94.1456428 45.5586861 ellipse
+35 65 -94.15929557469961 45.56067283347163 ellipse osmid_original "[188230521, 188248131, 6317458956]"
+36 66 -94.1657788 45.568222899999995 ellipse
+37 63 -94.1616777 45.561634 ellipse highway traffic_signals
+38 134 -94.1573465 45.5601971 ellipse highway stop
+39 133 -94.15878349996478 45.55827615000828 ellipse osmid_original "[188231375, 443191436]"
+40 108 -94.15451755063631 45.55731685009291 ellipse osmid_original "[3085605087, 3085605185]"
+41 27 -94.1467354 45.5659802 ellipse
+42 49 -94.13708249610087 45.563972575907464 ellipse osmid_original "[1679180584, 1679180589, 566102516, 1679180611]"
+43 37 -94.1426336 45.56274619999999 ellipse
+44 24 -94.1573748 45.5856784 ellipse
+45 29 -94.158496 45.5899894 ellipse
+46 139 -94.17165897780909 45.58683182726548 ellipse osmid_original "[188233480, 5530505772, 5530505766, 188233487, 1513665674, 1513665750]"
+47 31 -94.13458900000002 45.56211319999999 ellipse
+48 184 -94.1364087 45.56532119999999 ellipse
+49 182 -94.1366105 45.56693229999999 ellipse
+50 34 -94.14237417572804 45.558698793739445 ellipse osmid_original "[188079397, 188079398, 1969354453]"
+51 35 -94.14277045000159 45.548797100025446 ellipse osmid_original "[188099547, 188099605]"
+52 36 -94.1399083 45.558706199999996 ellipse highway stop
+53 44 -94.1493485 45.54931199999999 ellipse
+54 43 -94.1418709 45.54343809999999 ellipse
+55 42 -94.1316102 45.54882059999999 ellipse
+56 38 -94.1315683 45.5556276 ellipse
+57 46 -94.13040260127919 45.55852343380349 ellipse osmid_original "[188183092, 188141717, 188142421]"
+58 45 -94.13175790000001 45.554303 ellipse
+59 39 -94.1311966 45.5425907 ellipse highway stop
+60 40 -94.1365253 45.53846450000001 ellipse
+61 41 -94.1390587 45.54316 ellipse
+62 47 -94.1365992 45.53545739999999 ellipse
+63 87 -94.1545009556642 45.54944004874373 ellipse osmid_original "[2313807597, 2313807621, 3085605092, 2313807568, 2313807548, 2313807556, 2313807549, 2313807610, 2313807600, 2313807609]"
+64 48 -94.1303918 45.5343705 ellipse
+65 50 -94.2394735 45.5864412 ellipse
+66 51 -94.22135793867722 45.58656263298053 ellipse osmid_original "[4282001027, 4282001028, 4282455105]"
+67 52 -94.2336706 45.5751044 ellipse
+68 53 -94.2426508 45.5884234 ellipse
+69 204 -94.22159943207994 45.58256568551409 ellipse osmid_original "[563317621, 4282048968, 563317629, 563317637, 4282048960]"
+70 55 -94.21959700000001 45.5863551 ellipse
+71 216 -94.23271080008897 45.57371375000623 ellipse osmid_original "[2791915029, 2791915056]"
+72 54 -94.2109813120129 45.58631548671145 ellipse osmid_original "[188205108, 6770768188, 6770768255, 6770768230, 6770760641, 6770768189, 6770760648, 6770760652, 6770760673]"
+73 198 -94.21034456893717 45.58907214932585 ellipse osmid_original "[2309017430, 2309017393, 4067109641, 2309017417, 4067109642, 2309017445, 2309017446, 2309017476, 4067109640]"
+74 215 -94.21950269891643 45.57810601221539 ellipse osmid_original "[4282020648, 4282020477, 4282020482, 4282020486, 4282020591, 4282048972, 4282020592, 4282020604]"
+75 220 -94.20567443894437 45.5861111020074 ellipse osmid_original "[6770739153, 6770771116, 6770768207, 6770768208]"
+76 56 -94.19902789815168 45.541701950824745 ellipse osmid_original "[188205204, 188207257]"
+77 57 -94.1984044 45.5369826 ellipse
+78 58 -94.1930314 45.544004199999996 ellipse
+79 59 -94.202929 45.538939799999994 ellipse highway traffic_signals
+80 61 -94.1984881 45.542795899999994 ellipse
+81 60 -94.1932964 45.536913500000004 ellipse
+82 67 -94.1892534 45.54691230000001 ellipse
+83 83 -94.2190973 45.540767200000005 ellipse
+84 135 -94.1777427 45.536803600000006 ellipse
+85 200 -94.19695279999901 45.544457500028784 ellipse osmid_original "[4341593472, 4341593473]"
+86 62 -94.16545580002827 45.56061440001575 ellipse osmid_original "[188208439, 2313748990]"
+87 64 -94.1667866 45.563927699999994 ellipse
+88 109 -94.16221456394055 45.55759462950002 ellipse osmid_original "[1019255087, 188248343, 2313748815, 443014148, 188242988, 1188665236, 2313748859, 443191670, 1019255128]"
+89 155 -94.1677789 45.5596187 ellipse highway traffic_signals
+90 112 -94.1692395 45.5667629 ellipse highway traffic_signals
+91 130 -94.1596009 45.55923069999999 ellipse highway traffic_signals
+92 111 -94.1682374 45.5710789 ellipse
+93 68 -94.2291437 45.5628213 ellipse
+94 69 -94.22941784563376 45.55914884838932 ellipse osmid_original "[8005079775, 188221367, 8005079771, 188268195, 3313383959, 8005079784, 3313384761, 3313384762]"
+95 70 -94.2289553 45.56583969999999 ellipse
+96 72 -94.22936750000126 45.553504600000295 ellipse osmid_original "[188248336, 2524960839]"
+97 86 -94.2240953 45.55894129999999 ellipse
+98 145 -94.23689290000105 45.55362695000038 ellipse osmid_original "[188239142, 2524960875]"
+99 78 -94.22517341643204 45.56897942061115 ellipse osmid_original "[188219077, 2791876526, 2791876617, 2791893940, 2791876513, 2791876511, 2791876555, 2791893918, 2791876603, 2791893942, 2791876587, 2791876604]"
+100 71 -94.22416536091603 45.553437049620456 ellipse osmid_original "[188214172, 2524960863, 2524960885, 492820618, 2524960785, 2524960792, 4348217657, 2524960861]"
+101 168 -94.22416325000154 45.54956820000033 ellipse osmid_original "[496559796, 1345472114]"
+102 169 -94.21923631647373 45.55336247377997 ellipse osmid_original "[2524960786, 188255909, 2524960841, 2524960790, 2524960834, 2524960847]"
+103 159 -94.22931404999935 45.549602950000335 ellipse osmid_original "[1345472118, 188248657]"
+104 73 -94.17298553435826 45.580465800190524 ellipse osmid_original "[188216099, 188216103, 188234889, 1513665763, 1158393525, 493873948, 1513665792]"
+105 74 -94.18270785000206 45.576681650035326 ellipse osmid_original "[188230301, 1158393514]"
+106 127 -94.17367 45.5766232 ellipse highway traffic_signals
+107 129 -94.1709467 45.57660359999999 ellipse
+108 94 -94.1858624 45.5766703 ellipse
+109 123 -94.1826884 45.5743165 ellipse
+110 75 -94.25434347234618 45.541463362531424 ellipse osmid_original "[188218725, 1345472104, 188218729]"
+111 76 -94.25646000000002 45.5403715 ellipse
+112 105 -94.2539151 45.53449200000001 ellipse
+113 77 -94.25464760424447 45.55302338569488 ellipse osmid_original "[3634688771, 2101750091, 3634688792, 3634688780]"
+114 214 -94.2237583 45.5718894 ellipse
+115 179 -94.22898786298215 45.57067794868144 ellipse osmid_original "[498279278, 2791893952, 2791893922]"
+116 121 -94.21251605559424 45.56683585909199 ellipse osmid_original "[188225918, 2792042135, 2791945613, 2792041979]"
+117 79 -94.20537655981434 45.54974213195908 ellipse osmid_original "[188220276, 188220340, 1659742116, 1659742111, 1345472102, 1659742117, 1345472068, 1659742127, 1659742124, 4341853076, 8188369669, 1659742129, 1659742130, 3716329545, 4341853073, 4341853061, 8188369660, 8188369654, 8188369665, 8188369686]"
+118 80 -94.20514714997705 45.55329582319258 ellipse osmid_original "[188220279, 2524960830, 2524960900, 188220387, 443043598, 3716329548, 2524960807, 3716329549, 3716329551, 2524960831, 3716329555, 7728740152]"
+119 206 -94.21381405000066 45.549771800000336 ellipse osmid_original "[1151805811, 1345472041]"
+120 221 -94.20113249999517 45.549572800689496 ellipse osmid_original "[8188369680, 8188369675]"
+121 81 -94.20597673447769 45.5587246114673 ellipse osmid_original "[188220283, 3313367287, 3313384841, 445998796, 3313384856, 3313384847, 3313384879, 3313367289, 3313384889, 3313384864, 3313384862, 3313384896]"
+122 164 -94.1983715936105 45.55327070560368 ellipse osmid_original "[4341571576, 4341571562, 4341571585, 4341571563]"
+123 144 -94.21379189999942 45.5534467000003 ellipse osmid_original "[2524960862, 2524960823]"
+124 138 -94.19826285000143 45.55863535000008 ellipse osmid_original "[3313384803, 188269773]"
+125 82 -94.20585130375589 45.56558414822595 ellipse osmid_original "[188220288, 2791945599, 2792041884, 2792041952, 445998797, 2792042086, 2791869590, 2791945533, 2792041996, 2792042051]"
+126 122 -94.21366798050552 45.55889007957643 ellipse osmid_original "[3313384783, 3313367261, 188271493, 2792042089, 3313367328, 3313367303, 2792042093, 3313367320, 3313367329, 3313384774]"
+127 217 -94.2057243 45.5672944 ellipse
+128 118 -94.2033422 45.5659283 ellipse
+129 84 -94.2294295 45.5402364 ellipse
+130 85 -94.219037 45.548045300000005 ellipse
+131 106 -94.2293271 45.5481022 ellipse
+132 167 -94.21900990000135 45.54984630000032 ellipse osmid_original "[188255664, 1345472060]"
+133 158 -94.22416 45.5480791 ellipse
+134 170 -94.218931 45.55889140000001 ellipse
+135 107 -94.1546024 45.55265740000001 ellipse
+136 156 -94.1610992 45.54290619999998 ellipse highway traffic_signals
+137 110 -94.16017985000148 45.5494093500003 ellipse osmid_original "[188235418, 443547846]"
+138 88 -94.172468 45.540866 ellipse
+139 89 -94.1777295 45.5389202 ellipse
+140 90 -94.17026075004553 45.54230315002186 ellipse osmid_original "[443846506, 443525901]"
+141 91 -94.1776962 45.541321599999996 ellipse
+142 174 -94.16562110002842 45.53668720003035 ellipse osmid_original "[443525900, 443820773]"
+143 191 -94.17301115003652 45.54556030001906 ellipse osmid_original "[443807289, 443848566]"
+144 92 -94.1860941 45.5414178 ellipse
+145 93 -94.17760888328085 45.54840757129149 ellipse osmid_original "[4698488704, 4698488744, 4698488719, 4698488702, 4698488705, 4698488641, 4698488739, 4698488642, 4698488673, 7212283017, 4698488687, 4698488703, 7212283010]"
+146 146 -94.17756040632894 45.55383941971036 ellipse osmid_original "[188240962, 443043584, 4698488622, 4698488621]"
+147 104 -94.17243305000021 45.54954070000037 ellipse osmid_original "[188253775, 443547867]"
+148 132 -94.18792302490694 45.548983716589234 ellipse osmid_original "[497821902, 188253069, 8485149402, 188255689]"
+149 95 -94.1663635 45.561534399999985 ellipse
+150 96 -94.1732126 45.55862969999999 ellipse
+151 154 -94.1723842 45.557675800000005 ellipse
+152 136 -94.17752400000002 45.5585297 ellipse highway traffic_signals
+153 97 -94.1647126 45.55308569999999 ellipse
+154 98 -94.1651865 45.556637299999984 ellipse highway stop
+155 99 -94.1602256 45.55262969999999 ellipse
+156 100 -94.1672591 45.553086 ellipse
+157 101 -94.16725240000754 45.549475200000536 ellipse osmid_original "[188242896, 443547851]"
+158 102 -94.1724208238831 45.55355287591917 ellipse osmid_original "[188224697, 443043583, 188242995]"
+159 103 -94.16762409996741 45.55574535000425 ellipse osmid_original "[443043580, 188242887]"
+160 192 -94.1672543 45.54759729999999 ellipse
+161 153 -94.1724145 45.5550903 ellipse
+162 149 -94.1684695 45.5567549 ellipse
+163 152 -94.16530760000002 45.5567294 ellipse highway stop
+164 151 -94.1661548 45.5577316 ellipse highway traffic_signals
+165 114 -94.1716955 45.5695962 ellipse highway traffic_signals
+166 126 -94.1690474 45.57202319999999 ellipse
+167 113 -94.1878635 45.5658196 ellipse
+168 115 -94.1981916 45.5658683 ellipse highway traffic_signals
+169 116 -94.1877746 45.5730474 ellipse highway traffic_signals
+170 117 -94.18787820000001 45.56219209999999 ellipse
+171 128 -94.1736299 45.57301919999998 ellipse highway traffic_signals
+172 140 -94.183708 45.5677962 ellipse
+173 119 -94.1981225 45.573110199999995 ellipse
+174 120 -94.1982272 45.5621294 ellipse
+175 124 -94.1834103801112 45.573110303588756 ellipse osmid_original "[188241159, 2787098605, 188251879]"
+176 137 -94.1879127 45.55856639999998 ellipse highway traffic_signals
+177 142 -94.2026233 45.5731589 ellipse
+178 208 -94.20504840457205 45.57308353927889 ellipse osmid_original "[1646478362, 1646478382, 1646478385, 1646478414, 1646478418, 1646478424]"
+179 143 -94.213763 45.5570169 ellipse
+180 125 -94.1614216 45.564925 ellipse
+181 141 -94.1699041 45.57406439999999 ellipse
+182 131 -94.1878703 45.5441193 ellipse
+183 166 -94.19053349999919 45.55321525000035 ellipse osmid_original "[443043592, 188262115]"
+184 190 -94.18021800000001 45.5536094 ellipse
+185 147 -94.18793717569272 45.55319862289673 ellipse osmid_original "[4348154697, 443043591, 8485149396, 4348154588]"
+186 161 -94.19029094999964 45.54847900000028 ellipse osmid_original "[188251928, 1345472043]"
+187 189 -94.1574533 45.556709199999986 ellipse
+188 148 -94.1775372 45.555695400000005 ellipse
+189 171 -94.19568140000001 45.55860899999999 ellipse
+190 180 -94.1879471 45.5549604 ellipse
+191 181 -94.1983247 45.55501939999999 ellipse
+192 150 -94.1707632 45.55578710000001 ellipse
+193 160 -94.174747 45.554106 ellipse
+194 157 -94.1620959 45.53674660000001 ellipse highway traffic_signals
+195 162 -94.19313285000058 45.54849250000031 ellipse osmid_original "[188252702, 1345472064]"
+196 165 -94.19833376372137 45.54961747559678 ellipse osmid_original "[4341593398, 4341571523, 4341571524, 4341593399]"
+197 163 -94.19313444999833 45.553230900000365 ellipse osmid_original "[188252142, 443043593]"
+198 219 -94.20093105000267 45.54969710011539 ellipse osmid_original "[4343826135, 4343826165]"
+199 172 -94.2468912 45.5875025 ellipse
+200 173 -94.24746820001691 45.57009895000132 ellipse osmid_original "[1990226886, 2575498441]"
+201 202 -94.2585755 45.573760400000005 ellipse
+202 175 -94.2404194 45.5688812 ellipse
+203 178 -94.2467565 45.567092699999996 ellipse highway traffic_signals
+204 176 -94.25678430000002 45.561701500000005 ellipse
+205 177 -94.2330805 45.569978899999995 ellipse
+206 199 -94.25251011990757 45.56477652708655 ellipse osmid_original "[491177479, 2002953379, 2002953335, 491177473]"
+207 187 -94.1348126 45.56783329999999 ellipse highway motorway_junction
+208 193 -94.1966958 45.5896829 ellipse highway motorway_junction
+209 194 -94.2014563 45.583169700000006 ellipse
+210 195 -94.19939946936113 45.58659539726864 ellipse osmid_original "[6770785111, 6770765424, 497248213, 6770782965, 6770768036, 6770768056, 6770765425, 6770785123, 6770771100, 6770768048, 6770768055, 6770768077, 6770768083, 6770771089, 6770782980, 6770785087]"
+211 196 -94.20275970000002 45.5894024 ellipse
+212 201 -94.192787853334 45.58828460386199 ellipse osmid_original "[567523610, 567523647, 567523628, 4090467920]"
+213 213 -94.1958858 45.59000869999999 ellipse
+214 197 -94.1961996 45.59096389999999 ellipse
+215 205 -94.18823987980576 45.59053579112595 ellipse osmid_original "[567523334, 567523359, 567523378, 567523401]"
+216 207 -94.1949517 45.58771829999999 ellipse
+217 203 -94.2600068 45.57413360000001 ellipse
+218 218 -94.2201982 45.579404499999995 ellipse
+219 209 -94.2057237 45.57196139999999 ellipse
+220 211 -94.2043013 45.57458720000001 ellipse
+221 210 -94.2059652 45.5671254 ellipse
+222 212 -94.2013702 45.58224369999999 ellipse highway motorway_junction
+*edges
+1 2 1.0 name "Highway 10 North" highway tertiary lanes 2
+1 3 1.0 name "East Saint Germain Street" highway tertiary lanes 2
+1 4 1.0 lanes 2 ref "US 10" maxspeed "55 mph"
+1 5 1.0 highway tertiary
+1 6 1.0 name "Franklin Avenue Northeast" highway tertiary lanes 2
+1 7 1.0 name "East Saint Germain Street" highway secondary lanes 4
+1 8 1.0 highway motorway_link
+1 9 1.0 highway motorway lanes 2 ref "US 10" maxspeed "55 mph"
+1 12 1.0 lanes 2 ref "US 10"
+1 207 1.0 highway motorway_link
+2 10 1.0 highway motorway_link
+2 11 1.0 name "Benton Drive" highway secondary lanes 2 bridge yes
+2 4 1.0 highway motorway_link
+3 22 1.0 name "14th Avenue Northeast" highway tertiary lanes 2 ref "CR 74"
+4 10 1.0 highway motorway lanes 2 ref "US 10" maxspeed "55 mph"
+5 31 1.0 name "3rd Street Southeast" highway trunk lanes 2 ref "MN 23"
+5 41 1.0 name "1st Street Southeast" highway tertiary
+5 7 1.0 name "Lincoln Avenue Southeast" highway tertiary lanes 2
+5 42 1.0 highway motorway_link lanes 1
+5 9 1.0 highway trunk lanes 2 ref "MN 23"
+5 43 1.0 name "Lincoln Avenue Southeast" highway tertiary
+5 8 1.0 highway trunk lanes 2 ref "MN 23"
+6 19 1.0 name "Benton Drive" highway secondary lanes 2
+6 11 1.0 name "Benton Drive" highway secondary lanes 2
+7 29 1.0 name "East Saint Germain Street" highway secondary lanes 4
+7 19 1.0 highway tertiary lanes 2
+8 9 1.0 highway trunk lanes 2 ref "MN 23"
+9 49 1.0 highway trunk lanes 2 ref "MN 23" maxspeed "45 mph"
+9 42 1.0 highway motorway lanes 2 ref "US 10" maxspeed "55 mph"
+9 17 1.0 highway motorway lanes 2 ref "US 10" maxspeed "55 mph"
+9 207 1.0 highway trunk lanes 2 ref "MN 23"
+11 12 1.0 highway motorway_link
+11 20 1.0 highway motorway_link
+12 20 1.0 highway motorway lanes 2 ref "US 10" maxspeed "65 mph"
+13 14 1.0 name "2nd Street Southeast" highway tertiary ref "CR 8"
+13 15 1.0 name "15th Avenue Southeast" highway tertiary
+13 16 1.0 highway tertiary ref "CR 8"
+15 17 1.0 name "Frontage Road" highway tertiary
+15 18 1.0 name "Frontage Road" highway tertiary
+16 49 1.0 highway trunk lanes 2 ref "MN 23" maxspeed "45 mph"
+17 48 1.0 name "Frontage Road" highway tertiary
+17 49 1.0 highway motorway_link
+17 47 1.0 highway motorway_link lanes 1
+17 47 1.0 highway motorway lanes 2 ref "US 10" maxspeed "55 mph"
+19 44 1.0 name "Summit Avenue South" highway tertiary lanes 2
+19 26 1.0 name "Benton Drive" highway secondary lanes 2
+21 22 1.0 name "Mayhew Lake Road Northeast" highway tertiary ref "CR 1"
+21 23 1.0 highway tertiary lanes 2
+22 24 1.0 name "10th Street Northeast" highway tertiary lanes 2 ref "CR 46"
+23 24 1.0 name "10th Avenue Northeast" highway tertiary lanes 2
+24 44 1.0 highway tertiary lanes 2 ref "CR 46" bridge yes
+25 26 1.0 name "Benton Drive" highway secondary lanes 2
+25 27 1.0 name "1st Street South" highway tertiary lanes 2
+25 28 1.0 name "Benton Drive" highway secondary lanes 2
+26 44 1.0 name "5th Street South" highway tertiary lanes 2 ref "CR 46"
+27 45 1.0 name "6th Avenue South" highway tertiary
+28 46 1.0 name "9th Avenue North" highway secondary lanes 2 bridge yes
+29 30 1.0 name "Wilson Avenue Northeast" highway tertiary lanes 2 maxspeed "30 mph"
+29 31 1.0 name "Wilson Avenue Southeast" highway tertiary lanes 3 maxspeed "30 mph"
+29 32 1.0 highway secondary lanes 4 bridge yes
+31 33 1.0 ref "MN 23" maxspeed "35 mph" bridge yes
+31 34 1.0 name "Wilson Avenue Southeast" highway tertiary maxspeed "30 mph"
+32 35 1.0 name "6th Avenue North" highway tertiary lanes 2
+32 35 1.0 name "5th Avenue North" highway tertiary lanes 2
+32 36 1.0 name "6th Avenue North" highway tertiary lanes 2
+32 37 1.0 name "1st Street North" highway secondary lanes 4
+33 38 1.0 name "5th Avenue South" highway tertiary lanes 2
+33 39 1.0 name "2nd Street South" highway primary ref "MN 23" maxspeed "35 mph"
+33 40 1.0 name "5th Avenue South" highway tertiary lanes 2
+35 37 1.0 name "7th Avenue North" highway tertiary lanes 2
+35 91 1.0 name "7th Avenue South" highway tertiary lanes 2
+35 88 1.0 name "West Saint Germain Street" highway tertiary lanes 2
+35 38 1.0 name "5th Avenue South" highway tertiary lanes 2
+36 92 1.0 name "6th Avenue North" highway tertiary lanes 2
+36 90 1.0 name "8th Street North" highway tertiary lanes 2
+37 86 1.0 name "2nd Street North" highway secondary lanes 4
+38 91 1.0 name "1st Street South" highway tertiary lanes 2
+39 91 1.0 name "7th Avenue South" highway tertiary lanes 2
+39 88 1.0 name "2nd Street South" highway primary ref "MN 23" maxspeed "35 mph" bridge yes
+39 187 1.0 name "7th Avenue South" highway tertiary lanes 2
+40 135 1.0 name "5th Avenue South" highway tertiary lanes 2
+42 57 1.0 name "Highway 10 South" lanes 2
+42 57 1.0 highway motorway ref "US 10" maxspeed "65 mph"
+43 52 1.0 name "Lincoln Avenue Southeast" highway tertiary
+46 104 1.0 name "9th Avenue North" highway secondary lanes 2
+47 57 1.0 highway motorway lanes 2 ref "US 10" maxspeed "65 mph"
+50 51 1.0 name "Kilian Boulevard Southeast" highway tertiary lanes 1
+50 52 1.0 name "7th Street Southeast" highway tertiary
+51 53 1.0 highway tertiary lanes 2 bridge yes
+51 54 1.0 name "Kilian Boulevard Southeast" highway tertiary
+51 55 1.0 name "University Drive Southeast" highway tertiary lanes 2
+52 56 1.0 name "Lincoln Avenue Southeast" highway tertiary
+53 63 1.0 name "University Drive South" highway tertiary
+54 61 1.0 name "Minnesota Boulevard Southeast" highway tertiary lanes 2
+55 58 1.0 name "15th Avenue Southeast" highway tertiary
+55 59 1.0 name "15th Avenue Southeast" highway tertiary
+56 57 1.0 name "15th Avenue Southeast" highway tertiary
+56 58 1.0 name "15th Avenue Southeast" highway tertiary
+59 60 1.0 name "15th Avenue Southeast" highway tertiary
+59 61 1.0 name "Minnesota Boulevard Southeast" highway tertiary lanes 2
+60 62 1.0 name "County Road 8 Southeast" highway secondary ref "CR 8"
+60 61 1.0 name "9th Avenue Southeast" highway tertiary ref "CR 8"
+62 64 1.0 highway tertiary
+63 135 1.0 name "5th Avenue South" highway tertiary lanes 2
+63 136 1.0 highway tertiary lanes 2
+63 137 1.0 name "University Drive South" highway secondary
+65 66 1.0 name "County Road 120" highway tertiary ref "CR 120"
+65 67 1.0 name "County Road 4" highway secondary lanes 4 ref "CR 4" maxspeed "40 mph"
+65 68 1.0 name "County Road 4" highway secondary lanes 4 ref "CR 4" maxspeed "40 mph"
+66 69 1.0 name "Pine Cone Road South" highway tertiary
+66 70 1.0 name "County Road 120" highway secondary_link ref "CR 120"
+66 70 1.0 name "County Road 120" highway tertiary ref "CR 120"
+67 71 1.0 name "Veterans Drive" highway secondary lanes 2 ref "CR 4" maxspeed "40 mph"
+67 115 1.0 name "Veterans Drive" highway secondary ref "CR 4" maxspeed "40 mph"
+69 218 1.0 name "Pine Cone Road South" highway tertiary
+70 72 1.0 name "County Road 120" highway tertiary ref "CR 120"
+71 115 1.0 name "Veterans Drive" highway secondary lanes 2 ref "CR 4" maxspeed "40 mph"
+72 73 1.0 name "Leander Avenue" highway tertiary
+72 74 1.0 name "County Road 134" highway tertiary lanes 2 ref "CR 134"
+72 75 1.0 name "County Road 120" highway tertiary lanes 2 ref "CR 120" maxspeed "40 mph"
+73 211 1.0 name "23rd Street South" highway tertiary
+74 114 1.0 name "County Road 134" highway tertiary lanes 2 ref "CR 134"
+74 218 1.0 name "Pine Cone Road South" highway tertiary
+75 210 1.0 name "County Road 120" highway tertiary lanes 2 ref "CR 120" maxspeed "40 mph"
+76 77 1.0 name "Quarry Road" highway tertiary lanes 2
+76 78 1.0 name "Maine Prairie Road" highway tertiary lanes 2
+76 79 1.0 name "West Saint Germain Street" highway secondary
+76 80 1.0 name "West Saint Germain Street" highway secondary
+77 79 1.0 name "22nd Street South" highway tertiary lanes 2
+77 81 1.0 name "22nd Street South" highway tertiary lanes 2
+78 82 1.0 name "Maine Prairie Road" highway tertiary lanes 2
+78 81 1.0 name "Oak Grove Road Southwest" highway tertiary
+79 83 1.0 highway tertiary lanes 2 ref "CR 137" bridge yes
+80 85 1.0 name "West Saint Germain Street" highway secondary
+81 84 1.0 name "22nd Street South" highway tertiary lanes 2
+83 129 1.0 name "7th Street South" highway secondary ref "CR 137"
+83 130 1.0 name "2nd Avenue South" highway secondary lanes 4
+84 139 1.0 name "Cooper Avenue South" highway tertiary lanes 2
+85 186 1.0 name "West Saint Germain Street" highway tertiary lanes 2
+85 196 1.0 name "33rd Avenue South" highway secondary
+86 87 1.0 name "9th Avenue North" highway secondary lanes 2
+86 88 1.0 name "10th Avenue North" highway secondary lanes 2
+86 89 1.0 name "2nd Street North" highway tertiary lanes 4
+87 90 1.0 name "9th Avenue North" highway secondary lanes 4
+88 155 1.0 name "9th Avenue South" highway secondary lanes 4
+88 91 1.0 name "1st Street South" highway tertiary lanes 2
+88 163 1.0 name "Division Street" highway primary lanes 3 ref "MN 23" maxspeed "35 mph"
+88 164 1.0 name "West Saint Germain Street" highway tertiary lanes 2
+88 154 1.0 name "Division Street" highway primary lanes 2 ref "MN 23" maxspeed "35 mph" bridge yes
+89 164 1.0 name "12th Avenue North" highway tertiary
+89 151 1.0 name "2nd Street North" highway tertiary
+90 167 1.0 lanes 4 ref "CR 4"
+90 165 1.0 name "9th Avenue North" highway secondary
+92 165 1.0 name "11th Street North" highway tertiary lanes 2
+92 166 1.0 name "6th Avenue North" highway tertiary lanes 2
+93 94 1.0 name "54th Avenue North" highway tertiary ref "CR 138"
+93 95 1.0 name "54th Avenue North" highway tertiary lanes 4 ref "CR 138"
+94 96 1.0 highway tertiary lanes 2
+94 97 1.0 name "3rd Street North" highway secondary lanes 4 ref "CR 81"
+94 98 1.0 lanes 4 ref "CR 81"
+94 126 1.0 name "3rd Street Northeast" highway secondary
+95 99 1.0 name "54th Avenue North" highway tertiary lanes 2 ref "CR 138"
+96 98 1.0 name "Division Street" highway primary ref "CR 75" maxspeed "40 mph"
+96 100 1.0 name "Division Street" highway primary ref "CR 75" maxspeed "35 mph" bridge yes
+96 103 1.0 name "10th Avenue South" highway secondary
+97 100 1.0 name "6th Avenue North" highway tertiary
+97 134 1.0 name "3rd Street North" highway secondary lanes 4 ref "CR 81"
+98 113 1.0 name "County Road 75" highway trunk ref "CR 75"
+99 114 1.0 name "County Road 134" highway tertiary ref "CR 134" bridge yes
+99 115 1.0 name "Veterans Drive" highway secondary lanes 3 ref "CR 4;CR 134" maxspeed "40 mph" bridge yes
+99 116 1.0 name "Veterans Drive" highway secondary ref "CR 4" maxspeed "40 mph"
+100 101 1.0 name "6th Avenue South" highway tertiary
+100 102 1.0 name "Division Street" highway primary ref "CR 75"
+101 103 1.0 name "2nd Street South" highway primary ref "MN 23" maxspeed "40 mph"
+101 132 1.0 name "2nd Street South" highway primary lanes 2 ref "MN 23" maxspeed "40 mph"
+101 133 1.0 name "6th Avenue South" highway tertiary lanes 2
+102 132 1.0 name "2nd Avenue South" highway secondary lanes 4
+102 134 1.0 name "2nd Avenue North" highway tertiary
+102 123 1.0 name "Division Street" highway primary ref "CR 75" maxspeed "40 mph"
+103 131 1.0 name "10th Avenue South" highway secondary
+103 110 1.0 ref "MN 23"
+104 105 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+104 106 1.0 name "9th Avenue North" highway secondary lanes 2
+104 107 1.0 name "6th Avenue North" highway tertiary lanes 2
+105 108 1.0 name "15th Street North" highway tertiary lanes 2
+105 109 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+105 106 1.0 name "15th Street North" highway tertiary lanes 2
+106 171 1.0 name "9th Avenue North" highway secondary lanes 2
+106 107 1.0 name "15th Street North" highway tertiary lanes 2
+107 181 1.0 name "6th Avenue North" highway tertiary lanes 2
+109 175 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+110 111 1.0 highway trunk lanes 2 ref "MN 23" maxspeed "65 mph"
+110 111 1.0 highway trunk_link lanes 1
+110 112 1.0 name "28th Avenue South" highway tertiary
+110 113 1.0 name "28th Avenue South" highway tertiary
+112 129 1.0 highway secondary ref "CR 137"
+115 205 1.0 name "Ridgewood Road" highway tertiary lanes 2 ref "CR 134"
+116 126 1.0 name "44th Avenue North" highway secondary lanes 2
+116 125 1.0 name "Veterans Drive" highway secondary lanes 2 ref "CR 4" maxspeed "40 mph"
+116 178 1.0 highway secondary lanes 2
+117 118 1.0 highway trunk maxspeed "40 mph"
+117 119 1.0 highway primary ref "MN 23" maxspeed "40 mph"
+117 120 1.0 name "2nd St S" highway primary lanes 2 ref "CR 75"
+117 198 1.0 name "2nd Street South" highway primary lanes 2 ref "CR 75"
+118 121 1.0 highway trunk ref "MN 15" maxspeed "40 mph"
+118 122 1.0 name "Division Street" highway primary ref "MN 23" maxspeed "35 mph"
+118 123 1.0 name "Division Street" highway primary ref "CR 75" maxspeed "40 mph"
+119 123 1.0 name "Waite Avenue South" highway tertiary
+119 132 1.0 name "2nd Street South" highway primary lanes 2 ref "MN 23" maxspeed "40 mph"
+120 196 1.0 name "2nd St S" highway primary lanes 2 ref "CR 75"
+121 124 1.0 name "3rd Street North" highway secondary
+121 125 1.0 highway trunk lanes 2 ref "MN 15" bridge yes
+121 126 1.0 name "3rd Street Northeast" highway secondary lanes 4
+122 191 1.0 name "33rd Avenue North" highway tertiary
+122 196 1.0 name "33rd Avenue South" highway secondary
+122 197 1.0 name "Division Street" highway primary ref "MN 23" maxspeed "35 mph"
+123 179 1.0 name "44th Avenue North" highway secondary lanes 4
+124 174 1.0 name "33rd Avenue North" highway tertiary lanes 4
+124 191 1.0 name "33rd Avenue North" highway tertiary lanes 4
+124 189 1.0 name "3rd Street North" highway secondary
+125 127 1.0 highway trunk lanes 2 ref "MN 15"
+125 127 1.0 highway trunk_link
+125 128 1.0 name "Veterans Drive" highway secondary lanes 2 ref "CR 4"
+125 221 1.0 highway trunk_link
+125 221 1.0 highway trunk lanes 2 ref "MN 15"
+126 179 1.0 name "44th Avenue North" highway secondary lanes 2
+126 134 1.0 name "3rd Street North" highway secondary lanes 4 ref "CR 81"
+127 178 1.0 highway trunk lanes 2 ref "MN 15"
+128 168 1.0 name "Veterans Drive" highway secondary lanes 4
+129 131 1.0 name "10th Avenue South" highway secondary
+130 132 1.0 name "2nd Avenue South" highway secondary lanes 4
+130 133 1.0 name "3rd Street South" highway tertiary
+131 133 1.0 name "3rd Street South" highway tertiary
+135 155 1.0 name "7th Street South" highway tertiary lanes 2
+136 194 1.0 name "Clearwater Road" highway tertiary lanes 2 ref "CR 7"
+136 137 1.0 highway tertiary lanes 4
+137 157 1.0 name "University Drive South" highway secondary
+137 155 1.0 name "9th Avenue South" highway secondary lanes 4
+138 139 1.0 name "Traverse Road" highway tertiary lanes 2
+138 140 1.0 name "Traverse Road" highway tertiary lanes 2
+138 141 1.0 name "17th Street South" highway tertiary
+139 141 1.0 name "Cooper Avenue South" highway tertiary lanes 2
+140 142 1.0 name "Roosevelt Road" highway primary ref "CR 75" maxspeed "40 mph"
+140 143 1.0 name "Roosevelt Road" highway primary ref "CR 75" maxspeed "40 mph"
+141 144 1.0 name "17th Street South" highway tertiary
+141 145 1.0 name "Cooper Avenue South" highway tertiary lanes 2
+142 194 1.0 name "22nd Street South" highway tertiary lanes 2
+143 147 1.0 name "Washington Memorial Drive" highway tertiary lanes 2
+143 145 1.0 name "Roosevelt Road" highway primary ref "CR 75" maxspeed "40 mph"
+145 146 1.0 highway secondary name "Cooper Avenue South" lanes 4
+145 147 1.0 name "University Drive South" highway secondary
+145 148 1.0 name "Roosevelt Road" highway primary ref "CR 75" maxspeed "40 mph"
+146 185 1.0 highway primary ref "MN 23" maxspeed "35 mph"
+146 188 1.0 highway secondary name "Cooper Avenue North" lanes 4
+146 158 1.0 name "1st Street" highway primary ref "MN 23" maxspeed "35 mph"
+146 184 1.0 name "1st Street" highway primary ref "MN 23" maxspeed "35 mph"
+147 158 1.0 name "Washington Memorial Drive" highway tertiary lanes 2
+147 157 1.0 name "University Drive South" highway secondary
+148 182 1.0 name "25th Avenue South" highway tertiary
+148 183 1.0 highway tertiary
+148 184 1.0 highway tertiary
+148 185 1.0 highway tertiary
+148 186 1.0 name "2nd St S" highway primary lanes 2 ref "CR 75"
+149 150 1.0 name "3rd Street North" highway tertiary
+150 151 1.0 name "16th Avenue North" highway tertiary
+150 152 1.0 name "3rd Street North" highway tertiary lanes 2
+151 192 1.0 name "16th Avenue North" highway tertiary
+152 170 1.0 highway tertiary
+152 176 1.0 name "3rd Street North" highway secondary lanes 2
+152 188 1.0 name "Cooper Avenue North" highway secondary lanes 4
+153 154 1.0 highway tertiary
+153 155 1.0 name "7th Street South" highway tertiary lanes 2
+153 156 1.0 name "7th Street South" highway tertiary
+154 159 1.0 name "1st Street" highway primary lanes 2 ref "MN 23" maxspeed "35 mph"
+156 157 1.0 name "14th Avenue South" highway tertiary lanes 2
+156 158 1.0 name "7th Street South" highway tertiary
+156 159 1.0 name "14th Avenue South" highway tertiary lanes 2
+157 160 1.0 name "14th Avenue South" highway tertiary lanes 2
+158 159 1.0 name "1st Street" highway primary ref "MN 23" maxspeed "35 mph"
+158 161 1.0 name "Washington Memorial Drive" highway tertiary lanes 2
+159 162 1.0 name "14th Avenue South" highway tertiary lanes 2
+159 163 1.0 name "1st Street" highway primary ref "MN 23" maxspeed "35 mph"
+161 193 1.0 name "West Saint Germain Street" highway tertiary lanes 2
+161 192 1.0 name "West Saint Germain Street" highway tertiary lanes 2
+162 192 1.0 name "West Saint Germain Street" highway tertiary lanes 2
+162 164 1.0 name "West Saint Germain Street" highway tertiary lanes 2
+163 164 1.0 name "12th Avenue South" highway tertiary lanes 2
+165 171 1.0 name "9th Avenue North" highway secondary lanes 2
+165 172 1.0 highway tertiary lanes 2
+166 180 1.0 highway tertiary
+166 181 1.0 name "6th Avenue North" highway tertiary lanes 2
+167 168 1.0 name "Veterans Drive" highway secondary lanes 4
+167 169 1.0 name "25th Avenue North" highway tertiary lanes 2
+167 170 1.0 name "25th Avenue North" highway tertiary lanes 2
+168 173 1.0 name "33rd Avenue North" highway tertiary lanes 2
+168 174 1.0 name "33rd Avenue North" highway tertiary lanes 4
+169 173 1.0 name "12th Street North" highway tertiary lanes 4 maxspeed "30 mph"
+169 175 1.0 name "13th Street North" highway tertiary maxspeed "30 mph"
+170 174 1.0 name "5th Street North" highway tertiary
+170 176 1.0 name "25th Avenue North" highway tertiary lanes 2
+171 175 1.0 name "13th Street North" highway tertiary lanes 2
+171 181 1.0 name "13th Street North" highway tertiary lanes 2
+173 177 1.0 name "12th Street North" highway tertiary lanes 4 maxspeed "30 mph"
+176 189 1.0 name "3rd Street North" highway secondary lanes 2
+176 190 1.0 name "25th Avenue North" highway tertiary lanes 2
+177 178 1.0 name "12th Street North" highway tertiary
+178 219 1.0 highway trunk_link
+178 219 1.0 highway trunk lanes 2 ref "MN 15"
+178 220 1.0 highway motorway lanes 2 ref "MN 15"
+178 220 1.0 highway motorway_link
+178 209 1.0 highway motorway lanes 2 ref "MN 15" maxspeed "60 mph" bridge yes
+183 185 1.0 name "Division Street" highway primary ref "MN 23" maxspeed "35 mph"
+183 197 1.0 name "Division Street" highway primary ref "MN 23" maxspeed "35 mph"
+184 185 1.0 highway primary ref "MN 23" maxspeed "35 mph"
+185 190 1.0 name "25th Avenue North" highway tertiary
+186 195 1.0 name "2nd St S" highway primary lanes 2 ref "CR 75"
+195 196 1.0 name "2nd St S" highway primary lanes 2 ref "CR 75"
+195 197 1.0 name "29th Avenue South" highway tertiary lanes 2
+196 198 1.0 name "2nd Street South" highway primary lanes 2 ref "CR 75"
+199 200 1.0 name "Cypress Road" highway tertiary lanes 2
+200 201 1.0 name "Westwood Parkway" highway tertiary lanes 2
+200 202 1.0 name "Westwood Parkway" highway tertiary lanes 2
+200 203 1.0 name "Cypress Road" highway tertiary lanes 2
+201 217 1.0 name "Westwood Parkway" highway tertiary lanes 2
+202 204 1.0 highway tertiary lanes 2
+202 205 1.0 name "Ridgewood Road" highway tertiary lanes 4 ref "CR 134"
+202 203 1.0 name "Ridgewood Road" highway tertiary lanes 4 ref "CR 134"
+203 206 1.0 name "Ridgewood Road" highway tertiary ref "CR 134"
+204 206 1.0 name "Ridgewood Road" highway tertiary lanes 2 ref "CR 134"
+208 209 1.0 highway motorway lanes 2 ref "MN 15" maxspeed "60 mph"
+208 210 1.0 highway motorway_link
+209 210 1.0 highway motorway_link
+210 211 1.0 name "Connecticut Avenue South" highway tertiary lanes 2
+210 212 1.0 name "County Road 120" highway tertiary lanes 2 ref "CR 120" maxspeed "40 mph"
+210 213 1.0 highway motorway_link
+210 216 1.0 name "County Road 120" highway tertiary lanes 1
+210 216 1.0 name "County Road 120" highway tertiary ref "CR 120" maxspeed "40 mph"
+210 222 1.0 highway motorway_link
+211 214 1.0 name "23rd Street South" highway tertiary
+212 215 1.0 name "County Road 120" highway tertiary ref "CR 120"
+212 216 1.0 name "County Road 120" highway tertiary lanes 2 ref "CR 120" maxspeed "40 mph"
+213 222 1.0 highway motorway lanes 2 ref "MN 15" maxspeed "60 mph"
+219 221 1.0 highway trunk lanes 2 ref "MN 15"
+220 222 1.0 highway motorway lanes 2 ref "MN 15" maxspeed "60 mph" bridge yes

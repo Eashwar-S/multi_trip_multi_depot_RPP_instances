@@ -1,0 +1,1377 @@
+*vertices 534
+1 186334418 -94.1398651 45.5683462 ellipse
+2 186334537 -94.1459391 45.5772788 ellipse
+3 186334715 -94.132065 45.5664733 ellipse
+4 186334817 -94.1488976 45.5780813 ellipse
+5 186334822 -94.1467882 45.5816486 ellipse highway motorway_junction
+6 186334988 -94.1328584 45.5883039 ellipse
+7 186335462 -94.1411792 45.5694898 ellipse
+8 186335592 -94.1660031 45.5881258 ellipse
+9 186337454 -94.1291886 45.5664833 ellipse
+10 186337817 -94.1512714 45.5653444 ellipse highway traffic_signals
+11 186337829 -94.158404 45.5736417 ellipse
+12 186337925 -94.1488865 45.5625712 ellipse highway traffic_signals
+13 186338099 -94.1339676 45.5679912 ellipse highway traffic_signals
+14 186338364 -94.1433495 45.5646792 ellipse highway traffic_signals
+15 186339457 -94.1457256 45.5677014 ellipse highway traffic_signals
+16 186339594 -94.1573748 45.5856784 ellipse
+17 186339665 -94.1449207 45.5667444 ellipse
+18 186339859 -94.1322213 45.5802896 ellipse
+19 186339863 -94.1327593 45.5810235 ellipse
+20 186341729 -94.1591877 45.5908808 ellipse
+21 186341730 -94.158496 45.5899894 ellipse
+22 186342344 -94.165368 45.588366 ellipse highway traffic_signals
+23 186342353 -94.1571523 45.5817377 ellipse highway traffic_signals
+24 186342361 -94.1461308 45.5744678 ellipse
+25 186342719 -94.1417062 45.5693138 ellipse highway traffic_signals
+26 186343292 -94.1428826 45.5809527 ellipse
+27 186343541 -94.1679988 45.5907055 ellipse highway traffic_signals
+28 186343573 -94.164193 45.5888782 ellipse
+29 186343732 -94.1413337 45.5878121 ellipse
+30 186345582 -94.1467354 45.5659802 ellipse
+31 186347317 -94.1423954 45.5690894 ellipse
+32 188078578 -94.134589 45.5621132 ellipse
+33 188079377 -94.1456428 45.5586861 ellipse
+34 188079397 -94.1429187 45.5586974 ellipse
+35 188079398 -94.142764 45.5586976 ellipse
+36 188079409 -94.1399083 45.5587062 ellipse highway stop
+37 188089803 -94.1311966 45.5425907 ellipse highway stop
+38 188089827 -94.1390587 45.54316 ellipse
+39 188089841 -94.1418709 45.5434381 ellipse
+40 188099547 -94.1428467 45.5487963 ellipse highway traffic_signals
+41 188099605 -94.1426942 45.5487979 ellipse highway traffic_signals
+42 188103349 -94.1316102 45.5488206 ellipse
+43 188108145 -94.1315683 45.5556276 ellipse
+44 188129613 -94.1365253 45.5384645 ellipse
+45 188129633 -94.1365992 45.5354574 ellipse
+46 188136484 -94.1317579 45.554303 ellipse
+47 188141717 -94.1302882 45.5585978 ellipse highway traffic_signals
+48 188142421 -94.1300673 45.5587453 ellipse highway traffic_signals
+49 188183092 -94.1308523 45.5582272 ellipse
+50 188205090 -94.2394735 45.5864412 ellipse
+51 188205108 -94.2121546 45.5862521 ellipse
+52 188205204 -94.1986002 45.5414575 ellipse
+53 188205205 -94.1984044 45.5369826 ellipse
+54 188207257 -94.1994556 45.5419464 ellipse
+55 188208439 -94.1653954 45.5606406 ellipse highway traffic_signals
+56 188211499 -94.1616777 45.561634 ellipse highway traffic_signals
+57 188211503 -94.1601151 45.5616436 ellipse highway traffic_signals
+58 188211577 -94.1892534 45.5469123 ellipse
+59 188213586 -94.2291437 45.5628213 ellipse
+60 188214172 -94.2242397 45.5536237 ellipse highway traffic_signals
+61 188216099 -94.1737629 45.5805731 ellipse
+62 188216103 -94.1728375 45.5813086 ellipse
+63 188218725 -94.2542248 45.5413285 ellipse highway traffic_signals
+64 188218729 -94.2546266 45.5417731 ellipse
+65 188219077 -94.2254455 45.5688848 ellipse highway traffic_signals
+66 188220276 -94.2051787 45.5497271 ellipse highway traffic_signals
+67 188220279 -94.2050005 45.553407 ellipse highway traffic_signals
+68 188220283 -94.2058235 45.5586133 ellipse
+69 188220288 -94.205741 45.565877 ellipse highway traffic_signals
+70 188220340 -94.2053715 45.5497329 ellipse highway traffic_signals
+71 188220387 -94.2052297 45.553254 ellipse highway traffic_signals
+72 188221214 -94.2190973 45.5407672 ellipse
+73 188221229 -94.202929 45.5389398 ellipse highway traffic_signals
+74 188221367 -94.2292458 45.5589905 ellipse highway traffic_signals
+75 188222553 -94.1493485 45.549312 ellipse
+76 188222885 -94.172468 45.540866 ellipse
+77 188222892 -94.1776962 45.5413216 ellipse
+78 188222902 -94.1860941 45.5414178 ellipse
+79 188223212 -94.1858624 45.5766703 ellipse
+80 188223646 -94.1663635 45.5615344 ellipse
+81 188224690 -94.1647126 45.5530857 ellipse
+82 188224693 -94.1672591 45.553086 ellipse
+83 188224697 -94.1724279 45.5530826 ellipse
+84 188224714 -94.2294295 45.5402364 ellipse
+85 188224758 -94.1546024 45.5526574 ellipse
+86 188224766 -94.1602256 45.5526297 ellipse
+87 188225816 -94.1657788 45.5682229 ellipse
+88 188225869 -94.1692395 45.5667629 ellipse highway traffic_signals
+89 188225894 -94.1878635 45.5658196 ellipse
+90 188225906 -94.1981916 45.5658683 ellipse highway traffic_signals
+91 188225910 -94.2033422 45.5659283 ellipse
+92 188225918 -94.2126081 45.566789 ellipse highway traffic_signals
+93 188228396 -94.1826884 45.5743165 ellipse
+94 188230121 -94.1614216 45.564925 ellipse
+95 188230287 -94.17367 45.5766232 ellipse highway traffic_signals
+96 188230301 -94.1827977 45.5766808 ellipse highway traffic_signals
+97 188230521 -94.1604111 45.5601742 ellipse highway stop
+98 188231028 -94.1878703 45.5441193 ellipse
+99 188231374 -94.1596009 45.5592307 ellipse highway traffic_signals
+100 188231375 -94.1588256 45.558323 ellipse highway traffic_signals
+101 188231427 -94.1777295 45.5389202 ellipse
+102 188232133 -94.1667866 45.5639277 ellipse
+103 188232192 -94.1878782 45.5621921 ellipse
+104 188232200 -94.1982272 45.5621294 ellipse
+105 188233480 -94.1713726 45.5864824 ellipse highway traffic_signals
+106 188233487 -94.1723638 45.5872416 ellipse
+107 188234882 -94.1716955 45.5695962 ellipse highway traffic_signals
+108 188234887 -94.1736299 45.5730192 ellipse highway traffic_signals
+109 188234889 -94.1729282 45.5803086 ellipse highway traffic_signals
+110 188235418 -94.1601779 45.5494723 ellipse highway traffic_signals
+111 188235440 -94.1682374 45.5710789 ellipse
+112 188236753 -94.1930314 45.5440042 ellipse
+113 188236757 -94.1932964 45.5369135 ellipse
+114 188236783 -94.1690474 45.5720232 ellipse
+115 188236833 -94.1877746 45.5730474 ellipse highway traffic_signals
+116 188236847 -94.1981225 45.5731102 ellipse
+117 188239126 -94.213763 45.5570169 ellipse
+118 188239142 -94.2368913 45.5536914 ellipse highway traffic_signals
+119 188240962 -94.1776403 45.5539054 ellipse highway traffic_signals
+120 188240969 -94.177524 45.5585297 ellipse highway traffic_signals
+121 188241159 -94.1832875 45.5732578 ellipse highway traffic_signals
+122 188241648 -94.1777427 45.5368036 ellipse
+123 188242392 -94.1684695 45.5567549 ellipse
+124 188242887 -94.1676528 45.5558081 ellipse highway traffic_signals
+125 188242896 -94.167246 45.5495504 ellipse highway traffic_signals
+126 188242988 -94.1632208 45.5579122 ellipse highway traffic_signals
+127 188242989 -94.1653076 45.5567294 ellipse highway stop
+128 188242995 -94.1724084 45.5540149 ellipse highway traffic_signals
+129 188243006 -94.1573465 45.5601971 ellipse highway stop
+130 188247002 -94.1707632 45.5557871 ellipse
+131 188247004 -94.1723842 45.5576758 ellipse
+132 188247005 -94.1732126 45.5586297 ellipse
+133 188248131 -94.1593038 45.5607035 ellipse
+134 188248143 -94.1699041 45.5740644 ellipse
+135 188248336 -94.2293657 45.5535644 ellipse highway traffic_signals
+136 188248343 -94.1637932 45.5587281 ellipse highway traffic_signals
+137 188248405 -94.1610992 45.5429062 ellipse highway traffic_signals
+138 188248655 -94.2293271 45.5481022 ellipse
+139 188248657 -94.229314 45.5496644 ellipse highway traffic_signals
+140 188250697 -94.174747 45.554106 ellipse
+141 188251879 -94.1839999 45.5730595 ellipse
+142 188251920 -94.1661548 45.5577316 ellipse highway traffic_signals
+143 188251928 -94.1902907 45.5485386 ellipse
+144 188252142 -94.1931354 45.5532912 ellipse highway traffic_signals
+145 188252702 -94.1931317 45.5485499 ellipse highway traffic_signals
+146 188253053 -94.1724145 45.5550903 ellipse
+147 188253069 -94.1879793 45.5495198 ellipse
+148 188253775 -94.1724322 45.5496083 ellipse
+149 188254800 -94.1677789 45.5596187 ellipse highway traffic_signals
+150 188255664 -94.219008 45.5499063 ellipse highway traffic_signals
+151 188255689 -94.1879294 45.5485338 ellipse highway traffic_signals
+152 188255760 -94.1565212 45.559309 ellipse highway traffic_signals
+153 188255905 -94.218931 45.5588914 ellipse
+154 188255909 -94.2190195 45.5535715 ellipse highway traffic_signals
+155 188256248 -94.219037 45.5480453 ellipse
+156 188258588 -94.1956814 45.558609 ellipse
+157 188259011 -94.2468912 45.5875025 ellipse
+158 188261109 -94.1620959 45.5367466 ellipse highway traffic_signals
+159 188261268 -94.2404194 45.5688812 ellipse
+160 188261667 -94.2330805 45.5699789 ellipse
+161 188262115 -94.1905336 45.5532774 ellipse
+162 188262751 -94.183708 45.5677962 ellipse
+163 188265644 -94.1879127 45.5585664 ellipse highway traffic_signals
+164 188268195 -94.2305349 45.5590492 ellipse
+165 188269773 -94.1982655 45.5586007 ellipse highway traffic_signals
+166 188271493 -94.2138177 45.5588123 ellipse highway traffic_signals
+167 302170890 -94.1709467 45.5766036 ellipse
+168 357826718 -94.1365294 45.5638862 ellipse highway motorway_junction
+169 358113939 -94.1426336 45.5627462 ellipse
+170 358114573 -94.1364087 45.5653212 ellipse
+171 358114588 -94.1296286 45.5590383 ellipse
+172 358117066 -94.1318065 45.5603082 ellipse
+173 358120616 -94.1350752 45.563203 ellipse
+174 358131027 -94.1390526 45.566688 ellipse highway motorway_junction
+175 358131294 -94.1384249 45.5664255 ellipse
+176 358131718 -94.1383465 45.5663047 ellipse highway motorway_junction
+177 358131863 -94.138362 45.5658922 ellipse
+178 358131940 -94.1391667 45.5666479 ellipse
+179 358132032 -94.1391292 45.5661756 ellipse highway motorway_junction
+180 358132165 -94.1390309 45.5660572 ellipse
+181 358132921 -94.1385142 45.5658701 ellipse highway motorway_junction
+182 358133573 -94.1348126 45.5678333 ellipse highway motorway_junction
+183 358133943 -94.1425418 45.5648006 ellipse highway motorway_junction
+184 358152166 -94.1441087 45.5724409 ellipse highway motorway_junction
+185 358153662 -94.1488117 45.5775406 ellipse
+186 358616030 -94.1431514 45.5642108 ellipse
+187 359106086 -94.1574533 45.5567092 ellipse
+188 359160102 -94.1572724 45.5813111 ellipse
+189 359300636 -94.150082 45.5783817 ellipse
+190 359301787 -94.157178 45.5816115 ellipse highway traffic_signals
+191 359305662 -94.1518455 45.5791603 ellipse
+192 359306360 -94.1517347 45.5792815 ellipse
+193 359309149 -94.161667 45.5851161 ellipse highway traffic_signals
+194 359309152 -94.1654917 45.5883074 ellipse highway traffic_signals
+195 359310269 -94.1681823 45.5905733 ellipse highway traffic_signals
+196 359319210 -94.1432691 45.5645398 ellipse highway traffic_signals
+197 359319211 -94.1487917 45.5624592 ellipse highway traffic_signals
+198 443014148 -94.1621237 45.5573089 ellipse
+199 443043578 -94.1651865 45.5566373 ellipse highway stop
+200 443043580 -94.1675954 45.5556826 ellipse highway traffic_signals
+201 443043583 -94.172422 45.5538736 ellipse highway traffic_signals
+202 443043584 -94.1776447 45.5537746 ellipse highway traffic_signals
+203 443043586 -94.180218 45.5536094 ellipse
+204 443043591 -94.1879916 45.5531395 ellipse highway traffic_signals
+205 443043592 -94.1905334 45.5531531 ellipse
+206 443043593 -94.1931335 45.5531706 ellipse highway traffic_signals
+207 443043598 -94.2049977 45.553247 ellipse highway traffic_signals
+208 443191436 -94.1587414 45.5582293 ellipse highway traffic_signals
+209 443191670 -94.1615829 45.5573006 ellipse
+210 443525900 -94.1655375 45.536706 ellipse highway traffic_signals
+211 443525901 -94.1701895 45.542339 ellipse highway traffic_signals
+212 443547846 -94.1601818 45.5493464 ellipse highway traffic_signals
+213 443547851 -94.1672588 45.5494 ellipse highway traffic_signals
+214 443547867 -94.1724339 45.5494731 ellipse
+215 443807289 -94.1729447 45.5455911 ellipse highway traffic_signals
+216 443820773 -94.1657047 45.5366684 ellipse highway traffic_signals
+217 443846506 -94.170332 45.5422673 ellipse highway traffic_signals
+218 443848566 -94.1730776 45.5455295 ellipse highway traffic_signals
+219 445998796 -94.2060535 45.5586149 ellipse
+220 445998797 -94.2059805 45.5658781 ellipse highway traffic_signals
+221 454086669 -94.1966958 45.5896829 ellipse highway motorway_junction
+222 473156276 -94.2027597 45.5894024 ellipse
+223 481295442 -94.2426508 45.5884234 ellipse
+224 491177473 -94.2522082 45.5644335 ellipse
+225 491177479 -94.2523249 45.5646125 ellipse
+226 492820618 -94.2241715 45.5540412 ellipse
+227 493873948 -94.1724499 45.5796666 ellipse
+228 496559796 -94.2241612 45.5496292 ellipse highway traffic_signals
+229 496559803 -94.22416 45.5480791 ellipse
+230 497100844 -94.1984881 45.5427959 ellipse
+231 497208748 -94.1672543 45.5475973 ellipse
+232 497239427 -94.1589316 45.5620933 ellipse highway traffic_signals
+233 497248213 -94.1967609 45.5870898 ellipse
+234 497821902 -94.1879305 45.5484072 ellipse highway traffic_signals
+235 498279278 -94.2289992 45.5705843 ellipse highway traffic_signals
+236 499381020 -94.2600068 45.5741336 ellipse
+237 516547934 -94.2585755 45.5737604 ellipse
+238 563317621 -94.2216957 45.5828049 ellipse
+239 563317629 -94.2215302 45.5825708 ellipse
+240 563317637 -94.2214928 45.5828005 ellipse
+241 566099714 -94.146524 45.5814678 ellipse
+242 566102516 -94.1372925 45.5643486 ellipse
+243 567523334 -94.1885162 45.5905361 ellipse
+244 567523359 -94.1882923 45.5903666 ellipse
+245 567523378 -94.1880251 45.5904439 ellipse
+246 567523401 -94.1881175 45.5907204 ellipse
+247 567523610 -94.192885 45.5881171 ellipse
+248 567523628 -94.1925446 45.588224 ellipse
+249 567523647 -94.1926704 45.5884509 ellipse
+250 775535345 -94.1680144 45.590484 ellipse highway traffic_signals
+251 775535346 -94.1678585 45.5905998 ellipse highway traffic_signals
+252 1019255087 -94.1605193 45.5568281 ellipse
+253 1019255128 -94.1600864 45.5576777 ellipse
+254 1151805811 -94.2138128 45.5498362 ellipse highway traffic_signals
+255 1152022827 -94.1347484 45.5736259 ellipse
+256 1152022888 -94.1303918 45.5343705 ellipse
+257 1158374849 -94.141459 45.569391 ellipse highway traffic_signals
+258 1158393514 -94.182618 45.5766825 ellipse highway traffic_signals
+259 1158393525 -94.1729968 45.5801289 ellipse highway traffic_signals
+260 1188665236 -94.1636288 45.5570504 ellipse
+261 1345472041 -94.2138153 45.5497074 ellipse highway traffic_signals
+262 1345472043 -94.1902912 45.5484194 ellipse
+263 1345472060 -94.2190118 45.5497863 ellipse highway traffic_signals
+264 1345472064 -94.193134 45.5484351 ellipse highway traffic_signals
+265 1345472068 -94.205186 45.5495894 ellipse highway traffic_signals
+266 1345472102 -94.205384 45.5495893 ellipse highway traffic_signals
+267 1345472104 -94.2540604 45.5411573 ellipse highway traffic_signals
+268 1345472114 -94.2241653 45.5495072 ellipse highway traffic_signals
+269 1345472118 -94.2293141 45.5495415 ellipse highway traffic_signals
+270 1513665674 -94.1711141 45.5870075 ellipse
+271 1513665710 -94.1575992 45.5820526 ellipse
+272 1513665732 -94.1571763 45.5821889 ellipse
+273 1513665750 -94.1712724 45.586314 ellipse highway traffic_signals
+274 1513665763 -94.1728386 45.5800407 ellipse highway traffic_signals
+275 1513665782 -94.156675 45.5813413 ellipse
+276 1513665792 -94.1727662 45.5802001 ellipse highway traffic_signals
+277 1513697953 -94.1949517 45.5877183 ellipse
+278 1646478362 -94.2060029 45.5729493 ellipse
+279 1646478382 -94.2052687 45.5730046 ellipse highway traffic_signals
+280 1646478385 -94.2050124 45.5730273 ellipse highway traffic_signals
+281 1646478396 -94.2057237 45.5719614 ellipse
+282 1646478414 -94.2049516 45.5731517 ellipse highway traffic_signals
+283 1646478418 -94.2052039 45.5731304 ellipse highway traffic_signals
+284 1646478424 -94.2040823 45.5732137 ellipse
+285 1646478435 -94.2043013 45.5745872 ellipse
+286 1659742111 -94.2058515 45.5497322 ellipse
+287 1659742116 -94.2051519 45.5501474 ellipse
+288 1659742117 -94.2059876 45.5495919 ellipse
+289 1659742124 -94.2054252 45.5492428 ellipse
+290 1659742127 -94.2044672 45.5495904 ellipse
+291 1659742129 -94.2053519 45.5501846 ellipse
+292 1659742130 -94.2052194 45.5492165 ellipse
+293 1679180582 -94.1409619 45.5655199 ellipse
+294 1679180584 -94.1370532 45.5634517 ellipse
+295 1679180586 -94.1410119 45.5685842 ellipse highway motorway_junction
+296 1679180589 -94.1375873 45.5647077 ellipse
+297 1679180590 -94.1357438 45.5631045 ellipse
+298 1679180611 -94.136397 45.5633823 ellipse
+299 1679180612 -94.1398849 45.5676442 ellipse
+300 1679180615 -94.1366105 45.5669323 ellipse
+301 1969354453 -94.1418243 45.5587003 ellipse
+302 1990226886 -94.2474517 45.5701589 ellipse
+303 2002953335 -94.2531675 45.5645021 ellipse
+304 2002953379 -94.2521859 45.5653306 ellipse
+305 2101750091 -94.2548651 45.5534535 ellipse highway traffic_signals
+306 2185161881 -94.2539151 45.534492 ellipse
+307 2256117413 -94.2240953 45.5589413 ellipse
+308 2309017393 -94.2106286 45.5883499 ellipse
+309 2309017417 -94.210809 45.588915 ellipse
+310 2309017430 -94.2093917 45.5889882 ellipse
+311 2309017445 -94.2104785 45.5891166 ellipse
+312 2309017446 -94.2107789 45.5891246 ellipse
+313 2309017476 -94.2106334 45.5898655 ellipse
+314 2309017485 -94.1961996 45.5909639 ellipse
+315 2313748815 -94.1630996 45.5579861 ellipse highway traffic_signals
+316 2313748859 -94.1639146 45.5586769 ellipse highway traffic_signals
+317 2313748990 -94.1655162 45.5605882 ellipse highway traffic_signals
+318 2313749374 -94.1429262 45.564194 ellipse
+319 2313749389 -94.1442961 45.564206 ellipse
+320 2313749420 -94.143754 45.5645397 ellipse
+321 2313749422 -94.143082 45.5646071 ellipse highway traffic_signals
+322 2313749431 -94.1426719 45.5647556 ellipse
+323 2313749432 -94.1431711 45.5647417 ellipse highway traffic_signals
+324 2313749462 -94.1438411 45.5652615 ellipse
+325 2313749491 -94.1443833 45.5660968 ellipse
+326 2313807548 -94.1544851 45.549307 ellipse
+327 2313807549 -94.15468 45.5493085 ellipse
+328 2313807556 -94.1544085 45.5493413 ellipse
+329 2313807568 -94.154758 45.5493457 ellipse
+330 2313807597 -94.1543601 45.5495556 ellipse
+331 2313807600 -94.1547752 45.5495811 ellipse
+332 2313807609 -94.1547021 45.5496241 ellipse
+333 2313807610 -94.15444 45.5496164 ellipse
+334 2313807621 -94.154581 45.5504244 ellipse highway crossing
+335 2471656970 -94.25646 45.5403715 ellipse
+336 2509937578 -94.2013702 45.5822437 ellipse highway motorway_junction
+337 2524960785 -94.2241664 45.5528351 ellipse
+338 2524960786 -94.2190117 45.5529867 ellipse
+339 2524960790 -94.2190198 45.5530683 ellipse
+340 2524960792 -94.2241088 45.5530162 ellipse
+341 2524960807 -94.2041444 45.553237 ellipse
+342 2524960823 -94.213792 45.5533851 ellipse highway traffic_signals
+343 2524960830 -94.2052283 45.5534112 ellipse highway traffic_signals
+344 2524960831 -94.2058717 45.5534186 ellipse
+345 2524960834 -94.2183059 45.5534377 ellipse
+346 2524960839 -94.2293693 45.5534448 ellipse highway traffic_signals
+347 2524960841 -94.2190207 45.5534506 ellipse highway traffic_signals
+348 2524960847 -94.2202832 45.5534647 ellipse
+349 2524960861 -94.2240742 45.5535034 ellipse highway traffic_signals
+350 2524960862 -94.2137918 45.5535083 ellipse highway traffic_signals
+351 2524960863 -94.2242417 45.5535037 ellipse highway traffic_signals
+352 2524960875 -94.2368945 45.5535625 ellipse highway traffic_signals
+353 2524960885 -94.2240722 45.5536228 ellipse highway traffic_signals
+354 2524960900 -94.2049701 45.5539483 ellipse
+355 2575498155 -94.2467565 45.5670927 ellipse highway traffic_signals
+356 2575498441 -94.2474847 45.570039 ellipse
+357 2575666743 -94.2567843 45.5617015 ellipse
+358 2575758786 -94.2237583 45.5718894 ellipse
+359 2578501737 -94.2026233 45.5731589 ellipse
+360 2609647772 -94.1615053 45.5847899 ellipse
+361 2609647784 -94.1613237 45.5848858 ellipse
+362 2609647798 -94.1615473 45.5851723 ellipse highway traffic_signals
+363 2609647802 -94.1621135 45.5855451 ellipse
+364 2609647820 -94.1618517 45.5856705 ellipse
+365 2787098605 -94.1828401 45.5730545 ellipse
+366 2791800172 -94.1456414 45.5771998 ellipse
+367 2791800187 -94.145888 45.5771314 ellipse highway stop
+368 2791869590 -94.2065822 45.5659124 ellipse
+369 2791876511 -94.2248359 45.5693104 ellipse
+370 2791876513 -94.2249024 45.5696364 ellipse
+371 2791876526 -94.225231 45.5688181 ellipse highway traffic_signals
+372 2791876555 -94.2252891 45.569055 ellipse highway traffic_signals
+373 2791876587 -94.2256728 45.5684598 ellipse
+374 2791876603 -94.2250761 45.5689864 ellipse highway traffic_signals
+375 2791876604 -94.2242271 45.5687321 ellipse
+376 2791876617 -94.225823 45.5685772 ellipse
+377 2791885490 -94.2289553 45.5658397 ellipse
+378 2791893918 -94.2258693 45.5692686 ellipse
+379 2791893922 -94.2291265 45.5706608 ellipse highway traffic_signals
+380 2791893940 -94.2260224 45.5691016 ellipse
+381 2791893942 -94.2244796 45.5685991 ellipse
+382 2791893952 -94.2288726 45.5707599 ellipse highway traffic_signals
+383 2791896155 -94.2336706 45.5751044 ellipse
+384 2791915029 -94.2326763 45.5738659 ellipse
+385 2791915056 -94.2327453 45.5735616 ellipse
+386 2791945533 -94.2059771 45.5659969 ellipse highway traffic_signals
+387 2791945599 -94.2057396 45.565995 ellipse highway traffic_signals
+388 2791945613 -94.2126016 45.5669088 ellipse highway traffic_signals
+389 2792041884 -94.2052062 45.5658665 ellipse
+390 2792041952 -94.2050909 45.5659844 ellipse
+391 2792041979 -94.2124241 45.5668828 ellipse highway traffic_signals
+392 2792041996 -94.206435 45.5660245 ellipse
+393 2792042051 -94.2057466 45.5651331 ellipse
+394 2792042086 -94.2059874 45.5647857 ellipse
+395 2792042088 -94.2057243 45.5672944 ellipse
+396 2792042089 -94.2136519 45.5588059 ellipse highway traffic_signals
+397 2792042093 -94.2136104 45.5596305 ellipse
+398 2792042135 -94.2124305 45.5667629 ellipse highway traffic_signals
+399 2792042149 -94.2059652 45.5671254 ellipse
+400 3085605087 -94.154664 45.5570685 ellipse
+401 3085605092 -94.1542899 45.5484429 ellipse
+402 3085605185 -94.1543711 45.5575652 ellipse
+403 3313367261 -94.2136635 45.5580722 ellipse
+404 3313367287 -94.2058213 45.5587345 ellipse
+405 3313367289 -94.2060536 45.5587351 ellipse
+406 3313367303 -94.2124112 45.5587638 ellipse
+407 3313367320 -94.2127476 45.5589044 ellipse
+408 3313367328 -94.2136505 45.5589357 ellipse
+409 3313367329 -94.2138202 45.5589406 ellipse
+410 3313383959 -94.2283758 45.5590811 ellipse
+411 3313384761 -94.2292679 45.5590895 ellipse
+412 3313384762 -94.2297776 45.5590825 ellipse
+413 3313384774 -94.2149715 45.5589735 ellipse
+414 3313384783 -94.2137935 45.5596206 ellipse
+415 3313384803 -94.1982602 45.55867 ellipse
+416 3313384841 -94.2050173 45.5586109 ellipse
+417 3313384847 -94.205829 45.557796 ellipse
+418 3313384856 -94.2060529 45.5579663 ellipse
+419 3313384862 -94.207196 45.5586271 ellipse
+420 3313384864 -94.206731 45.5587422 ellipse
+421 3313384879 -94.2060404 45.5597306 ellipse
+422 3313384889 -94.2058129 45.55936 ellipse
+423 3313384896 -94.2048441 45.5587298 ellipse
+424 3478967604 -94.1350016 45.567526 ellipse
+425 3478967608 -94.1337764 45.5677198 ellipse
+426 3634688771 -94.2550718 45.5523681 ellipse
+427 3634688780 -94.2549531 45.5530484 ellipse
+428 3634688792 -94.2538457 45.5533322 ellipse
+429 3716329545 -94.2048515 45.5497246 ellipse
+430 3716329548 -94.2052478 45.5526184 ellipse
+431 3716329549 -94.2050169 45.5527437 ellipse
+432 3716329551 -94.2065219 45.5532713 ellipse
+433 3716329555 -94.205221 45.5536913 ellipse
+434 4067109640 -94.210503 45.5888857 ellipse
+435 4067109641 -94.2105407 45.5888697 ellipse
+436 4067109642 -94.2104394 45.5890787 ellipse
+437 4090467920 -94.1930432 45.5883347 ellipse
+438 4282001027 -94.2214848 45.5863726 ellipse
+439 4282001028 -94.2213262 45.5863709 ellipse
+440 4282020477 -94.2196899 45.5781783 ellipse
+441 4282020482 -94.2195107 45.5780807 ellipse
+442 4282020486 -94.2193514 45.5781455 ellipse
+443 4282020591 -94.2193787 45.5782993 ellipse
+444 4282020592 -94.2194158 45.57832 ellipse
+445 4282020604 -94.2196757 45.5782652 ellipse
+446 4282020623 -94.2201982 45.5794045 ellipse
+447 4282020648 -94.2203736 45.577678 ellipse
+448 4282048960 -94.2215874 45.5822729 ellipse
+449 4282048968 -94.221713 45.5825905 ellipse
+450 4282048972 -94.2185507 45.5784106 ellipse
+451 4282455105 -94.2212945 45.5867968 ellipse
+452 4282455107 -94.219597 45.5863551 ellipse
+453 4341571523 -94.1984224 45.549678 ellipse
+454 4341571524 -94.1984207 45.5495582 ellipse
+455 4341571562 -94.1984495 45.5532053 ellipse highway traffic_signals
+456 4341571563 -94.1984484 45.5533371 ellipse highway traffic_signals
+457 4341571575 -94.1983247 45.5550194 ellipse
+458 4341571576 -94.1982937 45.5533355 ellipse highway traffic_signals
+459 4341571585 -94.1982932 45.5532056 ellipse highway traffic_signals
+460 4341593398 -94.1982467 45.5496766 ellipse
+461 4341593399 -94.198245 45.5495571 ellipse
+462 4341593472 -94.1968717 45.5444564 ellipse
+463 4341593473 -94.1970339 45.5444586 ellipse
+464 4341853061 -94.2074835 45.5500107 ellipse
+465 4341853073 -94.2077368 45.5497561 ellipse
+466 4341853076 -94.2072641 45.5497502 ellipse
+467 4343826135 -94.2007687 45.5496972 ellipse
+468 4343826165 -94.2010934 45.549697 ellipse
+469 4348154582 -94.1879471 45.5549604 ellipse
+470 4348154588 -94.1879978 45.5532598 ellipse highway traffic_signals
+471 4348154697 -94.1878858 45.5532598 ellipse highway traffic_signals
+472 4348217657 -94.2242424 45.5532197 ellipse
+473 4698488621 -94.1774811 45.5537731 ellipse highway traffic_signals
+474 4698488622 -94.1774758 45.5539042 ellipse highway traffic_signals
+475 4698488626 -94.1775372 45.5556954 ellipse
+476 4698488641 -94.1771076 45.5493107 ellipse
+477 4698488642 -94.1769683 45.5491959 ellipse
+478 4698488673 -94.1776926 45.5476679 ellipse
+479 4698488687 -94.1770735 45.5491283 ellipse
+480 4698488702 -94.1775689 45.5476646 ellipse
+481 4698488703 -94.1776132 45.5475004 ellipse
+482 4698488704 -94.1776461 45.5474082 ellipse
+483 4698488705 -94.1776685 45.5475006 ellipse
+484 4698488719 -94.1772187 45.5492367 ellipse
+485 4698488739 -94.1773009 45.5495036 ellipse
+486 4698488744 -94.1767535 45.5494765 ellipse
+487 5530505766 -94.1719902 45.5868769 ellipse
+488 5530505772 -94.1714468 45.5863621 ellipse highway traffic_signals
+489 6317458956 -94.1581649 45.5611441 ellipse highway stop
+490 6770739153 -94.2055704 45.5859448 ellipse
+491 6770760641 -94.2105551 45.586067 ellipse
+492 6770760648 -94.2108584 45.5861316 ellipse
+493 6770760652 -94.2104631 45.5863675 ellipse
+494 6770760673 -94.2107445 45.5864069 ellipse
+495 6770765424 -94.2027686 45.5861307 ellipse
+496 6770765425 -94.2005072 45.5863167 ellipse highway traffic_signals
+497 6770768036 -94.1985343 45.5860805 ellipse
+498 6770768048 -94.1989654 45.5864348 ellipse
+499 6770768055 -94.1977317 45.586662 ellipse
+500 6770768056 -94.2014311 45.5861497 ellipse
+501 6770768076 -94.2014563 45.5831697 ellipse
+502 6770768077 -94.1999169 45.5862997 ellipse
+503 6770768083 -94.2004818 45.5856518 ellipse
+504 6770768188 -94.2108699 45.5861438 ellipse
+505 6770768189 -94.2104956 45.5860892 ellipse
+506 6770768207 -94.2058756 45.5860049 ellipse
+507 6770768208 -94.205788 45.5862684 ellipse
+508 6770768230 -94.2106258 45.5854905 ellipse
+509 6770768255 -94.2106172 45.5872146 ellipse
+510 6770771089 -94.1983075 45.586607 ellipse highway traffic_signals
+511 6770771100 -94.2013098 45.5863384 ellipse
+512 6770771116 -94.205479 45.5862301 ellipse
+513 6770782965 -94.1966081 45.5873148 ellipse
+514 6770782980 -94.1974747 45.5878635 ellipse
+515 6770785086 -94.1958858 45.5900087 ellipse
+516 6770785087 -94.1987293 45.5866082 ellipse
+517 6770785111 -94.2000359 45.5869893 ellipse
+518 6770785123 -94.1998464 45.5864594 ellipse
+519 7212283010 -94.1777151 45.5482475 ellipse
+520 7212283017 -94.1786744 45.5476695 ellipse
+521 7717527047 -94.1564397 45.5592118 ellipse highway traffic_signals
+522 7728740152 -94.2038596 45.5533942 ellipse
+523 8005079771 -94.229179 45.5590885 ellipse
+524 8005079775 -94.229274 45.5594691 ellipse
+525 8005079784 -94.2291554 45.559478 ellipse
+526 8188369654 -94.203319 45.5499975 ellipse
+527 8188369660 -94.2037122 45.549716 ellipse
+528 8188369665 -94.2032585 45.5495843 ellipse
+529 8188369669 -94.2036287 45.549587 ellipse
+530 8188369675 -94.2007357 45.5495701 ellipse
+531 8188369680 -94.2015293 45.5495755 ellipse
+532 8188369686 -94.2076145 45.5500075 ellipse
+533 8485149396 -94.1878756 45.5531372 ellipse highway traffic_signals
+534 8485149402 -94.1878523 45.5495181 ellipse
+*edges
+1 7 1.0 name "East Division Street" highway tertiary
+2 366 1.0 lanes 2 name "Highway 10 North" highway tertiary
+2 241 1.0 highway motorway_link
+2 4 1.0 lanes 2 name "Benton Drive" highway secondary bridge yes
+2 367 1.0 highway motorway_link
+3 9 1.0 ref "CR 8" name "2nd Street Southeast" highway tertiary
+3 172 1.0 name "15th Avenue Southeast" highway tertiary
+3 425 1.0 ref "CR 8" highway tertiary
+4 185 1.0 highway motorway_link
+4 192 1.0 lanes 2 name "Benton Drive" highway secondary
+4 5 1.0 highway motorway_link
+4 189 1.0 lanes 1 name "Benton Drive" highway secondary
+5 24 1.0 lanes 2 ref "US 10" highway motorway maxspeed "65 mph"
+6 19 1.0 ref "CR 1" highway tertiary name "Mayhew Lake Road Northeast"
+6 29 1.0 lanes 2 highway tertiary
+7 257 1.0 lanes 2 name "East Saint Germain Street" highway tertiary
+7 366 1.0 lanes 2 name "Highway 10 North" highway tertiary
+7 255 1.0 lanes 2 name "East Saint Germain Street" highway tertiary
+8 194 1.0 lanes 2 name "1st Street South" highway tertiary
+10 11 1.0 lanes 2 name "Wilson Avenue Northeast" highway tertiary maxspeed "30 mph"
+10 12 1.0 lanes 3 name "Wilson Avenue Southeast" highway tertiary maxspeed "30 mph"
+10 15 1.0 lanes 4 name "East Saint Germain Street" highway secondary
+10 232 1.0 lanes 4 highway secondary bridge yes
+12 197 1.0 lanes 3 name "Wilson Avenue Southeast" highway tertiary maxspeed "30 mph"
+12 152 1.0 ref "MN 23" bridge yes maxspeed "35 mph"
+12 320 1.0 ref "MN 23" name "3rd Street Southeast" highway trunk
+13 425 1.0 ref "CR 8" name "14th Avenue Southeast" highway tertiary
+13 424 1.0 lanes 2 ref "MN 23" highway trunk maxspeed "45 mph"
+14 196 1.0 name "Lincoln Avenue Southeast" highway tertiary
+14 320 1.0 lanes 2 ref "MN 23" name "3rd Street Southeast" highway trunk
+14 323 1.0 lanes 2 ref "MN 23" name "3rd Street" highway trunk
+14 324 1.0 name "Lincoln Avenue Southeast" highway tertiary
+15 31 1.0 lanes 4 name "East Saint Germain Street" highway secondary
+15 17 1.0 lanes 2 name "Lincoln Avenue Southeast" highway tertiary
+15 188 1.0 lanes 2 highway tertiary
+16 362 1.0 lanes 2 ref "CR 46" name "5th Street South" highway tertiary
+16 272 1.0 lanes 2 name "Summit Avenue South" highway tertiary
+16 26 1.0 lanes 2 ref "CR 46" highway tertiary bridge yes
+17 31 1.0 highway tertiary
+17 30 1.0 name "1st Street Southeast" highway tertiary
+17 325 1.0 lanes 2 name "Lincoln Avenue Southeast" highway tertiary
+18 19 1.0 lanes 2 ref "CR 1" name "Mayhew Lake Road Northeast" highway tertiary
+18 255 1.0 lanes 2 ref "CR 74" name "14th Avenue Northeast" highway tertiary
+19 26 1.0 lanes 2 ref "CR 46" name "10th Street Northeast" highway tertiary
+20 21 1.0 name "6th Avenue South" highway tertiary
+20 28 1.0 lanes 2 name "1st Street South" highway tertiary
+22 194 1.0 lanes 2 name "1st Street South" highway tertiary
+22 28 1.0 lanes 2 name "1st Street South" highway tertiary
+22 251 1.0 lanes 2 name "Benton Drive" highway secondary
+22 363 1.0 lanes 2 name "Benton Drive" highway secondary
+23 190 1.0 lanes 2 name "Lincoln Avenue South" highway tertiary
+23 271 1.0 lanes 2 name "Benton Drive" highway secondary
+23 272 1.0 lanes 2 name "Summit Avenue South" highway tertiary
+23 192 1.0 lanes 2 name "Benton Drive" highway secondary
+24 25 1.0 lanes 2 ref "US 10"
+24 185 1.0 highway motorway_link
+25 257 1.0 lanes 4 name "East Saint Germain Street" highway secondary
+25 31 1.0 lanes 4 name "East Saint Germain Street" highway secondary
+25 295 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+26 29 1.0 lanes 2 name "10th Avenue Northeast" highway tertiary
+27 195 1.0 lanes 2 ref "CR 3" name "2nd Street North" highway secondary
+27 251 1.0 ref "CR 33" name "Benton Drive" highway secondary
+31 191 1.0 lanes 2 name "Franklin Avenue Northeast" highway tertiary
+32 173 1.0 lanes 1 highway motorway_link
+32 297 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+32 48 1.0 lanes 2 ref "US 10" highway motorway maxspeed "65 mph"
+33 197 1.0 name "Wilson Avenue Southeast" highway tertiary maxspeed "30 mph"
+34 40 1.0 lanes 1 name "Kilian Boulevard Southeast" highway tertiary
+34 35 1.0 name "7th Street Southeast" highway tertiary
+35 301 1.0 name "7th Street Southeast" highway tertiary
+35 41 1.0 name "Kilian Boulevard Southeast" highway tertiary lanes 1
+36 301 1.0 name "7th Street Southeast" highway tertiary
+36 169 1.0 name "Lincoln Avenue Southeast" highway tertiary
+36 43 1.0 name "Lincoln Avenue Southeast" highway tertiary
+37 44 1.0 name "15th Avenue Southeast" highway tertiary
+37 38 1.0 lanes 2 name "Minnesota Boulevard Southeast" highway tertiary
+37 42 1.0 name "15th Avenue Southeast" highway tertiary
+38 44 1.0 ref "CR 8" name "9th Avenue Southeast" highway tertiary
+38 39 1.0 lanes 2 name "Minnesota Boulevard Southeast" highway tertiary
+39 41 1.0 name "Kilian Boulevard Southeast" highway tertiary
+39 40 1.0 name "Kilian Boulevard Southeast" highway tertiary
+40 41 1.0 lanes 2 name "University Drive Southeast" highway tertiary
+40 75 1.0 highway tertiary bridge yes lanes 2
+41 42 1.0 lanes 2 name "University Drive Southeast" highway tertiary
+42 46 1.0 name "15th Avenue Southeast" highway tertiary
+43 49 1.0 name "15th Avenue Southeast" highway tertiary
+43 46 1.0 name "15th Avenue Southeast" highway tertiary
+44 45 1.0 ref "CR 8" name "County Road 8 Southeast" highway secondary
+45 256 1.0 highway tertiary
+47 48 1.0 name "15th Avenue Southeast" highway tertiary
+47 49 1.0 name "15th Avenue Southeast" highway tertiary
+47 298 1.0 ref "US 10" highway motorway maxspeed "65 mph"
+49 294 1.0 name "Highway 10 South" lanes 2
+50 438 1.0 ref "CR 120" name "County Road 120" highway tertiary
+50 383 1.0 lanes 4 ref "CR 4" name "County Road 4" highway secondary maxspeed "40 mph"
+50 223 1.0 lanes 4 ref "CR 4" name "County Road 4" highway secondary maxspeed "40 mph"
+51 452 1.0 ref "CR 120" name "County Road 120" highway tertiary
+51 504 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+51 494 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+52 53 1.0 lanes 2 name "Quarry Road" highway tertiary
+52 54 1.0 lanes 2 name "Quarry Road" highway tertiary
+52 112 1.0 lanes 2 name "Maine Prairie Road" highway tertiary
+53 73 1.0 lanes 2 name "22nd Street South" highway tertiary
+53 113 1.0 lanes 2 name "22nd Street South" highway tertiary
+54 73 1.0 name "West Saint Germain Street" highway secondary
+54 230 1.0 name "West Saint Germain Street" highway secondary
+55 317 1.0 lanes 4 name "2nd Street North" highway secondary
+55 56 1.0 lanes 4 name "2nd Street North" highway secondary
+55 102 1.0 lanes 2 name "9th Avenue North" highway secondary
+55 136 1.0 lanes 2 name "10th Avenue North" highway secondary
+56 97 1.0 lanes 2 name "7th Avenue North" highway tertiary
+56 57 1.0 lanes 4 name "1st Street North" highway secondary
+57 87 1.0 lanes 2 name "6th Avenue North" highway tertiary
+57 133 1.0 lanes 2 name "6th Avenue North" highway tertiary
+57 232 1.0 lanes 4 name "1st Street North" highway secondary
+58 112 1.0 lanes 2 name "Maine Prairie Road" highway tertiary
+59 524 1.0 ref "CR 138" name "54th Avenue North" highway tertiary
+59 377 1.0 lanes 4 ref "CR 138" name "54th Avenue North" highway tertiary
+59 525 1.0 name "54th Avenue North" highway tertiary
+60 351 1.0 lanes 1 name "6th Avenue South" highway tertiary
+60 135 1.0 ref "CR 75" name "Division Street" highway primary bridge yes maxspeed "35 mph"
+60 226 1.0 name "6th Avenue North" highway tertiary
+60 353 1.0 lanes 4 ref "CR 75" name "Division Street" highway primary
+61 96 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+61 62 1.0 highway tertiary_link
+61 109 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+62 109 1.0 lanes 2 name "9th Avenue North" highway secondary
+62 488 1.0 lanes 2 name "9th Avenue North" highway secondary
+63 267 1.0 lanes 3 name "28th Avenue South" highway tertiary
+63 335 1.0 lanes 2 ref "MN 23" highway trunk maxspeed "65 mph"
+63 64 1.0 lanes 3 name "28th Avenue South" highway tertiary
+63 139 1.0 ref "MN 23"
+64 335 1.0 lanes 1 highway trunk_link
+64 426 1.0 name "28th Avenue South" highway tertiary
+65 371 1.0 lanes 3 ref "CR 4;CR 134" name "Veterans Drive" highway secondary
+65 376 1.0 lanes 2 ref "CR 138" name "54th Avenue North" highway tertiary
+65 372 1.0 lanes 2 ref "CR 138" name "54th Avenue North" highway tertiary
+65 380 1.0 bridge yes lanes 3 ref "CR 4;CR 134" name "Veterans Drive" highway secondary
+66 70 1.0 lanes 2 ref "CR 75" name "2nd Street South" highway trunk maxspeed "40 mph"
+66 287 1.0 lanes 2 ref "MN 15; MN 23" highway trunk maxspeed "40 mph"
+66 265 1.0 lanes 2 ref "MN 15; MN 23" highway trunk maxspeed "40 mph"
+66 429 1.0 lanes 3 ref "CR 75" name "2nd Street South" highway primary
+67 343 1.0 lanes 4 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+67 354 1.0 lanes 2 ref "MN 15" highway trunk maxspeed "40 mph"
+67 207 1.0 lanes 2 ref "MN 15" highway trunk maxspeed "40 mph"
+67 522 1.0 lanes 4 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+68 404 1.0 lanes 2 ref "MN 15" highway trunk
+68 416 1.0 name "3rd Street North" highway secondary
+68 219 1.0 lanes 4 highway secondary
+68 417 1.0 lanes 2 ref "MN 15" highway trunk maxspeed "40 mph"
+69 387 1.0 lanes 2 ref "MN 15" highway trunk
+69 389 1.0 lanes 2 name "Veterans Drive" highway secondary
+69 220 1.0 lanes 2 name "Veterans Drive" highway secondary
+69 393 1.0 lanes 2 ref "MN 15" highway trunk
+70 286 1.0 lanes 2 ref "CR 75" name "2nd Street South" highway trunk maxspeed "40 mph"
+70 266 1.0 lanes 2 ref "MN 15" highway trunk maxspeed "40 mph"
+70 291 1.0 lanes 4 ref "MN 15" highway trunk maxspeed "40 mph"
+71 207 1.0 lanes 2 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+71 430 1.0 lanes 3 ref "MN 15;MN 23" highway trunk maxspeed "40 mph"
+71 343 1.0 lanes 2 ref "MN 15" highway trunk maxspeed "40 mph"
+71 432 1.0 lanes 4 ref "CR 75" name "Division Street" highway primary maxspeed "40 mph"
+72 73 1.0 ref "CR 137" highway tertiary bridge yes lanes 2
+72 84 1.0 ref "CR 137" name "7th Street South" highway secondary
+72 155 1.0 lanes 4 name "2nd Avenue South" highway secondary
+74 523 1.0 name "54th Avenue North" highway tertiary
+74 135 1.0 lanes 2 highway tertiary
+74 307 1.0 lanes 4 ref "CR 81" name "3rd Street North" highway secondary
+74 164 1.0 lanes 4 ref "CR 81" name "3rd Street North" highway secondary
+74 411 1.0 ref "CR 138" name "54th Avenue North" highway tertiary
+75 330 1.0 name "University Drive South" highway tertiary
+75 328 1.0 name "University Drive South" highway tertiary
+76 101 1.0 lanes 2 name "Traverse Road" highway tertiary
+76 217 1.0 lanes 2 name "Traverse Road" highway tertiary
+76 77 1.0 name "17th Street South" highway tertiary
+77 78 1.0 name "17th Street South" highway tertiary
+77 101 1.0 lanes 2 name "Cooper Avenue South" highway tertiary
+77 482 1.0 lanes 2 name "Cooper Avenue South" highway tertiary
+79 96 1.0 lanes 2 name "15th Street North" highway tertiary
+80 132 1.0 name "3rd Street North" highway tertiary
+81 199 1.0 highway tertiary
+81 86 1.0 lanes 2 name "7th Street South" highway tertiary
+81 82 1.0 name "7th Street South" highway tertiary
+82 125 1.0 lanes 2 name "14th Avenue South" highway tertiary
+82 83 1.0 name "7th Street South" highway tertiary
+82 200 1.0 lanes 2 name "14th Avenue South" highway tertiary
+83 148 1.0 lanes 2 name "Washington Memorial Drive" highway tertiary
+83 201 1.0 lanes 2 name "Washington Memorial Drive" highway tertiary
+84 306 1.0 ref "CR 137" highway secondary
+84 138 1.0 name "10th Avenue South" highway secondary
+85 86 1.0 lanes 2 name "7th Street South" highway tertiary
+85 334 1.0 lanes 2 name "5th Avenue South" highway tertiary
+85 400 1.0 lanes 2 name "5th Avenue South" highway tertiary
+86 252 1.0 lanes 4 name "9th Avenue South" highway secondary
+86 110 1.0 lanes 4 name "9th Avenue South" highway secondary
+87 111 1.0 lanes 2 name "6th Avenue North" highway tertiary
+87 88 1.0 lanes 2 name "8th Street North" highway tertiary
+88 89 1.0 ref "CR 4" lanes 4
+88 107 1.0 name "9th Avenue North" highway secondary
+88 102 1.0 lanes 4 name "9th Avenue North" highway secondary
+89 90 1.0 lanes 4 name "Veterans Drive" highway secondary
+89 115 1.0 lanes 2 name "25th Avenue North" highway tertiary
+89 103 1.0 lanes 2 name "25th Avenue North" highway tertiary
+90 91 1.0 lanes 4 name "Veterans Drive" highway secondary
+90 116 1.0 lanes 2 name "33rd Avenue North" highway tertiary
+90 104 1.0 lanes 4 name "33rd Avenue North" highway tertiary
+91 390 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary
+91 389 1.0 lanes 2 name "Veterans Drive" highway secondary
+92 398 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary
+92 414 1.0 lanes 2 name "44th Avenue North" highway secondary
+92 381 1.0 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+92 388 1.0 lanes 2 name "44th Avenue North" highway secondary
+93 121 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+93 258 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+93 96 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+94 114 1.0 highway tertiary
+95 258 1.0 lanes 2 name "15th Street North" highway tertiary
+95 108 1.0 lanes 2 name "9th Avenue North" highway secondary
+95 274 1.0 lanes 2 name "9th Avenue North" highway secondary
+95 167 1.0 lanes 2 name "15th Street North" highway tertiary
+95 259 1.0 lanes 2 name "9th Avenue North" highway secondary
+96 258 1.0 lanes 2 name "15th Street North" highway tertiary
+97 99 1.0 lanes 2 name "7th Avenue South" highway tertiary
+97 136 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+97 133 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+98 234 1.0 name "25th Avenue South" highway tertiary
+99 315 1.0 lanes 2 name "1st Street South" highway tertiary
+99 100 1.0 lanes 2 name "7th Avenue South" highway tertiary
+99 129 1.0 lanes 2 name "1st Street South" highway tertiary
+100 208 1.0 lanes 2 name "7th Avenue South" highway tertiary
+100 198 1.0 lanes 2 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph" bridge yes
+100 152 1.0 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+101 122 1.0 lanes 2 name "Cooper Avenue South" highway tertiary
+102 317 1.0 lanes 2 name "9th Avenue North" highway secondary
+103 120 1.0 highway tertiary
+103 104 1.0 name "5th Street North" highway tertiary
+103 163 1.0 lanes 2 name "25th Avenue North" highway tertiary
+104 415 1.0 lanes 4 name "33rd Avenue North" highway tertiary
+105 488 1.0 lanes 2 name "9th Avenue North" highway secondary
+105 487 1.0 lanes 2 ref "CR 1" highway tertiary
+105 270 1.0 lanes 2 ref "CR 1" name "9th Avenue North" highway secondary
+105 273 1.0 lanes 2 ref "CR 1" name "River Avenue North" highway tertiary
+106 488 1.0 lanes 2 ref "CR 1" highway tertiary
+106 487 1.0 lanes 2 ref "CR 1" highway tertiary
+107 108 1.0 lanes 2 name "9th Avenue North" highway secondary
+107 162 1.0 lanes 2 highway tertiary
+107 111 1.0 lanes 2 name "11th Street North" highway tertiary
+108 365 1.0 lanes 2 name "13th Street North" highway tertiary
+108 134 1.0 lanes 2 name "13th Street North" highway tertiary
+109 259 1.0 lanes 2 name "9th Avenue North" highway secondary
+109 276 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+110 212 1.0 lanes 4 name "9th Avenue South" highway secondary
+110 125 1.0 name "University Drive South" highway secondary
+110 331 1.0 name "University Drive South" highway secondary
+111 114 1.0 lanes 2 name "6th Avenue North" highway tertiary
+112 113 1.0 name "Oak Grove Road Southwest" highway tertiary
+113 122 1.0 lanes 2 name "22nd Street South" highway tertiary
+114 134 1.0 lanes 2 name "6th Avenue North" highway tertiary
+115 116 1.0 lanes 4 name "12th Street North" highway tertiary maxspeed "30 mph"
+115 141 1.0 name "13th Street North" highway tertiary maxspeed "30 mph"
+116 359 1.0 lanes 4 name "12th Street North" highway tertiary maxspeed "30 mph"
+117 403 1.0 lanes 2 name "44th Avenue North" highway secondary
+117 350 1.0 lanes 4 name "44th Avenue North" highway secondary
+117 166 1.0 lanes 2 name "44th Avenue North" highway secondary
+118 352 1.0 ref "CR 81" name "15th Avenue North" highway tertiary
+118 164 1.0 ref "CR 81" lanes 4
+118 135 1.0 ref "CR 75" name "Division Street" highway primary maxspeed "40 mph"
+119 202 1.0 lanes 4 name "Cooper Avenue North" highway secondary
+119 471 1.0 ref "MN 23" highway primary maxspeed "35 mph"
+119 474 1.0 lanes 4 ref "MN 23" name "1st Street" highway primary maxspeed "35 mph"
+119 475 1.0 lanes 4 name "Cooper Avenue North" highway secondary
+120 132 1.0 lanes 2 name "3rd Street North" highway tertiary
+120 163 1.0 lanes 2 name "3rd Street North" highway secondary
+120 475 1.0 lanes 4 name "Cooper Avenue North" highway secondary
+121 141 1.0 name "13th Street North" highway tertiary maxspeed "30 mph"
+121 365 1.0 lanes 2 name "13th Street North" highway tertiary
+123 124 1.0 lanes 2 name "14th Avenue South" highway tertiary
+123 130 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+123 142 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+124 200 1.0 lanes 2 name "14th Avenue South" highway tertiary
+124 128 1.0 ref "MN 23" name "1st Street" highway primary maxspeed "35 mph"
+124 127 1.0 ref "MN 23" name "1st Street" highway primary maxspeed "35 mph"
+125 213 1.0 lanes 2 name "14th Avenue South" highway tertiary
+125 148 1.0 name "University Drive South" highway secondary
+126 315 1.0 lanes 2 name "1st Street South" highway tertiary
+126 260 1.0 lanes 1 highway primary_link
+126 252 1.0 lanes 2 name "10th Avenue South" highway secondary
+126 198 1.0 bridge yes lanes 1 highway primary_link
+126 316 1.0 lanes 2 name "10th Avenue South" highway secondary
+127 142 1.0 lanes 2 name "12th Avenue South" highway tertiary
+127 260 1.0 lanes 3 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+128 201 1.0 lanes 2 name "Washington Memorial Drive" highway tertiary
+128 146 1.0 lanes 2 name "Washington Memorial Drive" highway tertiary
+128 474 1.0 ref "MN 23" name "1st Street" highway primary maxspeed "35 mph"
+129 489 1.0 lanes 2 name "5th Avenue South" highway tertiary
+129 152 1.0 lanes 2 name "5th Avenue South" highway tertiary
+130 131 1.0 name "16th Avenue North" highway tertiary
+130 146 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+131 132 1.0 name "16th Avenue North" highway tertiary
+131 149 1.0 name "2nd Street North" highway tertiary
+133 489 1.0 name "West Saint Germain Street" highway tertiary
+134 167 1.0 lanes 2 name "6th Avenue North" highway tertiary
+135 346 1.0 name "10th Avenue South" highway secondary
+136 316 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+136 315 1.0 lanes 2 name "10th Avenue South" highway secondary
+137 401 1.0 highway tertiary lanes 2
+137 158 1.0 name "Clearwater Road" highway tertiary lanes 2 ref "CR 7"
+137 212 1.0 highway tertiary lanes 4
+138 229 1.0 name "3rd Street South" highway tertiary
+138 269 1.0 name "10th Avenue South" highway secondary
+139 269 1.0 name "10th Avenue South" highway secondary
+139 346 1.0 name "10th Avenue South" highway secondary
+139 228 1.0 ref "MN 23" name "2nd Street South" highway primary maxspeed "40 mph"
+140 146 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+141 365 1.0 highway tertiary_link
+142 149 1.0 name "12th Avenue North" highway tertiary
+142 316 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+143 262 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+143 145 1.0 lanes 2 ref "CR 75" name "2nd Street South" highway primary
+143 151 1.0 lanes 2 ref "CR 75" name "2nd Street South" highway primary
+144 206 1.0 lanes 2 name "29th Avenue South" highway tertiary
+144 458 1.0 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+144 161 1.0 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+145 264 1.0 lanes 2 name "29th Avenue South" highway tertiary
+145 460 1.0 lanes 2 ref "CR 75" name "2nd Street South" highway primary
+145 206 1.0 lanes 2 name "29th Avenue South" highway tertiary
+147 534 1.0 name "West Saint Germain Street" highway tertiary
+147 205 1.0 highway tertiary
+147 151 1.0 name "25th Avenue South" highway tertiary
+147 204 1.0 highway tertiary
+148 214 1.0 lanes 2 name "Washington Memorial Drive" highway tertiary
+148 486 1.0 name "University Drive South" highway secondary
+149 317 1.0 lanes 4 name "2nd Street North" highway tertiary
+150 263 1.0 lanes 4 name "2nd Avenue South" highway secondary
+150 228 1.0 lanes 2 ref "MN 23" name "2nd Street South" highway primary maxspeed "40 mph"
+150 338 1.0 lanes 4 name "2nd Avenue South" highway secondary
+150 254 1.0 lanes 2 ref "MN 23" name "2nd Street South" highway primary maxspeed "40 mph"
+151 234 1.0 name "25th Avenue South" highway tertiary
+151 534 1.0 name "25th Avenue South" highway tertiary
+151 520 1.0 ref "CR 75" name "Roosevelt Road" highway primary
+152 521 1.0 lanes 2 name "5th Avenue South" highway tertiary
+153 154 1.0 name "2nd Avenue North" highway tertiary
+153 166 1.0 lanes 4 ref "CR 81" name "3rd Street North" highway secondary
+153 307 1.0 lanes 4 ref "CR 81" name "3rd Street North" highway secondary
+154 347 1.0 lanes 4 name "2nd Avenue South" highway secondary
+154 353 1.0 ref "CR 75" name "Division Street" highway primary
+154 350 1.0 ref "CR 75" name "Division Street" highway primary
+155 263 1.0 lanes 4 name "2nd Avenue South" highway secondary
+155 229 1.0 name "3rd Street South" highway tertiary
+156 415 1.0 name "3rd Street North" highway secondary
+156 163 1.0 lanes 2 name "3rd Street North" highway secondary
+156 165 1.0 name "3rd Street North" highway secondary
+157 302 1.0 lanes 2 name "Cypress Road" highway tertiary
+158 210 1.0 lanes 2 name "22nd Street South" highway tertiary
+159 357 1.0 lanes 2 highway tertiary
+159 302 1.0 lanes 2 name "Westwood Parkway" highway tertiary
+159 160 1.0 lanes 4 ref "CR 134" name "Ridgewood Road" highway tertiary
+159 355 1.0 lanes 4 ref "CR 134" name "Ridgewood Road" highway tertiary
+159 356 1.0 lanes 2 name "Westwood Parkway" highway tertiary
+160 235 1.0 lanes 2 ref "CR 134" name "Ridgewood Road" highway tertiary
+160 379 1.0 lanes 2 ref "CR 134" name "Ridgewood Road" highway tertiary
+161 205 1.0 name "27th Avenue South" highway tertiary
+161 470 1.0 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+163 469 1.0 lanes 2 name "25th Avenue North" highway tertiary
+164 412 1.0 name "3rd Street Northeast" highway secondary
+165 415 1.0 lanes 4 name "33rd Avenue North" highway tertiary
+165 457 1.0 lanes 4 name "33rd Avenue North" highway tertiary
+165 416 1.0 name "3rd Street North" highway secondary
+166 396 1.0 lanes 4 name "3rd Street Northeast" highway secondary
+166 409 1.0 lanes 2 name "44th Avenue North" highway secondary
+167 227 1.0 lanes 2 name "6th Avenue North" highway tertiary
+168 300 1.0 highway motorway_link
+168 177 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+168 297 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+169 318 1.0 name "Lincoln Avenue Southeast" highway tertiary
+169 186 1.0 name "Lincoln Avenue Southeast" highway tertiary
+170 173 1.0 name "Frontage Road" highway tertiary
+171 172 1.0 name "Frontage Road" highway tertiary
+172 173 1.0 name "Frontage Road" highway tertiary
+173 297 1.0 lanes 1 highway motorway_link
+174 175 1.0 highway motorway_link
+174 299 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+174 177 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+175 179 1.0 bridge yes lanes 2 ref "MN 23" highway trunk
+175 182 1.0 lanes 2 ref "MN 23" highway trunk
+176 300 1.0 lanes 2 ref "MN 23" highway trunk maxspeed "45 mph"
+176 177 1.0 highway motorway_link
+176 180 1.0 bridge yes lanes 2 ref "MN 23" highway trunk
+178 181 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+178 179 1.0 highway motorway_link
+178 295 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+179 293 1.0 lanes 2 ref "MN 23" highway trunk
+180 181 1.0 highway motorway_link
+180 183 1.0 lanes 2 ref "MN 23" highway trunk
+181 296 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+182 299 1.0 highway motorway_link
+183 296 1.0 lanes 1 highway motorway_link
+183 322 1.0 lanes 2 ref "MN 23" name "3rd Street" highway trunk
+184 367 1.0 highway motorway_link
+184 241 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+184 257 1.0 lanes 2 ref "US 10" maxspeed "55 mph"
+185 189 1.0 highway motorway_link
+186 196 1.0 name "Lincoln Avenue Southeast" highway tertiary
+186 319 1.0 lanes 1 highway trunk_link
+187 208 1.0 lanes 2 name "7th Avenue South" highway tertiary
+188 190 1.0 lanes 2 name "Lincoln Avenue South" highway tertiary
+188 275 1.0 highway secondary_link
+189 191 1.0 lanes 2 name "Benton Drive" highway secondary
+190 275 1.0 lanes 2 name "Benton Drive" highway secondary
+190 361 1.0 lanes 2 name "Benton Drive" highway secondary
+191 192 1.0 lanes 2 name "Franklin Avenue Northeast" highway tertiary
+191 275 1.0 lanes 2 name "Benton Drive" highway secondary
+193 362 1.0 lanes 2 ref "CR 46" name "5th Street South" highway tertiary
+193 361 1.0 lanes 2 name "Benton Drive" highway secondary
+193 194 1.0 lanes 2 name "Benton Drive" highway secondary
+194 250 1.0 lanes 2 name "Benton Drive" highway secondary
+195 250 1.0 ref "CR 33" name "Benton Drive" highway secondary
+195 270 1.0 lanes 2 highway secondary bridge yes
+196 321 1.0 lanes 3 ref "MN 23" name "3rd Street" highway trunk
+196 319 1.0 ref "MN 23" name "3rd Street Southeast" highway trunk
+197 319 1.0 lanes 2 ref "MN 23" name "3rd Street Southeast" highway trunk
+197 521 1.0 ref "MN 23" maxspeed "35 mph" bridge yes
+198 260 1.0 bridge yes lanes 2 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+199 209 1.0 lanes 2 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph" bridge yes
+199 200 1.0 lanes 2 ref "MN 23" name "1st Street" highway primary maxspeed "35 mph"
+200 201 1.0 ref "MN 23" name "1st Street" highway primary maxspeed "35 mph"
+201 473 1.0 ref "MN 23" name "1st Street" highway primary maxspeed "35 mph"
+202 473 1.0 lanes 4 ref "MN 23" name "1st Street" highway primary maxspeed "35 mph"
+202 484 1.0 lanes 4 name "Cooper Avenue South" highway secondary
+202 203 1.0 ref "MN 23" name "1st Street" highway primary maxspeed "35 mph"
+203 534 1.0 highway tertiary
+203 533 1.0 ref "MN 23" highway primary maxspeed "35 mph"
+204 533 1.0 lanes 2 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+204 205 1.0 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+204 470 1.0 name "25th Avenue North" highway tertiary
+205 206 1.0 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+206 459 1.0 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+207 341 1.0 lanes 2 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+207 431 1.0 lanes 4 ref "MN 15;MN 23" highway trunk maxspeed "40 mph"
+208 521 1.0 ref "MN 23" name "2nd Street South" highway primary maxspeed "35 mph"
+208 253 1.0 ref "MN 23" name "2nd Street South" highway primary maxspeed "35 mph"
+209 253 1.0 bridge yes lanes 2 ref "MN 23" name "2nd Street South" highway primary maxspeed "35 mph"
+209 252 1.0 bridge yes lanes 1 highway primary_link
+210 216 1.0 lanes 2 name "22nd Street South" highway tertiary
+210 211 1.0 ref "CR 75" name "Roosevelt Road" highway primary maxspeed "40 mph"
+211 217 1.0 lanes 2 name "Traverse Road" highway tertiary
+211 215 1.0 ref "CR 75" name "Roosevelt Road" highway primary maxspeed "40 mph"
+212 329 1.0 name "University Drive South" highway secondary
+212 213 1.0 name "University Drive South" highway secondary
+213 231 1.0 lanes 2 name "14th Avenue South" highway tertiary
+213 214 1.0 name "University Drive South" highway secondary
+214 215 1.0 lanes 2 name "Washington Memorial Drive" highway tertiary
+214 477 1.0 name "University Drive South" highway secondary
+215 218 1.0 lanes 2 name "Washington Memorial Drive" highway tertiary
+215 480 1.0 ref "CR 75" name "Roosevelt Road" highway primary maxspeed "40 mph"
+216 217 1.0 ref "CR 75" name "Roosevelt Road" highway primary maxspeed "40 mph"
+217 218 1.0 ref "CR 75" name "Roosevelt Road" highway primary maxspeed "40 mph"
+218 481 1.0 ref "CR 75" name "Roosevelt Road" highway primary maxspeed "40 mph"
+219 418 1.0 lanes 2 ref "MN 15" highway trunk maxspeed "40 mph"
+219 405 1.0 lanes 2 ref "MN 15" highway trunk
+219 419 1.0 lanes 4 name "3rd Street Northeast" highway secondary
+220 394 1.0 lanes 2 ref "MN 15" highway trunk
+220 368 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+220 386 1.0 lanes 2 ref "MN 15" highway trunk
+221 501 1.0 lanes 2 ref "MN 15" highway motorway maxspeed "60 mph"
+221 517 1.0 highway motorway_link
+222 314 1.0 name "23rd Street South" highway tertiary
+222 310 1.0 name "23rd Street South" highway tertiary
+222 495 1.0 lanes 2 name "Connecticut Avenue South" highway tertiary
+224 303 1.0 highway tertiary_link
+225 304 1.0 highway tertiary_link
+226 307 1.0 name "6th Avenue North" highway tertiary
+226 353 1.0 name "6th Avenue North" highway tertiary
+227 276 1.0 name "6th Avenue North" highway tertiary
+227 274 1.0 name "6th Avenue North" highway tertiary
+228 268 1.0 lanes 4 name "6th Avenue South" highway tertiary
+228 337 1.0 name "6th Avenue South" highway tertiary
+229 268 1.0 lanes 2 name "6th Avenue South" highway tertiary
+230 462 1.0 name "West Saint Germain Street" highway secondary
+230 463 1.0 name "West Saint Germain Street" highway secondary
+232 489 1.0 lanes 2 name "5th Avenue North" highway tertiary
+233 247 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+233 277 1.0 lanes 1 name "County Road 120" highway tertiary
+233 499 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+234 483 1.0 ref "CR 75" name "Roosevelt Road" highway primary maxspeed "40 mph"
+234 262 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+235 380 1.0 lanes 3 ref "CR 4;CR 134" name "Veterans Drive" highway secondary maxspeed "40 mph" bridge yes
+235 382 1.0 lanes 2 name "Ridgewood Road" highway tertiary
+235 379 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+236 237 1.0 lanes 2 name "Westwood Parkway" highway tertiary
+237 356 1.0 lanes 2 name "Westwood Parkway" highway tertiary
+237 302 1.0 lanes 2 name "Westwood Parkway" highway tertiary
+238 449 1.0 highway tertiary junction roundabout
+238 240 1.0 highway tertiary junction roundabout
+238 438 1.0 name "Pine Cone Road South" highway tertiary
+239 240 1.0 highway tertiary junction roundabout
+239 448 1.0 name "Pine Cone Road South" highway tertiary
+239 449 1.0 highway tertiary junction roundabout
+240 439 1.0 name "Pine Cone Road South" highway tertiary
+242 294 1.0 lanes 1 highway motorway_link
+242 298 1.0 lanes 2 ref "US 10" highway motorway maxspeed "65 mph"
+242 296 1.0 lanes 2 ref "US 10" highway motorway maxspeed "65 mph"
+243 249 1.0 ref "CR 120" name "County Road 120" highway tertiary
+243 244 1.0 highway tertiary junction roundabout
+243 246 1.0 highway tertiary junction roundabout
+244 245 1.0 highway tertiary junction roundabout
+244 248 1.0 ref "CR 120" name "County Road 120" highway tertiary
+245 246 1.0 highway tertiary junction roundabout
+247 248 1.0 highway tertiary junction roundabout
+247 437 1.0 highway tertiary junction roundabout
+248 249 1.0 highway tertiary junction roundabout
+249 437 1.0 highway tertiary junction roundabout
+250 251 1.0 lanes 2 ref "CR 3" highway secondary
+250 273 1.0 lanes 2 name "9th Avenue North" highway secondary bridge yes
+252 315 1.0 lanes 2 name "10th Avenue South" highway secondary
+252 253 1.0 lanes 1 highway primary_link
+254 261 1.0 name "Waite Avenue South" highway tertiary
+254 342 1.0 name "Waite Avenue South" highway tertiary
+254 465 1.0 lanes 2 ref "MN 23" name "2nd Street South" highway primary maxspeed "40 mph"
+257 299 1.0 lanes 2 ref "US 10" highway motorway maxspeed "55 mph"
+258 259 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+259 274 1.0 name "Northway Drive" highway tertiary maxspeed "30 mph"
+261 288 1.0 ref "MN 23" highway primary maxspeed "40 mph"
+261 263 1.0 lanes 2 ref "MN 23" name "2nd Street South" highway primary maxspeed "40 mph"
+262 462 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+262 264 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+263 268 1.0 lanes 2 ref "MN 23" name "2nd Street South" highway primary maxspeed "40 mph"
+264 461 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+265 290 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+265 266 1.0 lanes 2 ref "MN 23" name "2nd Street" highway primary maxspeed "40 mph"
+265 292 1.0 lanes 4 ref "MN 15" highway motorway maxspeed "40 mph"
+266 289 1.0 lanes 2 ref "MN 15" highway motorway maxspeed "65 mph"
+266 288 1.0 lanes 4 ref "MN 23" name "2nd Street" highway primary maxspeed "40 mph"
+267 269 1.0 ref "MN 23"
+267 306 1.0 name "28th Avenue South" highway tertiary
+268 269 1.0 ref "MN 23" name "2nd Street South" highway primary maxspeed "40 mph"
+270 487 1.0 highway secondary_link
+271 362 1.0 lanes 2 name "Benton Drive" highway secondary
+271 272 1.0 highway secondary_link
+273 276 1.0 lanes 2 name "9th Avenue North" highway secondary
+273 488 1.0 lanes 2 ref "CR 1" highway tertiary
+274 276 1.0 lanes 2 name "9th Avenue North" highway secondary
+277 513 1.0 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+277 437 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+278 279 1.0 name "44th Avenue North" highway secondary
+278 281 1.0 highway trunk_link
+278 391 1.0 lanes 2 highway secondary
+279 280 1.0 name "12th Street North" highway tertiary
+279 281 1.0 lanes 2 ref "MN 15" highway trunk
+279 283 1.0 lanes 2 ref "MN 15" highway trunk
+280 282 1.0 lanes 2 ref "MN 15" highway trunk
+280 359 1.0 name "12th Street North" highway tertiary
+280 395 1.0 lanes 2 ref "MN 15" highway trunk
+281 399 1.0 lanes 2 ref "MN 15" highway trunk
+282 283 1.0 name "44th Avenue North" highway secondary
+282 285 1.0 lanes 2 ref "MN 15" highway motorway
+282 284 1.0 name "12th Street North" highway tertiary
+283 388 1.0 highway secondary lanes 2
+283 501 1.0 lanes 2 ref "MN 15" highway motorway maxspeed "60 mph" bridge yes
+284 285 1.0 highway motorway_link
+284 359 1.0 name "12th Street North" highway tertiary
+285 336 1.0 lanes 2 ref "MN 15" highway motorway maxspeed "60 mph" bridge yes
+286 466 1.0 lanes 2 ref "MN 23" name "2nd Street South" highway primary maxspeed "40 mph"
+286 291 1.0 ref "MN 23" highway trunk_link maxspeed "40 mph"
+287 431 1.0 highway trunk maxspeed "40 mph"
+287 429 1.0 lanes 1 highway trunk_link
+288 289 1.0 highway motorway_link
+290 529 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+290 292 1.0 highway motorway_link
+291 430 1.0 highway trunk maxspeed "40 mph"
+293 323 1.0 lanes 2 ref "MN 23" highway trunk
+293 295 1.0 highway motorway_link
+294 298 1.0 lanes 1 highway motorway_link
+300 424 1.0 lanes 2 ref "MN 23" highway trunk maxspeed "45 mph"
+302 356 1.0 lanes 2 name "Cypress Road" highway tertiary
+303 304 1.0 lanes 3 ref "CR 134" name "Ridgewood Road" highway tertiary
+303 357 1.0 lanes 2 ref "CR 134" name "Ridgewood Road" highway tertiary
+304 355 1.0 ref "CR 134" name "Ridgewood Road" highway tertiary
+305 428 1.0 lanes 2 ref "CR 75" name "County Road 75" highway trunk maxspeed "50 mph"
+305 426 1.0 name "28th Avenue South" highway tertiary
+305 427 1.0 name "28th Avenue South" highway tertiary
+308 435 1.0 name "Leander Avenue" highway tertiary
+308 509 1.0 name "Leander Avenue" highway tertiary
+308 309 1.0 name "Leander Avenue" highway tertiary
+309 435 1.0 highway tertiary junction roundabout
+309 312 1.0 highway tertiary junction roundabout
+310 436 1.0 name "23rd Street South" highway tertiary
+310 434 1.0 name "23rd Street South" highway tertiary
+311 312 1.0 highway tertiary junction roundabout
+311 313 1.0 name "Leander Avenue" highway tertiary
+311 436 1.0 highway tertiary junction roundabout
+312 313 1.0 name "Leander Avenue" highway tertiary
+316 317 1.0 lanes 2 name "10th Avenue North" highway secondary
+318 321 1.0 name "Lincoln Avenue Southeast" highway tertiary
+318 322 1.0 lanes 1 highway trunk_link
+320 324 1.0 lanes 1 highway trunk_link
+321 323 1.0 name "Lincoln Avenue Southeast" highway tertiary
+321 322 1.0 lanes 2 ref "MN 23" name "3rd Street" highway trunk
+323 325 1.0 name "Lincoln Avenue Southeast" highway tertiary
+324 325 1.0 name "Lincoln Avenue Southeast" highway tertiary
+326 328 1.0 highway tertiary junction roundabout
+326 327 1.0 highway tertiary junction roundabout
+326 401 1.0 name "5th Avenue South" highway tertiary
+327 401 1.0 name "5th Avenue South" highway tertiary
+327 329 1.0 highway tertiary junction roundabout
+328 330 1.0 highway tertiary junction roundabout
+329 331 1.0 highway tertiary junction roundabout
+330 333 1.0 highway tertiary junction roundabout
+331 332 1.0 highway tertiary junction roundabout
+332 333 1.0 highway tertiary junction roundabout
+332 334 1.0 name "5th Avenue South" highway tertiary
+333 334 1.0 name "5th Avenue South" highway tertiary
+336 515 1.0 lanes 2 ref "MN 15" highway motorway maxspeed "60 mph"
+336 497 1.0 highway motorway_link
+337 340 1.0 lanes 1 name "6th Avenue South" highway tertiary
+337 472 1.0 lanes 1 name "6th Avenue South" highway tertiary
+338 339 1.0 lanes 4 name "2nd Avenue South" highway secondary
+338 345 1.0 lanes 1 highway primary_link
+339 347 1.0 lanes 4 name "2nd Avenue South" highway secondary
+339 348 1.0 lanes 1 highway primary_link
+340 472 1.0 lanes 1 highway tertiary_link
+340 349 1.0 lanes 2 name "6th Avenue South" highway tertiary
+341 455 1.0 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+341 431 1.0 lanes 1 highway trunk_link
+342 432 1.0 ref "CR 75" name "Division Street" highway primary maxspeed "40 mph"
+342 350 1.0 lanes 4
+342 345 1.0 ref "CR 75" name "Division Street" highway primary maxspeed "40 mph"
+343 344 1.0 lanes 2 ref "CR 75" name "Division Street" highway primary
+343 433 1.0 lanes 4 ref "MN 15" highway trunk maxspeed "40 mph"
+344 350 1.0 ref "CR 75" name "Division Street" highway primary
+344 433 1.0 lanes 1 highway trunk_link
+345 347 1.0 lanes 2 ref "CR 75" name "Division Street" highway primary maxspeed "40 mph"
+346 351 1.0 ref "CR 75" name "Division Street" highway primary maxspeed "35 mph" bridge yes
+346 352 1.0 ref "CR 75" name "Division Street" highway primary maxspeed "40 mph"
+347 348 1.0 lanes 3 ref "CR 75" name "Division Street" highway primary
+348 349 1.0 ref "CR 75" name "Division Street" highway primary
+349 353 1.0 name "6th Avenue South" highway tertiary
+349 351 1.0 lanes 4 ref "CR 75" name "Division Street" highway primary
+351 472 1.0 lanes 1 name "6th Avenue South" highway tertiary
+352 428 1.0 ref "CR 75" name "County Road 75" highway trunk
+354 417 1.0 lanes 2 ref "MN 15" highway trunk maxspeed "40 mph"
+354 522 1.0 lanes 1 highway trunk_link
+355 356 1.0 lanes 2 name "Cypress Road" highway tertiary
+358 370 1.0 ref "CR 134" name "County Road 134" highway tertiary bridge yes
+358 447 1.0 lanes 2 ref "CR 134" name "County Road 134" highway tertiary
+358 369 1.0 ref "CR 134" name "County Road 134" highway tertiary bridge yes
+360 361 1.0 highway secondary_link
+362 363 1.0 lanes 2 name "Benton Drive" highway secondary
+363 364 1.0 highway secondary_link
+366 367 1.0 highway motorway_link
+368 394 1.0 highway trunk_link
+368 398 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+369 374 1.0 lanes 2 ref "CR 134" name "County Road 134" highway tertiary
+369 375 1.0 highway secondary_link
+370 372 1.0 lanes 2 ref "CR 134" name "County Road 134" highway tertiary
+370 378 1.0 ref "CR 134" highway secondary_link bridge yes
+371 374 1.0 lanes 2 ref "CR 134" name "County Road 134" highway tertiary
+371 381 1.0 lanes 3 ref "CR 4" name "Veterans Drive" highway secondary
+371 373 1.0 lanes 2 ref "CR 138" name "54th Avenue North" highway tertiary
+372 378 1.0 lanes 3 ref "CR 4;CR 134" name "Veterans Drive" highway secondary bridge yes
+372 374 1.0 lanes 3 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+373 381 1.0 highway secondary_link
+373 377 1.0 lanes 2 ref "CR 138" name "54th Avenue North" highway tertiary
+374 375 1.0 lanes 3 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+375 388 1.0 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+376 377 1.0 lanes 2 ref "CR 138" name "54th Avenue North" highway tertiary
+376 380 1.0 bridge yes highway secondary_link
+378 382 1.0 bridge yes lanes 3 ref "CR 4;CR 134" name "Veterans Drive" highway secondary maxspeed "40 mph"
+379 382 1.0 lanes 2 ref "CR 134" name "Ridgewood Road" highway tertiary
+379 384 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+382 383 1.0 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+383 384 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+384 385 1.0 highway secondary_link
+386 392 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+386 387 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+386 399 1.0 lanes 2 ref "MN 15" highway trunk
+387 395 1.0 lanes 2 ref "MN 15" highway trunk
+387 390 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary
+388 391 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+389 393 1.0 highway trunk_link
+390 395 1.0 highway trunk_link
+391 392 1.0 lanes 2 ref "CR 4" name "Veterans Drive" highway secondary maxspeed "40 mph"
+391 398 1.0 lanes 2 name "44th Avenue North" highway secondary
+392 399 1.0 highway trunk_link
+393 422 1.0 lanes 2 ref "MN 15" highway trunk bridge yes
+394 421 1.0 lanes 2 ref "MN 15" highway trunk bridge yes
+396 408 1.0 lanes 2 name "44th Avenue North" highway secondary
+396 406 1.0 lanes 4 name "3rd Street Northeast" highway secondary
+396 403 1.0 lanes 2 name "44th Avenue North" highway secondary
+397 398 1.0 lanes 2 name "44th Avenue North" highway secondary
+397 407 1.0 highway secondary_link
+397 408 1.0 lanes 2 name "44th Avenue North" highway secondary
+400 402 1.0 highway tertiary_link
+400 521 1.0 lanes 2 name "5th Avenue South" highway tertiary
+403 406 1.0 highway secondary_link
+404 405 1.0 highway secondary
+404 422 1.0 lanes 2 ref "MN 15" highway trunk
+404 423 1.0 name "3rd Street North" highway secondary
+405 420 1.0 name "3rd Street Northeast" highway secondary
+405 421 1.0 lanes 2 ref "MN 15" highway trunk
+406 419 1.0 lanes 4 name "3rd Street Northeast" highway secondary
+407 408 1.0 name "3rd Street Northeast" highway secondary
+407 420 1.0 name "3rd Street Northeast" highway secondary
+408 409 1.0 name "3rd Street Northeast" highway secondary
+409 413 1.0 name "3rd Street Northeast" highway secondary
+409 414 1.0 lanes 2 name "44th Avenue North" highway secondary
+410 523 1.0 name "3rd Street Northeast" highway secondary
+410 525 1.0 highway tertiary_link
+410 413 1.0 name "3rd Street Northeast" highway secondary
+411 412 1.0 name "3rd Street Northeast" highway secondary
+411 523 1.0 name "3rd Street Northeast" highway secondary
+411 524 1.0 ref "CR 138" name "54th Avenue North" highway tertiary
+412 524 1.0 highway tertiary_link
+413 414 1.0 highway secondary_link
+415 423 1.0 name "3rd Street North" highway secondary
+416 417 1.0 highway trunk_link
+418 433 1.0 ref "MN 15" highway trunk maxspeed "40 mph"
+418 419 1.0 highway trunk_link
+420 421 1.0 highway trunk_link
+422 423 1.0 highway trunk_link
+424 425 1.0 highway trunk_link
+426 427 1.0 name "28th Avenue South" highway tertiary
+427 428 1.0 lanes 1 highway trunk_link
+429 527 1.0 ref "CR 75" name "2nd Street South" highway primary
+430 432 1.0 lanes 1 highway trunk_link
+434 436 1.0 highway tertiary junction roundabout
+434 435 1.0 highway tertiary junction roundabout
+438 439 1.0 ref "CR 120" name "County Road 120" highway tertiary
+439 451 1.0 name "Pine Cone Road South" highway secondary
+439 452 1.0 ref "CR 120" name "County Road 120" highway tertiary
+440 441 1.0 highway tertiary
+440 447 1.0 name "County Road 134" highway tertiary
+440 445 1.0 highway tertiary
+441 442 1.0 highway tertiary
+441 447 1.0 name "County Road 134" highway tertiary
+442 443 1.0 highway tertiary
+442 450 1.0 name "County Road 134" highway tertiary
+443 444 1.0 highway tertiary
+443 450 1.0 name "County Road 134" highway tertiary
+444 445 1.0 highway tertiary
+444 446 1.0 name "Pine Cone Road South" highway tertiary
+445 446 1.0 name "Pine Cone Road South" highway tertiary
+446 448 1.0 name "Pine Cone Road South" highway tertiary
+448 449 1.0 name "Pine Cone Road South" highway tertiary
+450 508 1.0 lanes 2 ref "CR 134" name "County Road 134" highway tertiary
+451 452 1.0 highway secondary_link
+453 454 1.0 name "33rd Avenue South" highway secondary
+453 467 1.0 lanes 2 ref "CR 75" name "2nd Street South" highway primary
+453 455 1.0 name "33rd Avenue South" highway secondary
+453 460 1.0 lanes 2 ref "CR 75" name "2nd Street South" highway primary
+454 461 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+454 463 1.0 name "33rd Avenue South" highway secondary
+454 530 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+455 459 1.0 lanes 4 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+455 456 1.0 name "33rd Avenue South" highway secondary
+456 522 1.0 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+456 457 1.0 name "33rd Avenue North" highway tertiary
+456 458 1.0 lanes 4 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+457 458 1.0 name "33rd Avenue North" highway tertiary
+458 459 1.0 name "33rd Avenue South" highway secondary
+459 460 1.0 name "33rd Avenue South" highway secondary
+460 461 1.0 name "33rd Avenue South" highway secondary
+461 462 1.0 name "33rd Avenue South" highway secondary
+462 463 1.0 lanes 2 name "West Saint Germain Street" highway tertiary
+464 466 1.0 highway primary_link
+465 466 1.0 lanes 2 ref "MN 23" name "2nd Street South" highway primary maxspeed "40 mph"
+465 532 1.0 highway primary_link
+467 468 1.0 lanes 2 ref "CR 75" name "2nd Street South" highway primary
+467 468 1.0 highway primary_link
+468 527 1.0 lanes 2 ref "CR 75" name "2nd Street South" highway primary
+469 470 1.0 name "25th Avenue North" highway tertiary
+469 471 1.0 name "25th Avenue North" highway tertiary
+470 471 1.0 lanes 3 ref "MN 23" name "Division Street" highway primary maxspeed "35 mph"
+471 533 1.0 name "25th Avenue North" highway tertiary
+473 474 1.0 highway secondary
+473 485 1.0 highway secondary
+474 475 1.0 highway secondary
+476 484 1.0 name "Cooper Avenue South" highway secondary
+476 485 1.0 highway secondary
+476 477 1.0 highway secondary
+476 486 1.0 name "University Drive South" highway secondary
+477 479 1.0 name "Cooper Avenue South" highway secondary
+478 483 1.0 name "Cooper Avenue South" highway secondary
+478 520 1.0 ref "CR 75" name "Roosevelt Road" highway primary
+478 480 1.0 ref "CR 75" name "Roosevelt Road" highway primary
+478 519 1.0 name "Cooper Avenue South" highway secondary
+479 480 1.0 name "Cooper Avenue South" highway secondary
+479 484 1.0 lanes 4 name "Cooper Avenue South" highway secondary
+480 481 1.0 name "Cooper Avenue South" highway secondary
+481 482 1.0 name "Cooper Avenue South" highway secondary
+481 483 1.0 ref "CR 75" name "Roosevelt Road" highway primary maxspeed "40 mph"
+482 483 1.0 name "Cooper Avenue South" highway secondary
+484 519 1.0 name "Cooper Avenue South" highway secondary
+485 486 1.0 highway secondary_link
+490 512 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+490 500 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+490 506 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+491 505 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+491 492 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+491 508 1.0 lanes 2 ref "CR 134" name "County Road 134" highway tertiary
+492 508 1.0 lanes 2 ref "CR 134" name "County Road 134" highway tertiary
+492 504 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+493 494 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+493 509 1.0 name "Leander Avenue" highway tertiary
+493 505 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+493 507 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+494 504 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+494 509 1.0 name "Leander Avenue" highway tertiary
+495 512 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+495 511 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+496 518 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+496 511 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+496 500 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+496 502 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+497 498 1.0 highway motorway_link
+497 499 1.0 highway motorway_link
+498 502 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph" bridge yes
+498 510 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+499 510 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+500 503 1.0 highway motorway_link
+501 503 1.0 highway motorway_link
+502 503 1.0 highway motorway_link
+505 506 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+506 507 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+507 512 1.0 lanes 2 ref "CR 120" highway tertiary maxspeed "40 mph"
+510 513 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+510 516 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph"
+511 517 1.0 highway motorway_link
+513 514 1.0 highway motorway_link
+514 515 1.0 highway motorway_link
+514 516 1.0 highway motorway_link
+516 518 1.0 lanes 2 ref "CR 120" name "County Road 120" highway tertiary maxspeed "40 mph" bridge yes
+517 518 1.0 highway motorway_link
+519 520 1.0 highway primary_link
+523 525 1.0 name "54th Avenue North" highway tertiary
+526 527 1.0 highway primary_link
+528 531 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+528 529 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+528 529 1.0 highway primary_link
+530 531 1.0 lanes 2 ref "CR 75" name "2nd St S" highway primary
+530 531 1.0 highway primary_link
+533 534 1.0 highway tertiary

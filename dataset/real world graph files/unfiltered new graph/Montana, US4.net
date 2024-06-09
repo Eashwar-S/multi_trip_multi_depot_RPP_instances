@@ -1,0 +1,748 @@
+*vertices 289
+1 40652184 -111.0831752 45.6783563 ellipse
+2 40652209 -111.0834044 45.6711327 ellipse
+3 40660756 -111.1706092 45.7824468 ellipse highway stop
+4 40664632 -111.0615283 45.7108684 ellipse ref 305 highway motorway_junction
+5 40668021 -111.197847 45.772664 ellipse
+6 40668064 -111.1995114 45.777304 ellipse ref 298 highway motorway_junction
+7 40669274 -111.0118292 45.6786851 ellipse
+8 40676442 -111.197007 45.58378 ellipse
+9 40684684 -111.0217813 45.6565183 ellipse
+10 40694576 -111.1799871 45.7665783 ellipse ref 298 highway motorway_junction
+11 40694659 -111.1850899 45.7690849 ellipse highway traffic_signals
+12 40694689 -111.1894151 45.7698997 ellipse
+13 40695184 -111.0697455 45.7189767 ellipse ref 305 highway motorway_junction
+14 40695304 -111.0648174 45.7132966 ellipse
+15 40699624 -111.082218 45.776629 ellipse
+16 40700523 -111.0637002 45.7159808 ellipse highway traffic_signals
+17 40700549 -111.069373 45.7190449 ellipse
+18 40701966 -111.0511178 45.697978 ellipse ref 306 highway motorway_junction
+19 40701985 -111.0462971 45.6959292 ellipse highway traffic_signals
+20 40701988 -111.0461139 45.6959252 ellipse highway traffic_signals
+21 40702017 -111.0410083 45.6957993 ellipse
+22 40709668 -111.184749 45.768021 ellipse
+23 40710084 -111.0121296 45.6791708 ellipse ref 309 highway motorway_junction
+24 40710098 -111.0121277 45.676756 ellipse
+25 40710140 -111.0150757 45.6770127 ellipse
+26 40711047 -111.0514727 45.6983512 ellipse
+27 40711085 -111.046309 45.698085 ellipse highway traffic_signals
+28 40711088 -111.0460967 45.6980773 ellipse highway traffic_signals
+29 40711114 -111.0410641 45.6960004 ellipse ref 306 highway motorway_junction
+30 40719225 -111.0101088 45.6749706 ellipse ref 309 highway motorway_junction
+31 40733339 -111.185101 45.7668516 ellipse
+32 40733372 -111.177622 45.7655197 ellipse
+33 40734073 -111.012087 45.67454 ellipse
+34 40761520 -111.0083959 45.6752668 ellipse
+35 40764706 -111.0821304 45.7249003 ellipse
+36 40764717 -111.0828019 45.7002228 ellipse
+37 40766132 -111.0263317 45.6571523 ellipse
+38 40766368 -111.0302937 45.6783649 ellipse
+39 40766370 -111.0302908 45.67935 ellipse highway traffic_signals
+40 40772885 -111.0597832 45.6793155 ellipse
+41 40778870 -111.0068564 45.6726969 ellipse
+42 40779262 -111.0616243 45.7097592 ellipse
+43 40782646 -111.1850892 45.7658805 ellipse
+44 40793815 -111.0461457 45.7000025 ellipse highway traffic_signals
+45 40793930 -111.0320561 45.679337 ellipse highway traffic_signals
+46 40809056 -111.0730642 45.7201505 ellipse
+47 40810534 -111.19707 45.591283 ellipse
+48 40815539 -111.0165069 45.6777735 ellipse
+49 40815553 -111.0184381 45.6783672 ellipse highway traffic_signals
+50 40815595 -111.024884 45.679357 ellipse
+51 40815606 -111.0285226 45.6793555 ellipse highway traffic_signals
+52 40815699 -111.1771302 45.7762073 ellipse highway stop
+53 40828789 -111.066621 45.7206188 ellipse highway traffic_signals
+54 40832642 -111.062665 45.605631 ellipse
+55 40832652 -111.052426 45.605639 ellipse
+56 40834886 -111.066884 45.718751 ellipse highway traffic_signals
+57 40839659 -111.0320402 45.6804228 ellipse highway traffic_signals
+58 40849952 -111.039955 45.66037 ellipse
+59 40849954 -111.041206 45.66037 ellipse highway traffic_signals
+60 40849969 -111.045656 45.660305 ellipse
+61 40849977 -111.0520733 45.6602836 ellipse highway traffic_signals
+62 40849999 -111.062859 45.660191 ellipse highway traffic_signals
+63 40850037 -111.041297 45.660264 ellipse highway traffic_signals
+64 40851035 -111.0418122 45.6499095 ellipse
+65 40851131 -111.048381 45.634813 ellipse
+66 40851246 -111.0464778 45.6493901 ellipse
+67 40857755 -111.052374 45.634742 ellipse
+68 40867395 -111.0669588 45.6781052 ellipse highway traffic_signals
+69 40867544 -111.0936763 45.678412 ellipse
+70 40867592 -111.10423 45.6784724 ellipse highway traffic_signals
+71 40867601 -111.0387341 45.6782732 ellipse highway traffic_signals
+72 40867622 -111.047899 45.678323 ellipse
+73 40867624 -111.048042 45.678324 ellipse
+74 40867630 -111.0517823 45.6784253 ellipse
+75 40867667 -111.0626269 45.6784485 ellipse highway traffic_signals
+76 40867694 -111.0659757 45.678758 ellipse
+77 40868334 -111.000899 45.656467 ellipse
+78 40870211 -111.0262974 45.6570264 ellipse
+79 40919707 -111.062711 45.671106 ellipse highway traffic_signals
+80 40923351 -111.0315144 45.6914907 ellipse highway traffic_signals
+81 40927036 -111.1505272 45.7624765 ellipse
+82 40928562 -111.1848846 45.7802117 ellipse highway traffic_signals
+83 40928635 -111.0387477 45.6792915 ellipse highway traffic_signals
+84 40928642 -111.0462459 45.6793065 ellipse highway traffic_signals
+85 40928656 -111.0478927 45.6793051 ellipse highway traffic_signals
+86 40928659 -111.0480253 45.6793053 ellipse highway traffic_signals
+87 40928668 -111.0515879 45.6793086 ellipse highway traffic_signals
+88 40928680 -111.0623668 45.6793885 ellipse highway traffic_signals
+89 40928684 -111.0625728 45.6793885 ellipse highway traffic_signals
+90 40928792 -111.0764714 45.6716517 ellipse highway traffic_signals
+91 40930454 -111.0514223 45.6803424 ellipse
+92 40930468 -111.0513448 45.6855897 ellipse
+93 40941292 -111.021628 45.634719 ellipse
+94 40944240 -111.089727 45.730517 ellipse
+95 40945712 -111.0654327 45.7115391 ellipse highway traffic_signals
+96 40945755 -111.065364 45.7002763 ellipse highway traffic_signals
+97 40945799 -111.062545 45.6931376 ellipse highway traffic_signals
+98 40945849 -111.0620573 45.6857989 ellipse highway traffic_signals
+99 40945905 -111.0618736 45.685796 ellipse highway traffic_signals
+100 40946235 -111.185046 45.7292643 ellipse highway traffic_signals
+101 40948609 -111.0064819 45.6748649 ellipse
+102 40948650 -111.046179 45.704777 ellipse
+103 40948765 -111.0909946 45.7290555 ellipse
+104 40954609 -111.0462469 45.6803331 ellipse highway traffic_signals
+105 40954610 -111.0462343 45.6819898 ellipse
+106 40954618 -111.0461396 45.6854944 ellipse highway traffic_signals
+107 40954633 -111.0460991 45.6928928 ellipse highway traffic_signals
+108 40954724 -111.0463285 45.6943052 ellipse
+109 40954731 -111.046335 45.692905 ellipse highway traffic_signals
+110 40954758 -111.046349 45.6854986 ellipse highway traffic_signals
+111 40965262 -111.0937949 45.6712283 ellipse
+112 40978675 -111.031716 45.685561 ellipse
+113 40978712 -111.1856125 45.6711201 ellipse highway traffic_signals
+114 40978730 -111.1852799 45.700121 ellipse highway traffic_signals
+115 40999319 -111.030878 45.699987 ellipse highway traffic_signals
+116 41010436 -111.144666 45.729266 ellipse
+117 41031221 -111.0929313 45.7002501 ellipse
+118 41031280 -111.0619871 45.7002959 ellipse
+119 41035714 -111.0625952 45.634597 ellipse
+120 41042991 -111.028524 45.6783752 ellipse
+121 41055506 -111.061907 45.7075816 ellipse
+122 41078221 -111.1039981 45.685787 ellipse
+123 41078499 -111.104443 45.591109 ellipse
+124 41092000 -111.1848855 45.7794703 ellipse
+125 41114615 -111.1452878 45.685637 ellipse
+126 41115604 -111.0388624 45.6712309 ellipse
+127 41115628 -111.0479745 45.6711987 ellipse
+128 41115631 -111.0481166 45.6711992 ellipse
+129 41115640 -111.0511108 45.6712059 ellipse
+130 41115644 -111.0528588 45.671139 ellipse
+131 288656591 -111.0827068 45.6674978 ellipse
+132 313869722 -111.0707703 45.6929905 ellipse
+133 313869747 -111.0932785 45.7002506 ellipse
+134 313871241 -111.0405314 45.6611527 ellipse
+135 314952725 -111.0105589 45.6752188 ellipse
+136 314953057 -111.01442 45.6761497 ellipse
+137 314953389 -111.0083959 45.6751641 ellipse
+138 314953694 -111.0084818 45.6765082 ellipse
+139 314953707 -111.008516 45.6752641 ellipse
+140 314953708 -111.0085247 45.6751648 ellipse
+141 314954145 -111.0164297 45.6778815 ellipse
+142 314954147 -111.0183626 45.6784909 ellipse highway traffic_signals
+143 317066887 -111.0933229 45.6928852 ellipse highway traffic_signals
+144 317609007 -111.0652044 45.700276 ellipse highway traffic_signals
+145 317609265 -111.0623906 45.693145 ellipse highway traffic_signals
+146 317609542 -111.0646956 45.7132527 ellipse
+147 317609543 -111.0635842 45.7159217 ellipse highway traffic_signals
+148 317659060 -111.0923907 45.7002125 ellipse
+149 317659120 -111.0935879 45.7002068 ellipse
+150 317659182 -111.0929246 45.7001666 ellipse
+151 317659224 -111.0932746 45.7001459 ellipse
+152 317884237 -111.1450275 45.6992259 ellipse
+153 319236425 -111.065274 45.7115028 ellipse highway traffic_signals
+154 319236443 -111.0654085 45.7116884 ellipse highway traffic_signals
+155 319798173 -111.0625814 45.6792626 ellipse highway traffic_signals
+156 319798186 -111.062384 45.6792566 ellipse highway traffic_signals
+157 319798456 -111.0658945 45.6786749 ellipse
+158 405093957 -111.0417477 45.6602605 ellipse
+159 405145687 -111.145069 45.6710783 ellipse highway traffic_signals
+160 1137836325 -111.0120952 45.6751525 ellipse
+161 1137836329 -111.0120967 45.675262 ellipse
+162 1422150797 -111.0520705 45.6704605 ellipse
+163 1422150831 -111.0520598 45.6716938 ellipse
+164 1513123889 -111.0628091 45.649364 ellipse highway traffic_signals
+165 2754732109 -111.051914 45.6709711 ellipse
+166 2754732113 -111.0517901 45.671033 ellipse
+167 2754732119 -111.0521143 45.6712492 ellipse
+168 2754732122 -111.0521473 45.6712264 ellipse
+169 2754732130 -111.051813 45.6712329 ellipse
+170 2754732132 -111.0518754 45.6712648 ellipse
+171 2754732137 -111.0521682 45.6710399 ellipse
+172 2754732139 -111.0521216 45.6710022 ellipse
+173 2809319170 -111.1953641 45.7725672 ellipse
+174 2809395633 -111.0825721 45.7002236 ellipse
+175 2819576833 -111.0357741 45.6446006 ellipse
+176 2843194096 -111.0415348 45.6599262 ellipse
+177 3390371506 -111.1623847 45.7733421 ellipse
+178 3390371515 -111.1621936 45.7735925 ellipse
+179 3390371521 -111.1624162 45.7737008 ellipse
+180 3390371538 -111.1623132 45.7744283 ellipse
+181 3390371540 -111.1614883 45.7749471 ellipse
+182 3390371543 -111.1620124 45.7751293 ellipse
+183 3658391015 -111.1550826 45.7578533 ellipse ref 299 highway motorway_junction
+184 3658391016 -111.1578942 45.75861 ellipse
+185 3658391665 -111.1625142 45.7612577 ellipse
+186 3658391672 -111.1624313 45.7612954 ellipse
+187 3658391678 -111.1703072 45.7629654 ellipse ref 299 highway motorway_junction
+188 3658391686 -111.1733418 45.7642538 ellipse
+189 3658391691 -111.1627588 45.7657636 ellipse
+190 3658391717 -111.1612564 45.7680336 ellipse highway traffic_signals
+191 3857586362 -111.0652413 45.7116407 ellipse highway traffic_signals
+192 3878292665 -111.0666063 45.7204986 ellipse highway traffic_signals
+193 3903493584 -111.104016 45.6784702 ellipse highway traffic_signals
+194 3908915749 -111.1842873 45.7799023 ellipse
+195 3908915750 -111.1848932 45.7806894 ellipse
+196 3908915755 -111.1855366 45.7805572 ellipse
+197 4052257767 -111.092688 45.6857127 ellipse
+198 4052257768 -111.0935439 45.6851599 ellipse
+199 4052257784 -111.0935151 45.68622 ellipse
+200 4214582571 -111.0520389 45.6496271 ellipse
+201 5158049312 -111.0595654 45.6493882 ellipse
+202 5158049316 -111.0530327 45.6495302 ellipse
+203 5158049320 -111.0533243 45.6495436 ellipse
+204 5158050621 -111.0538838 45.6496203 ellipse
+205 5158050623 -111.0533082 45.6497146 ellipse
+206 5158050624 -111.0530618 45.6502795 ellipse
+207 5158050627 -111.0530166 45.6497012 ellipse
+208 5158050647 -111.0611604 45.6493783 ellipse
+209 5324451331 -111.0931131 45.7000736 ellipse
+210 5324451348 -111.0828937 45.693082 ellipse
+211 5324451349 -111.0830861 45.6930989 ellipse
+212 5324451353 -111.0933187 45.6930351 ellipse highway traffic_signals
+213 5324451354 -111.0828478 45.692884 ellipse
+214 5324451355 -111.0831896 45.6929001 ellipse
+215 5324451359 -111.0831936 45.6930342 ellipse
+216 5324451364 -111.0828167 45.6930142 ellipse
+217 5331797532 -111.1851447 45.7647405 ellipse
+218 5343905260 -111.1852541 45.7658783 ellipse
+219 5343905261 -111.1852754 45.7672742 ellipse
+220 5343905265 -111.1852405 45.7691001 ellipse
+221 5343905270 -111.1850042 45.7729466 ellipse highway traffic_signals
+222 5371437945 -111.161792 45.7743218 ellipse
+223 5371437953 -111.1621971 45.7734459 ellipse
+224 5371437960 -111.1625028 45.7736942 ellipse
+225 5371437961 -111.1628965 45.773838 ellipse
+226 5371437970 -111.1615426 45.7728972 ellipse
+227 5371437975 -111.1626906 45.7735098 ellipse
+228 5371438008 -111.1631762 45.7658475 ellipse
+229 5371438009 -111.1631441 45.7649023 ellipse
+230 5371438016 -111.1626024 45.7659579 ellipse
+231 5371438017 -111.1623748 45.7668031 ellipse
+232 5371438018 -111.1629401 45.7661619 ellipse
+233 5371438024 -111.1621039 45.7611923 ellipse
+234 5371438025 -111.1626018 45.7626318 ellipse
+235 5371438037 -111.1635826 45.7597293 ellipse
+236 5371438038 -111.1632328 45.7596128 ellipse
+237 5391572678 -111.0517933 45.6783391 ellipse
+238 5952667183 -111.0524224 45.6520847 ellipse
+239 5952667393 -111.0521219 45.6536612 ellipse
+240 6765380582 -111.06059 45.6492683 ellipse
+241 6765385189 -111.06059 45.6494907 ellipse
+242 6765385195 -111.0602741 45.6494639 ellipse
+243 6765385201 -111.0603081 45.6492683 ellipse
+244 6765385262 -111.0523079 45.652909 ellipse
+245 6765385274 -111.0520199 45.6531397 ellipse
+246 6765385282 -111.0520599 45.6528894 ellipse
+247 6765385283 -111.0522406 45.6531665 ellipse
+248 7262676585 -111.1449743 45.70117 ellipse
+249 7264234663 -111.0943414 45.6857202 ellipse
+250 8144844860 -111.103804 45.6857854 ellipse
+251 8144844873 -111.1033845 45.6927945 ellipse
+252 8144844881 -111.1034638 45.692754 ellipse
+253 8144844884 -111.1033496 45.6930718 ellipse
+254 8144844903 -111.103828 45.6927948 ellipse
+255 8207979450 -111.0474363 45.6493921 ellipse
+256 8207979451 -111.0469964 45.6488859 ellipse
+257 8207979453 -111.0471459 45.6493099 ellipse
+258 8207979457 -111.0470646 45.6494444 ellipse
+259 8207979462 -111.0467718 45.6494091 ellipse
+260 8207979465 -111.0467426 45.6492957 ellipse
+261 8207979467 -111.0468315 45.6492082 ellipse
+262 8207979472 -111.047068 45.6492155 ellipse
+263 8226634216 -111.0781057 45.6492634 ellipse
+264 8518704579 -111.104121 45.6712499 ellipse highway traffic_signals
+265 8518704635 -111.1042115 45.6641318 ellipse
+266 8518704637 -111.104299 45.6712491 ellipse highway traffic_signals
+267 8518776687 -111.1041627 45.6579457 ellipse
+268 8518776689 -111.104183 45.6549153 ellipse
+269 8518776720 -111.1040535 45.656657 ellipse
+270 8518776727 -111.1040343 45.6564387 ellipse
+271 8518776731 -111.1037754 45.6564214 ellipse
+272 8518776734 -111.1037149 45.6566508 ellipse
+273 8519271560 -111.1437378 45.7001163 ellipse
+274 8519271564 -111.1462313 45.7001316 ellipse
+275 8519271566 -111.1451932 45.7002762 ellipse
+276 8519271567 -111.145263 45.7002177 ellipse
+277 8519271569 -111.144724 45.6999881 ellipse
+278 8519271573 -111.1452636 45.6999985 ellipse
+279 8519271574 -111.1451941 45.6999399 ellipse
+280 8519271577 -111.1448856 45.6998994 ellipse
+281 8519271580 -111.1447461 45.7002484 ellipse
+282 8519271581 -111.1448208 45.7002943 ellipse
+283 9033431548 -111.0934003 45.6856025 ellipse
+284 9033431549 -111.0933554 45.6856404 ellipse
+285 9033431552 -111.0937202 45.6856569 ellipse
+286 9033431553 -111.0936872 45.6856189 ellipse
+287 9033431560 -111.0933566 45.6857821 ellipse
+288 9033431561 -111.0934021 45.6858196 ellipse
+289 9033431579 -111.0936628 45.6858192 ellipse
+*edges
+1 68 1.0 name "West Babcock Street" highway tertiary
+1 2 1.0 name "Fowler Avenue" highway tertiary
+1 69 1.0 name "West Babcock Street" highway tertiary
+2 131 1.0 name "Fowler Avenue" highway tertiary
+2 90 1.0 lanes 4 ref "US 191;MT 84" name "Huffine Lane" highway primary
+2 111 1.0 lanes 4 ref "US 191;MT 84" name "Huffine Lane" highway primary maxspeed "45 mph"
+3 52 1.0 name "North Broadway" highway tertiary
+4 147 1.0 highway motorway_link
+4 17 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+4 26 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+5 218 1.0 name "Amsterdam Road" highway primary
+5 173 1.0 highway motorway_link
+5 6 1.0 highway motorway_link
+6 173 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+7 29 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph" bridge yes
+7 30 1.0 bridge yes lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+7 34 1.0 highway motorway_link
+8 123 1.0 name "Cottonwood Road" highway tertiary
+8 47 1.0 lanes 2 ref "US 191" name "Gallatin Road" highway primary maxspeed "55 mph"
+9 37 1.0 name "East Kagy Boulevard" highway tertiary maxspeed "35 mph"
+9 77 1.0 lanes 2 name "Kagy Boulevard" highway tertiary
+9 49 1.0 name "Highland Boulevard" highway tertiary
+9 78 1.0 name "East Kagy Boulevard" highway tertiary maxspeed "35 mph"
+10 11 1.0 highway motorway_link
+10 12 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+10 188 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+11 220 1.0 highway motorway_link
+11 221 1.0 lanes 2 ref "MT 291" name "Jackrabbit Lane" highway primary
+11 31 1.0 lanes 2 ref "MT 85" name "Jackrabbit Lane" highway primary bridge yes
+12 220 1.0 highway motorway_link
+13 14 1.0 highway motorway_link
+13 42 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+13 184 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph" bridge yes
+14 146 1.0 highway motorway_link
+14 154 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "40 mph"
+14 16 1.0 lanes 1 name "North 19th Avenue" highway secondary maxspeed "40 mph" bridge yes
+15 53 1.0 name "Springhill Road" highway tertiary bridge yes
+15 81 1.0 highway tertiary bridge yes
+16 17 1.0 highway motorway_link
+16 147 1.0 highway motorway_link
+16 192 1.0 lanes 1 name "North 19th Avenue" highway secondary maxspeed "40 mph" bridge yes
+17 183 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph" bridge yes
+18 19 1.0 ref "I 90 Business" highway motorway_link
+18 21 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+18 42 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+19 108 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary
+19 20 1.0 highway motorway_link
+19 27 1.0 name "North 7th Avenue" highway primary bridge yes
+20 21 1.0 highway motorway_link
+20 28 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary bridge yes
+20 107 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary
+21 23 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph" bridge yes
+22 32 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+22 173 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+22 219 1.0 highway motorway_link
+23 24 1.0 highway motorway_link
+23 41 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph" bridge yes
+24 25 1.0 highway motorway_link
+24 161 1.0 highway motorway_link
+25 141 1.0 lanes 2 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary
+25 161 1.0 lanes 2 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary maxspeed "50 mph"
+26 27 1.0 ref "I 90 Business" highway motorway_link
+26 29 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+27 28 1.0 ref "I 90 Business" highway motorway_link
+27 102 1.0 name "North 7th Avenue" highway secondary
+28 44 1.0 name "North 7th Avenue" highway secondary
+28 29 1.0 highway motorway_link
+30 138 1.0 bridge yes lanes 1 highway motorway_link
+31 32 1.0 highway motorway_link
+31 43 1.0 lanes 2 ref "MT 85" name "Jackrabbit Lane" highway primary
+32 187 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph"
+33 41 1.0 lanes 1 ref "I 90 Business;US 191" highway motorway_link
+33 136 1.0 lanes 1 ref "I 90 Business;US 191" highway motorway_link
+33 160 1.0 highway motorway_link
+34 139 1.0 name "East Main Street" highway primary maxspeed "50 mph"
+34 101 1.0 name "Frontage Road" highway secondary maxspeed "60 mph"
+34 137 1.0 highway motorway_link
+35 36 1.0 name "Davis Lane" highway tertiary
+35 103 1.0 ref "MT 235" name "East Valley Center Road" highway secondary maxspeed "60 mph"
+35 46 1.0 ref "MT 235" name "East Valley Center Road" highway secondary maxspeed "60 mph"
+36 174 1.0 name "East Baxter Lane" highway tertiary maxspeed "40 mph"
+36 211 1.0 lanes 2 name "Davis Lane" highway tertiary
+36 148 1.0 name "East Baxter Lane" highway tertiary
+37 78 1.0 name "Sourdough Road" highway tertiary
+37 38 1.0 highway tertiary maxspeed "25 mph" bridge yes
+37 58 1.0 highway tertiary maxspeed "35 mph"
+38 39 1.0 name "South Church Avenue" highway tertiary
+38 120 1.0 lanes 2 name "East Babcock Street" highway tertiary
+38 71 1.0 highway tertiary lanes 2 maxspeed "25 mph"
+39 45 1.0 lanes 4 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary maxspeed "25 mph"
+39 51 1.0 lanes 4 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary maxspeed "25 mph"
+40 88 1.0 lanes 2 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "35 mph"
+40 87 1.0 lanes 4 ref "US 191;MT 84" name "West Main Street" highway primary
+40 156 1.0 lanes 2 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "35 mph"
+42 146 1.0 highway motorway_link
+43 218 1.0 name "Amsterdam Road" highway primary
+43 217 1.0 lanes 2 ref "MT 85" name "Jackrabbit Lane" highway primary
+44 115 1.0 highway tertiary
+44 102 1.0 name "North 7th Avenue" highway secondary
+45 83 1.0 lanes 4 ref "I 90 Business;US 191;MT 84" highway primary maxspeed "25 mph"
+45 57 1.0 lanes 2 ref "MT 86" name "North Rouse Avenue" highway secondary
+46 95 1.0 lanes 2 ref "MT 235" name "East Valley Center Road" highway secondary maxspeed "45 mph"
+46 154 1.0 lanes 2 ref "MT 235" name "East Valley Center Road" highway secondary maxspeed "45 mph"
+47 113 1.0 lanes 2 ref "US 191" name "Gallatin Road" highway primary maxspeed "55 mph" bridge yes
+48 141 1.0 name "Haggerty Lane" highway tertiary
+48 77 1.0 highway tertiary
+48 136 1.0 lanes 2 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary
+48 49 1.0 lanes 2 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary maxspeed "40 mph"
+49 142 1.0 name "Highland Boulevard" highway tertiary maxspeed "35 mph"
+49 50 1.0 lanes 2 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary
+50 51 1.0 lanes 4 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary maxspeed "25 mph"
+50 142 1.0 lanes 2 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary
+51 120 1.0 name "South Wallace Avenue" highway tertiary
+52 190 1.0 lanes 2 ref "MT 205" highway secondary
+52 194 1.0 lanes 2 ref "MT 205" name "West Main Street" highway secondary maxspeed "25 mph"
+52 221 1.0 highway tertiary maxspeed "25 mph"
+53 192 1.0 name "Springhill Road" highway secondary
+53 147 1.0 lanes 1 name "North 19th Avenue" highway secondary maxspeed "40 mph" bridge yes
+54 55 1.0 name "Nash Road" highway tertiary maxspeed "35 mph"
+54 119 1.0 name "S 19th Ave" highway secondary maxspeed "60 mph"
+54 123 1.0 name "S 19th Ave" highway secondary maxspeed "60 mph" bridge yes
+55 67 1.0 name "South 3rd Road" highway tertiary maxspeed "50 mph"
+55 93 1.0 highway tertiary maxspeed "35 mph"
+56 192 1.0 name "Springhill Road" highway secondary
+56 102 1.0 name "Frontage Road" highway secondary bridge yes
+56 94 1.0 lanes 2 ref "MT 205" name "Frontage Road" highway secondary maxspeed "50 mph"
+57 104 1.0 lanes 2 highway tertiary maxspeed "25 mph"
+57 112 1.0 lanes 3 ref "MT 86" name "North Rouse Avenue" highway secondary
+58 59 1.0 name "West Kagy Boulevard" highway tertiary maxspeed "35 mph"
+58 134 1.0 lanes 1 highway tertiary_link
+59 63 1.0 name "South 3rd Avenue" highway tertiary
+59 134 1.0 lanes 3 name "South Willson Avenue" highway tertiary maxspeed "25 mph"
+59 60 1.0 name "West Kagy Boulevard" highway tertiary maxspeed "35 mph"
+60 61 1.0 name "West Kagy Boulevard" highway tertiary
+60 158 1.0 lanes 1 name "West Kagy Boulevard" highway tertiary maxspeed "35 mph"
+61 162 1.0 name "South 11th Avenue" highway tertiary
+61 239 1.0 name "South 11th Avenue" highway tertiary
+61 62 1.0 name "West Kagy Boulevard" highway tertiary
+62 79 1.0 name "South 19th Avenue" highway secondary maxspeed "45 mph"
+62 164 1.0 highway secondary
+63 78 1.0 highway tertiary maxspeed "35 mph"
+63 176 1.0 name "South 3rd Avenue" highway tertiary
+63 158 1.0 name "West Kagy Boulevard" highway tertiary maxspeed "35 mph"
+64 176 1.0 name "South 3rd Avenue" highway tertiary
+64 66 1.0 name "South 3rd Avenue" highway tertiary
+64 175 1.0 name "Graf Street" highway tertiary
+65 256 1.0 name "South 3rd Avenue" highway tertiary lanes 2
+65 93 1.0 name "Goldenstein Lane" highway tertiary bridge yes
+65 67 1.0 name "Goldenstein Lane" highway tertiary
+66 259 1.0 highway tertiary
+66 260 1.0 highway tertiary
+67 119 1.0 name "Goldenstein Lane" highway tertiary
+68 157 1.0 lanes 2 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "35 mph"
+68 90 1.0 lanes 4 ref "US 191;MT 84" name "West Main Street" highway primary
+68 76 1.0 lanes 2 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "35 mph"
+69 198 1.0 name "North Ferguson Avenue" highway tertiary maxspeed "35 mph"
+69 111 1.0 name "South Ferguson Avenue" highway tertiary maxspeed "35 mph"
+69 193 1.0 name "West Babcock Street" highway tertiary
+70 193 1.0 name "West Babcock Street" highway tertiary
+70 266 1.0 name "Cottonwood Road" highway tertiary maxspeed "35 mph"
+70 122 1.0 name "Cottonwood Road" highway tertiary maxspeed "35 mph"
+71 126 1.0 name "South Willson Avenue" highway tertiary
+71 83 1.0 name "South Willson Avenue" highway tertiary
+71 72 1.0 name "West Babcock Street" highway tertiary
+72 73 1.0 name "West Babcock Street" highway tertiary
+72 85 1.0 name "South 8th Avenue" highway tertiary
+72 127 1.0 name "South 8th Avenue" highway tertiary
+73 237 1.0 name "West Babcock Street" highway tertiary
+73 128 1.0 name "South 8th Avenue" highway tertiary
+73 86 1.0 name "South 8th Avenue" highway tertiary
+74 237 1.0 name "South 11th Avenue" highway tertiary
+74 87 1.0 name "South 11th Avenue" highway tertiary
+74 75 1.0 name "West Babcock Street" highway tertiary
+75 156 1.0 name "South 19th Avenue" highway secondary maxspeed "35 mph"
+75 157 1.0 name "West Babcock Street" highway tertiary
+75 79 1.0 name "South 19th Avenue" highway secondary maxspeed "35 mph"
+75 155 1.0 name "South 19th Avenue" highway secondary maxspeed "35 mph"
+76 157 1.0 name "West Babcock Street" highway tertiary
+76 89 1.0 lanes 2 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "35 mph"
+78 93 1.0 name "Sourdough Road" highway tertiary
+79 90 1.0 name "West College Street" highway tertiary
+79 130 1.0 name "West College Street" highway tertiary
+80 107 1.0 highway tertiary
+80 112 1.0 lanes 3 ref "MT 86" name "North Rouse Avenue" highway secondary
+80 115 1.0 lanes 3 ref "MT 86" highway secondary
+81 190 1.0 lanes 2 ref "MT 205" name "Frontage Road" highway secondary
+81 94 1.0 lanes 2 ref "MT 205" name "Frontage Road" highway secondary maxspeed "50 mph"
+82 194 1.0 lanes 2 ref "MT 205" name "West Main Street" highway secondary maxspeed "25 mph"
+82 195 1.0 lanes 2 name "Jackrabbit Lane" highway tertiary
+82 196 1.0 lanes 2 ref "MT 205" name "West Main Street" highway tertiary maxspeed "25 mph"
+82 124 1.0 lanes 2 ref "MT 291" name "Jackrabbit Lane" highway primary
+83 84 1.0 lanes 4 ref "I 90 Business;US 191;MT 84" name "West Main Street" highway primary maxspeed "25 mph"
+84 104 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary
+84 85 1.0 lanes 4 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "25 mph"
+85 86 1.0 lanes 4 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "25 mph"
+86 87 1.0 lanes 4 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "25 mph"
+87 91 1.0 name "North 11th Avenue" highway tertiary
+88 89 1.0 lanes 2 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "35 mph"
+88 99 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "25 mph"
+88 156 1.0 name "South 19th Avenue" highway secondary maxspeed "35 mph"
+89 155 1.0 name "South 19th Avenue" highway secondary maxspeed "35 mph"
+89 98 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "25 mph"
+91 92 1.0 name "North 11th Avenue" highway tertiary
+91 104 1.0 lanes 2 name "West Mendenhall Street" highway tertiary maxspeed "25 mph"
+92 99 1.0 lanes 3 name "Durston Road" highway tertiary maxspeed "30 mph"
+92 110 1.0 lanes 3 name "Durston Road" highway tertiary maxspeed "30 mph"
+94 103 1.0 name "East Valley Center Spur" highway secondary
+95 153 1.0 lanes 2 ref "MT 235" name "East Valley Center Road" highway secondary maxspeed "45 mph"
+95 96 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "40 mph"
+95 154 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "40 mph"
+96 144 1.0 name "East Baxter Lane" highway tertiary maxspeed "40 mph"
+96 174 1.0 name "East Baxter Lane" highway tertiary maxspeed "40 mph"
+96 97 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "40 mph"
+97 145 1.0 name "West Oak Street" highway tertiary
+97 98 1.0 lanes 2 name "North 19th Avenue" highway secondary
+97 132 1.0 lanes 0 name "West Oak Street" highway tertiary
+98 99 1.0 lanes 3 name "Durston Road" highway tertiary maxspeed "30 mph"
+98 197 1.0 name "Durston Road" highway tertiary maxspeed "35 mph"
+99 145 1.0 lanes 2 name "North 19th Avenue" highway secondary
+100 116 1.0 ref "MT 235" name "East Valley Center Road" highway secondary bridge yes
+100 217 1.0 ref "MT 85" name "Jackrabbit Lane" highway primary maxspeed "70 mph"
+100 114 1.0 lanes 2 ref "MT 85" name "Jackrabbit Lane" highway primary maxspeed "70 mph"
+101 137 1.0 name "Frontage Road" highway secondary maxspeed "50 mph"
+103 116 1.0 ref "MT 235" name "East Valley Center Road" highway secondary maxspeed "45 mph"
+104 105 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary
+105 106 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary
+105 110 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary
+106 110 1.0 lanes 3 name "Durston Road" highway tertiary maxspeed "30 mph"
+106 112 1.0 highway tertiary
+106 107 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary
+107 109 1.0 name "West Oak Street" highway tertiary
+108 109 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary
+108 118 1.0 name "East Baxter Lane" highway tertiary maxspeed "35 mph"
+109 110 1.0 ref "I 90 Business" name "North 7th Avenue" highway primary
+109 145 1.0 name "West Oak Street" highway tertiary
+111 264 1.0 lanes 4 ref "US 191;MT 84" name "Huffine Lane" highway primary maxspeed "55 mph"
+113 114 1.0 lanes 2 ref "MT 85" name "Jackrabbit Lane" highway primary maxspeed "70 mph"
+113 159 1.0 lanes 4 ref "US 191;MT 84" name "Huffine Lane" highway primary bridge yes
+114 274 1.0 name "East Baxter Lane" highway tertiary
+116 248 1.0 name "Love Lane" highway tertiary maxspeed "45 mph"
+117 133 1.0 name "East Baxter Lane" highway tertiary junction roundabout
+117 148 1.0 name "East Baxter Lane" highway tertiary
+117 150 1.0 name "East Baxter Lane" highway tertiary junction roundabout
+118 144 1.0 name "East Baxter Lane" highway tertiary maxspeed "35 mph"
+118 121 1.0 name "Simmental Way" highway tertiary
+119 164 1.0 name "S 19th Ave" highway secondary maxspeed "60 mph"
+122 250 1.0 name "Durston Road" highway tertiary maxspeed "35 mph"
+122 125 1.0 name "Durston Road" highway tertiary
+122 254 1.0 name "Cottonwood Road" highway tertiary maxspeed "35 mph"
+123 268 1.0 name "Cottonwood Road" highway secondary
+124 194 1.0 highway secondary_link
+124 221 1.0 lanes 2 ref "MT 291" name "Jackrabbit Lane" highway primary
+125 152 1.0 name "Love Lane" highway tertiary maxspeed "45 mph"
+125 159 1.0 name "Love Lane" highway tertiary maxspeed "45 mph"
+126 127 1.0 name "West College Street" highway tertiary
+126 134 1.0 name "South Willson Avenue" highway tertiary lanes 2 maxspeed "25 mph"
+127 128 1.0 name "West College Street" highway tertiary
+128 129 1.0 name "West College Street" highway tertiary
+129 169 1.0 lanes 1 name "West College Street" highway tertiary
+129 166 1.0 lanes 1 name "West College Street" highway tertiary
+130 171 1.0 lanes 1 name "West College Street" highway tertiary
+130 168 1.0 lanes 1 name "West College Street" highway tertiary
+132 216 1.0 lanes 2 name "West Oak Street" highway tertiary maxspeed "35 mph"
+132 213 1.0 lanes 2 name "West Oak Street" highway tertiary maxspeed "35 mph"
+133 151 1.0 name "East Baxter Lane" highway tertiary junction roundabout
+133 149 1.0 name "East Baxter Lane" highway tertiary
+135 161 1.0 lanes 2 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary maxspeed "50 mph"
+135 138 1.0 lanes 1 ref "I 90 Business;US 191" highway motorway_link
+135 139 1.0 name "East Main Street" highway primary maxspeed "50 mph"
+136 160 1.0 lanes 1 name "East Main Street" highway primary maxspeed "50 mph"
+137 140 1.0 lanes 1 name "East Main Street" highway primary maxspeed "50 mph"
+138 139 1.0 highway motorway_link
+139 140 1.0 highway motorway_link
+140 160 1.0 lanes 1 name "East Main Street" highway primary maxspeed "50 mph"
+141 142 1.0 lanes 2 ref "I 90 Business;US 191;MT 84" name "East Main Street" highway primary maxspeed "40 mph"
+143 212 1.0 name "Furguson Avenue" highway tertiary
+143 214 1.0 lanes 2 name "West Oak Street" highway tertiary maxspeed "35 mph"
+143 199 1.0 name "North Ferguson Avenue" highway tertiary maxspeed "35 mph"
+143 251 1.0 lanes 2 name "West Oak Street" highway tertiary maxspeed "35 mph"
+144 153 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "40 mph"
+144 145 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "40 mph"
+146 147 1.0 lanes 1 name "North 19th Avenue" highway secondary maxspeed "40 mph" bridge yes
+146 191 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "40 mph"
+148 150 1.0 name "East Baxter Lane" highway tertiary
+149 273 1.0 name "East Baxter Lane" highway tertiary
+149 151 1.0 name "East Baxter Lane" highway tertiary
+150 209 1.0 name "East Baxter Lane" highway tertiary junction roundabout
+151 209 1.0 name "East Baxter Lane" highway tertiary junction roundabout
+152 280 1.0 name "Love Lane" highway tertiary
+152 279 1.0 name "Love Lane" highway tertiary
+153 191 1.0 lanes 2 name "North 19th Avenue" highway secondary maxspeed "40 mph"
+154 191 1.0 lanes 2 ref "MT 235" name "East Valley Center Road" highway secondary maxspeed "45 mph"
+155 156 1.0 lanes 2 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "35 mph"
+155 157 1.0 lanes 2 ref "US 191;MT 84" name "West Main Street" highway primary maxspeed "35 mph"
+158 176 1.0 lanes 1 highway tertiary_link
+159 266 1.0 lanes 4 ref "US 191;MT 84" name "Huffine Lane" highway primary maxspeed "55 mph"
+160 161 1.0 highway motorway_link
+162 165 1.0 lanes 1 name "South 11th Avenue" highway tertiary
+162 172 1.0 lanes 1 name "South 11th Avenue" highway tertiary
+163 237 1.0 name "South 11th Avenue" highway tertiary
+163 167 1.0 lanes 1 name "South 11th Avenue" highway tertiary
+163 170 1.0 lanes 1 name "South 11th Avenue" highway tertiary
+164 208 1.0 lanes 2 name "West Graf Street" highway tertiary maxspeed "35 mph"
+164 263 1.0 lanes 2 name "West Graf Street" highway tertiary maxspeed "35 mph"
+165 166 1.0 lanes 1 highway tertiary junction roundabout
+165 172 1.0 lanes 1 highway tertiary junction roundabout
+166 169 1.0 lanes 1 highway tertiary junction roundabout
+167 168 1.0 lanes 1 highway tertiary junction roundabout
+167 170 1.0 lanes 1 highway tertiary junction roundabout
+168 171 1.0 lanes 1 highway tertiary junction roundabout
+169 170 1.0 lanes 1 highway tertiary junction roundabout
+171 172 1.0 lanes 1 highway tertiary junction roundabout
+174 210 1.0 lanes 2 name "Davis Lane" highway tertiary
+177 223 1.0 highway secondary junction roundabout
+177 226 1.0 name "Airway Boulevard" highway secondary maxspeed "35 mph"
+177 227 1.0 highway secondary junction roundabout
+178 222 1.0 name "Gallatin Field Road" highway secondary
+178 179 1.0 highway secondary junction roundabout
+178 223 1.0 highway secondary junction roundabout
+179 224 1.0 highway secondary junction roundabout
+179 180 1.0 name "Gallatin Field Road" highway secondary
+180 222 1.0 name "Gallatin Field Road" highway secondary_link
+180 182 1.0 lanes 3 name "Gallatin Field Road" highway secondary
+181 182 1.0 name "Gallatin Field Road" highway secondary_link
+181 182 1.0 name "Gallatin Field Road" highway secondary
+181 222 1.0 lanes 3 name "Gallatin Field Road" highway secondary
+183 188 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph" bridge yes
+183 233 1.0 highway motorway_link
+184 187 1.0 lanes 2 ref "I 90" highway motorway maxspeed "75 mph" bridge yes
+184 236 1.0 highway motorway_link
+185 188 1.0 highway motorway_link
+185 235 1.0 highway secondary junction roundabout
+185 186 1.0 highway secondary junction roundabout
+186 233 1.0 highway secondary junction roundabout
+186 234 1.0 name "Airway Boulevard" highway secondary
+187 235 1.0 highway motorway_link
+189 230 1.0 highway secondary junction roundabout
+189 228 1.0 highway secondary junction roundabout
+189 229 1.0 name "Airway Boulevard" highway secondary
+190 226 1.0 name "Airway Boulevard" highway secondary maxspeed "35 mph"
+190 231 1.0 name "Airway Boulevard" highway secondary maxspeed "35 mph"
+193 250 1.0 name "Cottonwood Road" highway tertiary maxspeed "35 mph"
+193 264 1.0 name "Cottonwood Road" highway tertiary maxspeed "35 mph"
+195 196 1.0 highway tertiary_link
+197 287 1.0 name "Durston Road" highway tertiary
+197 284 1.0 name "Durston Road" highway tertiary
+198 283 1.0 name "North Ferguson Avenue" highway tertiary
+198 286 1.0 name "North Ferguson Avenue" highway tertiary
+199 289 1.0 name "North Ferguson Avenue" highway tertiary
+199 288 1.0 name "North Ferguson Avenue" highway tertiary
+200 255 1.0 name "West Graf Street" highway tertiary
+200 207 1.0 name "West Graf Street" highway tertiary
+200 202 1.0 name "West Graf Street" highway tertiary
+201 204 1.0 name "West Graf Street" highway tertiary
+201 242 1.0 lanes 1 name "West Graf Street" highway tertiary
+201 243 1.0 lanes 1 name "West Graf Street" highway tertiary
+202 207 1.0 name "West Graf Street" highway tertiary junction roundabout
+202 203 1.0 name "West Graf Street" highway tertiary junction roundabout
+203 204 1.0 name "West Graf Street" highway tertiary
+203 205 1.0 name "West Graf Street" highway tertiary junction roundabout
+204 205 1.0 name "West Graf Street" highway tertiary
+205 206 1.0 name "South 11th Avenue" highway tertiary
+205 207 1.0 name "West Graf Street" highway tertiary junction roundabout
+206 238 1.0 name "South 11th Avenue" highway tertiary
+206 207 1.0 name "South 11th Avenue" highway tertiary
+208 240 1.0 lanes 2 name "West Graf Street" highway tertiary maxspeed "35 mph"
+208 241 1.0 lanes 2 name "West Graf Street" highway tertiary maxspeed "35 mph"
+209 212 1.0 name "Furguson Avenue" highway tertiary
+210 211 1.0 name "West Oak Street" highway tertiary junction roundabout
+210 216 1.0 name "West Oak Street" highway tertiary junction roundabout
+211 215 1.0 name "West Oak Street" highway tertiary junction roundabout
+212 253 1.0 lanes 2 name "West Oak Street" highway tertiary maxspeed "35 mph"
+212 215 1.0 lanes 2 name "West Oak Street" highway tertiary maxspeed "35 mph"
+213 216 1.0 name "West Oak Street" highway tertiary junction roundabout
+213 214 1.0 name "West Oak Street" highway tertiary junction roundabout
+214 215 1.0 name "West Oak Street" highway tertiary junction roundabout
+217 218 1.0 lanes 2 ref "MT 85" name "Jackrabbit Lane" highway primary
+218 219 1.0 lanes 2 ref "MT 85" name "Jackrabbit Lane" highway primary
+219 220 1.0 lanes 2 name "Jackrabbit Lane" highway primary bridge yes
+220 221 1.0 lanes 2 ref "MT 291" name "Jackrabbit Lane" highway primary
+222 226 1.0 name "Airway Boulevard" highway secondary maxspeed "35 mph"
+223 226 1.0 name "Airway Boulevard" highway secondary maxspeed "35 mph"
+224 227 1.0 highway secondary junction roundabout
+224 225 1.0 name "Airway Boulevard" highway secondary maxspeed "35 mph"
+225 227 1.0 name "Airway Boulevard" highway secondary maxspeed "35 mph"
+228 229 1.0 name "Airway Boulevard" highway secondary
+228 232 1.0 highway secondary junction roundabout
+229 234 1.0 name "Airway Boulevard" highway secondary
+230 232 1.0 highway secondary junction roundabout
+230 231 1.0 name "Airway Boulevard" highway secondary
+231 232 1.0 name "Airway Boulevard" highway secondary
+233 234 1.0 name "Airway Boulevard" highway secondary
+233 236 1.0 highway secondary junction roundabout
+235 236 1.0 highway secondary junction roundabout
+238 246 1.0 lanes 1 name "South 11th Avenue" highway tertiary
+238 244 1.0 lanes 1 name "South 11th Avenue" highway tertiary
+239 247 1.0 lanes 1 name "South 11th Avenue" highway tertiary
+239 245 1.0 lanes 1 name "South 11th Avenue" highway tertiary
+240 243 1.0 lanes 1 highway tertiary junction roundabout
+240 241 1.0 lanes 1 highway tertiary junction roundabout
+241 242 1.0 lanes 1 highway tertiary junction roundabout
+242 243 1.0 lanes 1 highway tertiary junction roundabout
+244 246 1.0 lanes 1 highway tertiary junction roundabout
+244 247 1.0 lanes 1 highway tertiary junction roundabout
+245 247 1.0 lanes 1 highway tertiary junction roundabout
+245 246 1.0 lanes 1 highway tertiary junction roundabout
+248 275 1.0 name "Love Lane" highway tertiary
+248 282 1.0 name "Love Lane" highway tertiary
+249 250 1.0 name "Durston Road" highway tertiary maxspeed "35 mph"
+249 285 1.0 name "Durston Road" highway tertiary
+249 289 1.0 name "Durston Road" highway tertiary
+250 252 1.0 name "Cottonwood Road" highway tertiary maxspeed "35 mph"
+251 253 1.0 highway tertiary
+251 252 1.0 highway tertiary
+252 254 1.0 highway tertiary
+253 254 1.0 highway tertiary
+255 257 1.0 highway tertiary
+255 258 1.0 highway tertiary
+256 261 1.0 highway tertiary
+256 262 1.0 highway tertiary
+257 262 1.0 highway tertiary junction roundabout
+257 258 1.0 highway tertiary junction roundabout
+258 259 1.0 highway tertiary junction roundabout
+259 260 1.0 highway tertiary junction roundabout
+260 261 1.0 highway tertiary junction roundabout
+261 262 1.0 highway tertiary junction roundabout
+264 266 1.0 lanes 4 ref "US 191;MT 84" name "Huffine Lane" highway primary maxspeed "55 mph"
+264 265 1.0 name "Cottonwood Road" highway secondary
+265 267 1.0 name "Cottonwood Road" highway secondary maxspeed "35 mph"
+265 266 1.0 name "Cottonwood Road" highway secondary maxspeed "35 mph"
+267 269 1.0 name "Cottonwood Road" highway secondary
+267 272 1.0 name "Cottonwood Road" highway secondary
+268 271 1.0 name "Cottonwood Road" highway secondary
+268 270 1.0 name "Cottonwood Road" highway secondary
+269 270 1.0 highway secondary
+269 272 1.0 highway secondary
+270 271 1.0 highway secondary
+271 272 1.0 highway secondary
+273 281 1.0 name "East Baxter Lane" highway tertiary
+273 277 1.0 name "East Baxter Lane" highway tertiary
+274 278 1.0 name "East Baxter Lane" highway tertiary
+274 276 1.0 name "East Baxter Lane" highway tertiary
+275 276 1.0 highway tertiary
+275 282 1.0 highway tertiary
+276 278 1.0 highway tertiary
+277 281 1.0 highway tertiary
+277 280 1.0 highway tertiary
+278 279 1.0 highway tertiary
+279 280 1.0 highway tertiary
+281 282 1.0 highway tertiary
+283 284 1.0 highway tertiary
+283 286 1.0 highway tertiary
+284 287 1.0 highway tertiary
+285 286 1.0 highway tertiary
+285 289 1.0 highway tertiary
+287 288 1.0 highway tertiary
+288 289 1.0 highway tertiary

@@ -1,0 +1,207 @@
+*vertices 75
+1 0 -111.0831752 45.6783563 ellipse
+2 1 -111.06340872524088 45.67881084203073 ellipse osmid_original "[40867395, 40772885, 40928680, 319798456, 40867667, 319798186, 40867694, 40928684, 319798173]"
+3 2 -111.0834044 45.6711327 ellipse
+4 3 -111.0936763 45.678411999999994 ellipse
+5 5 -111.0764714 45.671651700000005 ellipse highway traffic_signals
+6 31 -111.04871702015595 45.68175250029882 ellipse osmid_original "[40928668, 40954609, 40867622, 40867624, 40928656, 5391572678, 40867630, 40928642, 40928659, 40930454, 40930468, 40954758, 40954610, 40954618]"
+7 56 -111.06196544999767 45.68579745003693 ellipse osmid_original "[40945905, 40945849]"
+8 48 -111.062711 45.67110600000001 ellipse highway traffic_signals
+9 4 -111.0827068 45.6674978 ellipse
+10 6 -111.0937949 45.6712283 ellipse
+11 51 -111.09351787935469 45.685696363361245 ellipse osmid_original "[4052257768, 4052257767, 4052257784, 9033431560, 9033431548, 9033431579, 7264234663, 9033431552, 9033431549, 9033431553, 9033431561]"
+12 52 -111.104122999998 45.67847130005011 ellipse osmid_original "[3903493584, 40867592]"
+13 53 -111.1042100000007 45.67124950003466 ellipse osmid_original "[8518704637, 8518704579]"
+14 7 -111.1706092 45.7824468 ellipse highway stop
+15 8 -111.17713020000001 45.7762073 ellipse highway stop
+16 36 -111.16256099905353 45.76381037852394 ellipse osmid_original "[3658391717, 5371438024, 3658391665, 5371438037, 3658391672, 3658391691, 5371438016, 5371438017, 5371438008, 5371438009, 5371438025, 5371438018, 5371438038]"
+17 37 -111.1849281010377 45.780117582635874 ellipse osmid_original "[3908915749, 40928562, 3908915750, 3908915755, 41092000]"
+18 20 -111.1850042 45.772946600000004 ellipse highway traffic_signals
+19 9 -111.06584989089382 45.715218218606985 ellipse osmid_original "[40664632, 317609543, 40700549, 40695184, 40695304, 40779262, 317609542, 319236443, 40828789, 40700523, 40809056, 40945712, 3878292665, 40834886, 319236425, 3857586362]"
+20 23 -111.1550826 45.7578533 ellipse highway motorway_junction ref 299
+21 14 -111.04626252407776 45.69665782669375 ellipse osmid_original "[40711114, 40701966, 40701985, 40702017, 40954724, 40701988, 40711088, 40711047, 40711085, 40793815, 40954633, 40954731]"
+22 21 -111.082218 45.77662900000001 ellipse
+23 24 -111.0821304 45.7249003 ellipse
+24 57 -111.06367805195201 45.70028582845026 ellipse osmid_original "[40945755, 317609007, 41031280]"
+25 33 -111.046179 45.70477700000001 ellipse
+26 26 -111.09036080826031 45.72978625179868 ellipse osmid_original "[40948765, 40944240]"
+27 10 -111.1966055489486 45.77261560674632 ellipse osmid_original "[40668021, 2809319170]"
+28 11 -111.18080877593864 45.766278099699335 ellipse osmid_original "[5343905260, 40694576, 40694659, 40694689, 5343905265, 40709668, 40733372, 40733339, 3658391678, 40782646, 5331797532, 3658391686, 5343905261]"
+29 72 -111.1578942 45.75861 ellipse
+30 60 -111.185046 45.72926429999998 ellipse highway traffic_signals
+31 12 -111.1995114 45.777303999999994 ellipse highway motorway_junction ref 298
+32 13 -111.01171789250826 45.67627476847133 ellipse osmid_original "[40669274, 40815553, 40710084, 40710098, 40778870, 40710140, 1137836329, 314954145, 40719225, 314953694, 40734073, 40761520, 314953707, 40815539, 314953057, 314954147, 40948609, 314952725, 1137836325, 314953389, 314953708]"
+33 18 -111.02409943275818 45.656810943404544 ellipse osmid_original "[40684684, 40766132, 40870211]"
+34 19 -111.000899 45.656467 ellipse
+35 29 -111.02895658802454 45.679303248882334 ellipse osmid_original "[40766368, 40766370, 41042991, 40793930, 40815606, 40839659, 40815595]"
+36 32 -111.030878 45.699987 ellipse highway traffic_signals
+37 55 -111.0315144 45.691490699999996 ellipse highway traffic_signals
+38 58 -111.06246780000512 45.69314130002609 ellipse osmid_original "[40945799, 317609265]"
+39 15 -111.197007 45.58378 ellipse
+40 16 -111.104443 45.591109 ellipse
+41 17 -111.19707 45.59128299999999 ellipse
+42 38 -111.06266500000001 45.605630999999995 ellipse
+43 68 -111.10408079372698 45.656435036600776 ellipse osmid_original "[8518776689, 8518776687, 8518776720, 8518776731, 8518776727, 8518776734]"
+44 35 -111.1856125 45.6711201 ellipse highway traffic_signals
+45 30 -111.0425645624828 45.66042119395462 ellipse osmid_original "[40849952, 40849954, 313871241, 40850037, 40849969, 405093957, 2843194096]"
+46 42 -111.02162800000002 45.634719 ellipse
+47 22 -111.1505272 45.7624765 ellipse
+48 25 -111.0826870000009 45.70022320005781 ellipse osmid_original "[40764717, 2809395633]"
+49 27 -111.08301008660145 45.69297975014645 ellipse osmid_original "[5324451349, 5324451364, 5324451355, 5324451348, 5324451359, 5324451354]"
+50 28 -111.09299117750834 45.70019561693548 ellipse osmid_original "[317659060, 41031221, 313869747, 317659224, 317659120, 317659182, 5324451331]"
+51 61 -111.144666 45.729265999999996 ellipse
+52 69 -111.09332080000273 45.692960150000495 ellipse osmid_original "[317066887, 5324451353]"
+53 59 -111.0707703 45.6929905 ellipse
+54 64 -111.14498808634644 45.70018187328808 ellipse osmid_original "[8519271564, 7262676585, 317884237, 8519271560, 8519271577, 8519271566, 8519271580, 8519271573, 8519271567, 8519271569, 8519271574, 8519271581]"
+55 34 -111.03874089993681 45.67878235002297 ellipse osmid_original "[40928635, 40867601]"
+56 43 -111.031716 45.685561 ellipse
+57 54 -111.0388624 45.6712309 ellipse
+58 44 -111.0520733 45.66028359999999 ellipse highway traffic_signals
+59 46 -111.0490498718836 45.65052198869416 ellipse osmid_original "[5952667393, 40851035, 40851246, 8207979451, 8207979462, 4214582571, 8207979450, 5158050627, 5158050621, 5158049316, 5158049320, 5158050623, 5158050624, 5952667183, 6765385282, 6765385283, 6765385262, 6765385274, 8207979453, 8207979467, 8207979472, 8207979457, 8207979465]"
+60 45 -111.05060674210982 45.671129161255784 ellipse osmid_original "[1422150797, 41115631, 41115644, 41115628, 41115640, 2754732130, 2754732137, 2754732109, 1422150831, 2754732119, 2754732113, 2754732122, 2754732132, 2754732139]"
+61 62 -111.1852799 45.700121 ellipse highway traffic_signals
+62 63 -111.145069 45.6710783 ellipse highway traffic_signals
+63 71 -111.16198291649037 45.774005689871196 ellipse osmid_original "[3390371506, 5371437953, 5371437970, 3390371515, 5371437945, 3390371521, 5371437960, 3390371538, 3390371540, 3390371543, 5371437975, 5371437961]"
+64 39 -111.052426 45.60563899999999 ellipse
+65 40 -111.0625952 45.634597 ellipse
+66 41 -111.05037750127558 45.63477751744488 ellipse osmid_original "[40857755, 40851131]"
+67 49 -111.06117584230064 45.649374386151464 ellipse osmid_original "[1513123889, 5158050647, 5158049312, 6765385195, 6765380582, 6765385201, 6765385189]"
+68 47 -111.062859 45.660191 ellipse highway traffic_signals
+69 50 -111.0357741 45.6446006 ellipse
+70 70 -111.0781057 45.64926340000001 ellipse
+71 66 -111.1039010499987 45.68578620004124 ellipse osmid_original "[41078221, 8144844860]"
+72 74 -111.1042115 45.66413180000001 ellipse
+73 65 -111.061907 45.707581600000005 ellipse
+74 67 -111.1452878 45.68563699999999 ellipse
+75 73 -111.10354138091262 45.69289143671103 ellipse osmid_original "[8144844884, 8144844881, 8144844873, 8144844903]"
+*edges
+1 2 1.0 name "West Babcock Street" highway tertiary
+1 3 1.0 name "Fowler Avenue" highway tertiary
+1 4 1.0 name "West Babcock Street" highway tertiary
+2 5 1.0 name "West Main Street" highway primary lanes 4 ref "US 191;MT 84"
+2 6 1.0 name "West Main Street" highway primary lanes 4 ref "US 191;MT 84"
+2 6 1.0 name "West Babcock Street" highway tertiary
+2 7 1.0 name "North 19th Avenue" highway secondary lanes 2 maxspeed "25 mph"
+2 8 1.0 name "South 19th Avenue" highway secondary maxspeed "35 mph"
+3 9 1.0 name "Fowler Avenue" highway tertiary
+3 5 1.0 name "Huffine Lane" highway primary lanes 4 ref "US 191;MT 84"
+3 10 1.0 name "Huffine Lane" highway primary lanes 4 ref "US 191;MT 84" maxspeed "45 mph"
+4 11 1.0 name "North Ferguson Avenue" highway tertiary maxspeed "35 mph"
+4 10 1.0 name "South Ferguson Avenue" highway tertiary maxspeed "35 mph"
+4 12 1.0 name "West Babcock Street" highway tertiary
+5 8 1.0 name "West College Street" highway tertiary
+6 55 1.0 name "West Main Street" highway primary lanes 4 ref "I 90 Business;US 191;MT 84" maxspeed "25 mph"
+6 55 1.0 name "West Main Street" highway primary lanes 4 ref "I 90 Business;US 191;MT 84" maxspeed "25 mph"
+6 60 1.0 name "South 8th Avenue" highway tertiary
+6 60 1.0 name "South 11th Avenue" highway tertiary
+6 7 1.0 name "Durston Road" highway tertiary lanes 3 maxspeed "30 mph"
+6 56 1.0 highway tertiary
+6 21 1.0 name "North 7th Avenue" highway primary ref "I 90 Business"
+6 35 1.0 highway tertiary lanes 2 maxspeed "25 mph"
+7 38 1.0 name "North 19th Avenue" highway secondary lanes 2
+7 11 1.0 name "Durston Road" highway tertiary maxspeed "35 mph"
+8 68 1.0 name "South 19th Avenue" highway secondary maxspeed "45 mph"
+8 60 1.0 name "West College Street" highway tertiary
+10 13 1.0 name "Huffine Lane" highway primary lanes 4 ref "US 191;MT 84" maxspeed "55 mph"
+11 52 1.0 name "North Ferguson Avenue" highway tertiary maxspeed "35 mph"
+11 71 1.0 name "Durston Road" highway tertiary maxspeed "35 mph"
+12 71 1.0 name "Cottonwood Road" highway tertiary maxspeed "35 mph"
+12 13 1.0 name "Cottonwood Road" highway tertiary maxspeed "35 mph"
+13 62 1.0 name "Huffine Lane" highway primary lanes 4 ref "US 191;MT 84" maxspeed "55 mph"
+13 72 1.0 name "Cottonwood Road" highway secondary maxspeed "35 mph"
+14 15 1.0 name "North Broadway" highway tertiary
+15 16 1.0 highway secondary lanes 2 ref "MT 205"
+15 17 1.0 name "West Main Street" highway secondary lanes 2 ref "MT 205" maxspeed "25 mph"
+15 18 1.0 highway tertiary maxspeed "25 mph"
+16 47 1.0 name "Frontage Road" highway secondary lanes 2 ref "MT 205"
+16 63 1.0 name "Airway Boulevard" highway secondary maxspeed "35 mph"
+16 28 1.0 highway motorway_link
+16 29 1.0 highway motorway_link
+16 20 1.0 highway motorway_link
+17 18 1.0 name "Jackrabbit Lane" highway primary lanes 2 ref "MT 291"
+18 28 1.0 name "Jackrabbit Lane" highway primary lanes 2 ref "MT 291"
+19 20 1.0 highway motorway lanes 2 ref "I 90" maxspeed "75 mph" bridge yes
+19 21 1.0 highway motorway lanes 2 ref "I 90" maxspeed "75 mph"
+19 22 1.0 name "Springhill Road" highway tertiary bridge yes
+19 23 1.0 name "East Valley Center Road" highway secondary ref "MT 235" maxspeed "60 mph"
+19 24 1.0 name "North 19th Avenue" highway secondary lanes 2 maxspeed "40 mph"
+19 25 1.0 name "Frontage Road" highway secondary bridge yes
+19 26 1.0 name "Frontage Road" highway secondary lanes 2 ref "MT 205" maxspeed "50 mph"
+19 29 1.0 highway motorway lanes 2 ref "I 90" maxspeed "75 mph" bridge yes
+20 28 1.0 highway motorway lanes 2 ref "I 90" maxspeed "75 mph" bridge yes
+21 32 1.0 highway motorway lanes 2 ref "I 90" maxspeed "75 mph" bridge yes
+21 24 1.0 name "East Baxter Lane" highway tertiary maxspeed "35 mph"
+21 36 1.0 highway tertiary
+21 25 1.0 name "North 7th Avenue" highway secondary
+21 37 1.0 highway tertiary
+21 38 1.0 name "West Oak Street" highway tertiary
+22 47 1.0 highway tertiary bridge yes
+23 48 1.0 name "Davis Lane" highway tertiary
+23 26 1.0 name "East Valley Center Road" highway secondary ref "MT 235" maxspeed "60 mph"
+24 48 1.0 name "East Baxter Lane" highway tertiary maxspeed "40 mph"
+24 38 1.0 name "North 19th Avenue" highway secondary lanes 2 maxspeed "40 mph"
+24 73 1.0 name "Simmental Way" highway tertiary
+26 51 1.0 name "East Valley Center Road" highway secondary ref "MT 235" maxspeed "45 mph"
+26 47 1.0 name "Frontage Road" highway secondary lanes 2 ref "MT 205" maxspeed "50 mph"
+27 28 1.0 name "Amsterdam Road" highway primary
+27 28 1.0 highway motorway lanes 2 ref "I 90" maxspeed "75 mph"
+27 31 1.0 highway motorway_link
+27 31 1.0 highway motorway lanes 2 ref "I 90" maxspeed "75 mph"
+28 29 1.0 highway motorway lanes 2 ref "I 90" maxspeed "75 mph" bridge yes
+28 30 1.0 name "Jackrabbit Lane" highway primary ref "MT 85" maxspeed "70 mph"
+30 51 1.0 name "East Valley Center Road" highway secondary ref "MT 235" bridge yes
+30 61 1.0 name "Jackrabbit Lane" highway primary lanes 2 ref "MT 85" maxspeed "70 mph"
+32 33 1.0 name "Highland Boulevard" highway tertiary
+32 34 1.0 highway tertiary
+32 35 1.0 name "East Main Street" highway primary lanes 2 ref "I 90 Business;US 191;MT 84"
+33 34 1.0 name "Kagy Boulevard" highway tertiary lanes 2
+33 35 1.0 highway tertiary maxspeed "25 mph" bridge yes
+33 45 1.0 highway tertiary maxspeed "35 mph"
+33 46 1.0 name "Sourdough Road" highway tertiary
+35 55 1.0 highway primary lanes 4 ref "I 90 Business;US 191;MT 84" maxspeed "25 mph"
+35 55 1.0 highway tertiary lanes 2 maxspeed "25 mph"
+35 56 1.0 name "North Rouse Avenue" highway secondary lanes 3 ref "MT 86"
+36 37 1.0 highway secondary lanes 3 ref "MT 86"
+37 56 1.0 name "North Rouse Avenue" highway secondary lanes 3 ref "MT 86"
+38 53 1.0 name "West Oak Street" highway tertiary lanes 0
+39 40 1.0 name "Cottonwood Road" highway tertiary
+39 41 1.0 name "Gallatin Road" highway primary lanes 2 ref "US 191" maxspeed "55 mph"
+40 42 1.0 name "S 19th Ave" highway secondary maxspeed "60 mph" bridge yes
+40 43 1.0 name "Cottonwood Road" highway secondary
+41 44 1.0 name "Gallatin Road" highway primary lanes 2 ref "US 191" maxspeed "55 mph" bridge yes
+42 64 1.0 name "Nash Road" highway tertiary maxspeed "35 mph"
+42 65 1.0 name "S 19th Ave" highway secondary maxspeed "60 mph"
+43 72 1.0 name "Cottonwood Road" highway secondary maxspeed "35 mph"
+44 61 1.0 name "Jackrabbit Lane" highway primary lanes 2 ref "MT 85" maxspeed "70 mph"
+44 62 1.0 name "Huffine Lane" highway primary lanes 4 ref "US 191;MT 84" bridge yes
+45 57 1.0 name "South Willson Avenue" highway tertiary lanes 2 maxspeed "25 mph"
+45 58 1.0 name "West Kagy Boulevard" highway tertiary
+45 59 1.0 name "South 3rd Avenue" highway tertiary
+46 64 1.0 highway tertiary maxspeed "35 mph"
+46 66 1.0 name "Goldenstein Lane" highway tertiary bridge yes
+48 49 1.0 name "Davis Lane" highway tertiary lanes 2
+48 50 1.0 name "East Baxter Lane" highway tertiary
+49 52 1.0 name "West Oak Street" highway tertiary lanes 2 maxspeed "35 mph"
+49 53 1.0 name "West Oak Street" highway tertiary lanes 2 maxspeed "35 mph"
+50 54 1.0 name "East Baxter Lane" highway tertiary
+50 52 1.0 name "Furguson Avenue" highway tertiary
+51 54 1.0 name "Love Lane" highway tertiary maxspeed "45 mph"
+52 75 1.0 name "West Oak Street" highway tertiary lanes 2 maxspeed "35 mph"
+54 61 1.0 name "East Baxter Lane" highway tertiary
+54 74 1.0 name "Love Lane" highway tertiary maxspeed "45 mph"
+55 57 1.0 name "South Willson Avenue" highway tertiary
+57 60 1.0 name "West College Street" highway tertiary
+58 60 1.0 name "South 11th Avenue" highway tertiary
+58 59 1.0 name "South 11th Avenue" highway tertiary
+58 68 1.0 name "West Kagy Boulevard" highway tertiary
+59 69 1.0 name "Graf Street" highway tertiary
+59 66 1.0 name "South 3rd Avenue" highway tertiary lanes 2
+59 67 1.0 name "West Graf Street" highway tertiary
+62 74 1.0 name "Love Lane" highway tertiary maxspeed "45 mph"
+64 66 1.0 name "South 3rd Road" highway tertiary maxspeed "50 mph"
+65 66 1.0 name "Goldenstein Lane" highway tertiary
+65 67 1.0 name "S 19th Ave" highway secondary maxspeed "60 mph"
+67 70 1.0 name "West Graf Street" highway tertiary lanes 2 maxspeed "35 mph"
+67 68 1.0 highway secondary
+71 74 1.0 name "Durston Road" highway tertiary
+71 75 1.0 name "Cottonwood Road" highway tertiary maxspeed "35 mph"
