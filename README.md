@@ -35,7 +35,7 @@ dataset/
 
 ## How to use the dataset
 ```bash
-cd multi_trip_multi_depot_RRP_instances/src
+cd multi_trip_multi_depot_RPP_instances/src
 python main.py
 ```
 
